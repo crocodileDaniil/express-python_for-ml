@@ -1,0 +1,39 @@
+!!!пришлось сменить файл для сдачи, т.к. python -m venv venv не работает,
+    т.к. одинаковое имя вызывает конфликт: первое venv скрпит для запуска и 
+    python думает, что запускается локальный
+windows:
+    1) python -m venv venv - создание
+    2) venv\Scripts\activate - активация
+    3) deactivate - деактивация
+
+    *) pip freeze - показывает установленные пакеты
+    *) pip install -U <name> - обновление какого-то модуля до последней версии
+       pip install -U pip setuptools
+    *) pip uninstall <name> -y - удаление (-y флаг)
+    *) pip freeze > requirements.txt - создание файла зависимостей
+    *) pip install -r requirements.txt
+
+linux:
+    1) python3 -m venv venv - создание
+    2) source venv/bin/activate - активация (должно появится имя активации)
+    3) deactivate - деактивация
+
+    *) pip freeze - показывает установленные пакеты
+    *) pip install -U <name> - обновление какого-то модуля до последней версии
+       pip install -U pip setuptools
+    *) pip uninstall <name> -y - удаление (-y флаг)
+    *) pip freeze > requirements.txt - создание файла зависимостей
+    *) pip install -r requirements.txt
+
+
+по заданию проверящему:
+* create a virtual environment with your nickname as its name using Python 3 (you
+will work with this env here and further on),
+* activate it,
+* run Python 3 from the terminal,
+* print the virtual env name using os library,
+
+- venv\Scripts\activate    or     source venv/bin/activate
+- python  or python3
+- import os
+- os.environ.get('VIRTUAL_ENV')

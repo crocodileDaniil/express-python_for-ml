@@ -1,0 +1,15 @@
+Wed Jul  2 01:43:09 2025    output.prof
+
+         2608646 function calls (2566459 primitive calls) in 40.813 seconds
+
+   Ordered by: cumulative time
+   List reduced from 3152 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    317/1    0.002    0.000   40.827   40.827 {built-in method builtins.exec}
+        1    0.000    0.000   40.827   40.827 financial_enhanced.py:1(<module>)
+        1    0.000    0.000   40.478   40.478 financial_enhanced.py:139(execute_the_program)
+        1    0.000    0.000   40.478   40.478 financial_enhanced.py:99(request_with_js)
+        1    0.000    0.000   39.038   39.038 /media/daniilk/tom_linux/projects_sc21/ds_bootcamp/DS_Bootcamp.Day03.ID_886513-1/src/ex04/venv/lib/python3.12/site-packages/requests_html.py:541(render)
+
+

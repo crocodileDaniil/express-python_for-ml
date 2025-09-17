@@ -1,0 +1,12 @@
+Если проблема со скачиванием csv файлов
+
+sudo apt-get install git-lfs
+
+- инициализация в репозитории: git lfs install
+- скачать: git lfs pull
+
+
+если первый клон 
+git clone <URL-репозитория>
+cd <папка-репозитория>
+git lfs pull

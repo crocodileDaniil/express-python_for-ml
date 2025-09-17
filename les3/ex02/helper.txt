@@ -1,0 +1,17 @@
+"You're trying to run a very old release of Beautiful Soup under Python 3. This will not work."<>"Please use Beautiful Soup 4, available through the pip package 'beautifulsoup4'."
+это означает, что данная версия Python не поддерживает данную библотеку, поэтому нужно заменить BeautifulSoup PyTest на beautifulsoup4 PyTest
+
+либо улучшенный контроль через subprocess:
+
+try:
+    subprocess.check_call(['pip', 'install', lib])
+except subprocess.CalledProcessError as e:
+    print(f"Ошибка при установке {lib}: {e}")
+
+    # Автоматическая замена BeautifulSoup → beautifulsoup4
+    if lib.lower() == "beautifulsoup":
+        print("Заменяем на beautifulsoup4...")
+        try:
+            subprocess.check_call(['pip', 'install', 'beautifulsoup4'])
+        except subprocess.CalledProcessError as e2:
+            print(f"Ошибка при установке beautifulsoup4: {e2}")

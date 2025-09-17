@@ -1,0 +1,8002 @@
+{
+  "0114709": {
+    "movieid": "0114709",
+    "director": "John Lasseter",
+    "budget": "30,000,000",
+    "gross": "394,436,586",
+    "runtime": "1:21",
+    "name": "История игрушек"
+  },
+  "0113497": {
+    "movieid": "0113497",
+    "director": "Joe Johnston",
+    "budget": "65,000,000",
+    "gross": "262,821,940",
+    "runtime": "1:44",
+    "name": "Джуманджи"
+  },
+  "0113228": {
+    "movieid": "0113228",
+    "director": "Howard Deutch",
+    "budget": "25,000,000",
+    "gross": "71,518,503",
+    "runtime": "1:41",
+    "name": "Старые ворчуны разбушевались"
+  },
+  "0113229": {
+    "movieid": "0113228",
+    "director": "Quentin Tarantino",
+    "budget": "$8,000,000",
+    "gross": "$200,000,000",
+    "runtime": "2:30",
+    "name": "Pulp"
+  },
+  "0114885": {
+    "movieid": "0114885",
+    "director": "Forest Whitaker",
+    "budget": "16,000,000",
+    "gross": "81,452,156",
+    "runtime": "2:04",
+    "name": "В ожидании выдоха"
+  },
+  "0113041": {
+    "movieid": "0113041",
+    "director": "Charles Shyer",
+    "budget": "30,000,000",
+    "gross": "76,594,107",
+    "runtime": "1:46",
+    "name": "Отец невесты 2"
+  },
+  "0113277": {
+    "movieid": "0113277",
+    "director": "Michael Mann",
+    "budget": "60,000,000",
+    "gross": "187,436,818",
+    "runtime": "2:50",
+    "name": "Схватка"
+  },
+  "0114319": {
+    "movieid": "0114319",
+    "director": "Sydney Pollack",
+    "budget": "58,000,000",
+    "gross": "53,696,959",
+    "runtime": "2:07",
+    "name": "Сабрина"
+  },
+  "0112302": {
+    "movieid": "0112302",
+    "director": "Peter Hewitt",
+    "budget": "N/A",
+    "gross": "23,920,048",
+    "runtime": "1:37",
+    "name": "Приключения Тома Сойера"
+  },
+  "0114576": {
+    "movieid": "0114576",
+    "director": "Peter Hyams",
+    "budget": "35,000,000",
+    "gross": "64,350,171",
+    "runtime": "1:51",
+    "name": "Внeзапная смерть"
+  },
+  "0113189": {
+    "movieid": "0113189",
+    "director": "Martin Campbell",
+    "budget": "60,000,000",
+    "gross": "352,194,034",
+    "runtime": "2:10",
+    "name": "Золотой глаз"
+  },
+  "0112346": {
+    "movieid": "0112346",
+    "director": "Rob Reiner",
+    "budget": "62,000,000",
+    "gross": "107,879,496",
+    "runtime": "1:54",
+    "name": "Американский президент"
+  },
+  "0112896": {
+    "movieid": "0112896",
+    "director": "Mel Brooks",
+    "budget": "30,000,000",
+    "gross": "10,772,144",
+    "runtime": "1:28",
+    "name": "Дракула: Мёртвый и довольный"
+  },
+  "0112453": {
+    "movieid": "0112453",
+    "director": "Simon Wells",
+    "budget": "N/A",
+    "gross": "11,349,090",
+    "runtime": "1:18",
+    "name": "Балто"
+  },
+  "0113987": {
+    "movieid": "0113987",
+    "director": "Oliver Stone",
+    "budget": "44,000,000",
+    "gross": "13,681,765",
+    "runtime": "3:12",
+    "name": "Никсон"
+  },
+  "0112760": {
+    "movieid": "0112760",
+    "director": "Renny Harlin",
+    "budget": "98,000,000",
+    "gross": "10,017,322",
+    "runtime": "2:04",
+    "name": "Остров головорезов"
+  },
+  "0112641": {
+    "movieid": "0112641",
+    "director": "Martin Scorsese",
+    "budget": "52,000,000",
+    "gross": "116,112,375",
+    "runtime": "2:58",
+    "name": "Казино"
+  },
+  "0114388": {
+    "movieid": "0114388",
+    "director": "Ang Lee",
+    "budget": "16,000,000",
+    "gross": "134,582,776",
+    "runtime": "2:16",
+    "name": "Разум и чувства"
+  },
+  "0113101": {
+    "movieid": "0113101",
+    "director": "N/A",
+    "budget": "4,000,000",
+    "gross": "4,257,354",
+    "runtime": "1:38",
+    "name": "Четыре комнаты"
+  },
+  "0112281": {
+    "movieid": "0112281",
+    "director": "Steve Oedekerk",
+    "budget": "30,000,000",
+    "gross": "212,385,533",
+    "runtime": "1:30",
+    "name": "Эйс Вентура 2: Когда зовёт природа"
+  },
+  "0113845": {
+    "movieid": "0113845",
+    "director": "Joseph Ruben",
+    "budget": "68,000,000",
+    "gross": "35,431,113",
+    "runtime": "1:50",
+    "name": "Денежный поезд"
+  },
+  "0113161": {
+    "movieid": "0113161",
+    "director": "Barry Sonnenfeld",
+    "budget": "30,250,000",
+    "gross": "115,101,622",
+    "runtime": "1:45",
+    "name": "Достать коротышку"
+  },
+  "0112722": {
+    "movieid": "0112722",
+    "director": "Jon Amiel",
+    "budget": "20,000,000",
+    "gross": "32,051,917",
+    "runtime": "2:03",
+    "name": "Имитатор"
+  },
+  "0112401": {
+    "movieid": "0112401",
+    "director": "Richard Donner",
+    "budget": "50,000,000",
+    "gross": "30,303,072",
+    "runtime": "2:13",
+    "name": "Наемные убийцы"
+  },
+  "0114168": {
+    "movieid": "0114168",
+    "director": "Victor Salva",
+    "budget": "9,500,000",
+    "gross": "30,862,156",
+    "runtime": "1:51",
+    "name": "Пудра"
+  },
+  "0113627": {
+    "movieid": "0113627",
+    "director": "Mike Figgis",
+    "budget": "3,600,000",
+    "gross": "32,029,928",
+    "runtime": "1:51",
+    "name": "Покидая Лас-Вегас"
+  },
+  "0114057": {
+    "movieid": "0114057",
+    "director": "Oliver Parker",
+    "budget": "11,000,000",
+    "gross": "2,844,379",
+    "runtime": "2:03",
+    "name": "Отелло"
+  },
+  "0114011": {
+    "movieid": "0114011",
+    "director": "Lesli Linka Glatter",
+    "budget": "N/A",
+    "gross": "37,591,674",
+    "runtime": "1:42",
+    "name": "Сейчас и тогда"
+  },
+  "0114117": {
+    "movieid": "0114117",
+    "director": "Roger Michell",
+    "budget": "1,000,000",
+    "gross": "5,269,757",
+    "runtime": "1:43",
+    "name": "Доводы рассудка"
+  },
+  "0112682": {
+    "movieid": "0112682",
+    "director": "Marc CaroJean-Pierre Jeunet",
+    "budget": "18,000,000",
+    "gross": "1,784,338",
+    "runtime": "1:52",
+    "name": "Город потерянных детей"
+  },
+  "0115012": {
+    "movieid": "0115012",
+    "director": "Yimou Zhang",
+    "budget": "N/A",
+    "gross": "2,086,101",
+    "runtime": "1:48",
+    "name": "Шанхайская триада"
+  },
+  "0112792": {
+    "movieid": "0112792",
+    "director": "John N. Smith",
+    "budget": "23,000,000",
+    "gross": "179,519,401",
+    "runtime": "1:39",
+    "name": "Опасные умы"
+  },
+  "0114746": {
+    "movieid": "0114746",
+    "director": "Terry Gilliam",
+    "budget": "29,000,000",
+    "gross": "168,839,459",
+    "runtime": "2:09",
+    "name": "12 обезьян"
+  },
+  "0112431": {
+    "movieid": "0112431",
+    "director": "Chris Noonan",
+    "budget": "30,000,000",
+    "gross": "254,134,910",
+    "runtime": "1:31",
+    "name": "Бэйб: Четвероногий малыш"
+  },
+  "0112818": {
+    "movieid": "0112818",
+    "director": "Tim Robbins",
+    "budget": "11,000,000",
+    "gross": "39,363,635",
+    "runtime": "2:02",
+    "name": "Мертвец идет"
+  },
+  "0113442": {
+    "movieid": "0113442",
+    "director": "Andy Tennant",
+    "budget": "N/A",
+    "gross": "19,474,589",
+    "runtime": "1:41",
+    "name": "Двое: Я и моя тень"
+  },
+  "0112697": {
+    "movieid": "0112697",
+    "director": "Amy Heckerling",
+    "budget": "12,000,000",
+    "gross": "56,753,362",
+    "runtime": "1:37",
+    "name": "Бестолковые"
+  },
+  "0112749": {
+    "movieid": "0112749",
+    "director": "Darrell Roodt",
+    "budget": "N/A",
+    "gross": "670,727",
+    "runtime": "1:46",
+    "name": "Два цвета времени"
+  },
+  "0114279": {
+    "movieid": "0114279",
+    "director": "Richard Loncraine",
+    "budget": "6,000,000",
+    "gross": "2,748,518",
+    "runtime": "1:44",
+    "name": "Ричард III"
+  },
+  "0112819": {
+    "movieid": "0112819",
+    "director": "Albert HughesAllen Hughes",
+    "budget": "10,000,000",
+    "gross": "24,147,179",
+    "runtime": "1:59",
+    "name": "Мертвые президенты"
+  },
+  "0114272": {
+    "movieid": "0114272",
+    "director": "Michael Hoffman",
+    "budget": "19,000,000",
+    "gross": "4,005,941",
+    "runtime": "1:57",
+    "name": "Королевская милость"
+  },
+  "0113855": {
+    "movieid": "0113855",
+    "director": "Paul W.S. Anderson",
+    "budget": "18,000,000",
+    "gross": "122,195,920",
+    "runtime": "1:41",
+    "name": "Смертельная битва"
+  },
+  "0114681": {
+    "movieid": "0114681",
+    "director": "Gus Van Sant",
+    "budget": "20,000,000",
+    "gross": "21,287,694",
+    "runtime": "1:46",
+    "name": "Умереть во имя"
+  },
+  "0113347": {
+    "movieid": "0113347",
+    "director": "Jocelyn Moorhouse",
+    "budget": "10,000,000",
+    "gross": "41,200,020",
+    "runtime": "1:57",
+    "name": "Лоскутное одеяло"
+  },
+  "0114369": {
+    "movieid": "0114369",
+    "director": "David Fincher",
+    "budget": "33,000,000",
+    "gross": "328,983,304",
+    "runtime": "2:07",
+    "name": "Семь"
+  },
+  "0114148": {
+    "movieid": "0114148",
+    "director": "Mike GabrielEric Goldberg",
+    "budget": "55,000,000",
+    "gross": "346,079,773",
+    "runtime": "1:21",
+    "name": "Покахонтас"
+  },
+  "0114916": {
+    "movieid": "0114916",
+    "director": "Patricia Rozema",
+    "budget": "N/A",
+    "gross": "919,671",
+    "runtime": "1:34",
+    "name": "Когда наступает ночь"
+  },
+  "0114814": {
+    "movieid": "0114814",
+    "director": "Bryan Singer",
+    "budget": "6,000,000",
+    "gross": "23,341,568",
+    "runtime": "1:46",
+    "name": "Подозрительные лица"
+  },
+  "0113819": {
+    "movieid": "0113819",
+    "director": "Woody Allen",
+    "budget": "15,000,000",
+    "gross": "6,468,498",
+    "runtime": "1:35",
+    "name": "Великая Афродита"
+  },
+  "0110299": {
+    "movieid": "0110299",
+    "director": "Gianni Amelio",
+    "budget": "N/A",
+    "gross": "4,788,331",
+    "runtime": "1:56",
+    "name": "Америка"
+  },
+  "0112499": {
+    "movieid": "0112499",
+    "director": "Holly Goldberg Sloan",
+    "budget": "12,000,000",
+    "gross": "17,736,619",
+    "runtime": "1:40",
+    "name": "Азбука футбола"
+  },
+  "0113158": {
+    "movieid": "0113158",
+    "director": "Ulu Grosbard",
+    "budget": "N/A",
+    "gross": "1,110,104",
+    "runtime": "1:55",
+    "name": "Джорджия"
+  },
+  "0113321": {
+    "movieid": "0113321",
+    "director": "Jodie Foster",
+    "budget": "20,000,000",
+    "gross": "17,519,169",
+    "runtime": "1:43",
+    "name": "Домой на праздники"
+  },
+  "0110877": {
+    "movieid": "0110877",
+    "director": "Michael Radford",
+    "budget": "3,000,000",
+    "gross": "21,901,256",
+    "runtime": "1:48",
+    "name": "Почтальон"
+  },
+  "0113419": {
+    "movieid": "0113419",
+    "director": "Frank Oz",
+    "budget": "45,000,000",
+    "gross": "35,656,131",
+    "runtime": "1:36",
+    "name": "Индеец в шкафу"
+  },
+  "0116260": {
+    "movieid": "0116260",
+    "director": "John Schlesinger",
+    "budget": "20,000,000",
+    "gross": "26,877,589",
+    "runtime": "1:41",
+    "name": "Око за око"
+  },
+  "0113862": {
+    "movieid": "0113862",
+    "director": "Stephen Herek",
+    "budget": "23,000,000",
+    "gross": "106,269,971",
+    "runtime": "2:24",
+    "name": "Опус мистера Холланда"
+  },
+  "0116126": {
+    "movieid": "0116126",
+    "director": "Paris Barclay",
+    "budget": "3,800,000",
+    "gross": "20,949,601",
+    "runtime": "1:29",
+    "name": "Не грози южному централу, попивая сок у себя в квартале"
+  },
+  "0118002": {
+    "movieid": "0118002",
+    "director": "Bill Bennett",
+    "budget": "N/A",
+    "gross": "10,658,278",
+    "runtime": "1:36",
+    "name": "Украденные сердца"
+  },
+  "0115683": {
+    "movieid": "0115683",
+    "director": "Jason Bloom",
+    "budget": "15,000,000",
+    "gross": "13,427,615",
+    "runtime": "1:28",
+    "name": "Био-Дом"
+  },
+  "0116839": {
+    "movieid": "0116839",
+    "director": "Farhad Mann",
+    "budget": "15,000,000",
+    "gross": "2,409,225",
+    "runtime": "1:33",
+    "name": "Газонокосильщик 2: За пределами киберпространства"
+  },
+  "0113149": {
+    "movieid": "0113149",
+    "director": "Josiane Balasko",
+    "budget": "N/A",
+    "gross": "1,026,646",
+    "runtime": "1:44",
+    "name": "Французский твист"
+  },
+  "0113118": {
+    "movieid": "0113118",
+    "director": "F. Gary Gray",
+    "budget": "3,500,000",
+    "gross": "28,215,918",
+    "runtime": "1:31",
+    "name": "Пятница"
+  },
+  "0116367": {
+    "movieid": "0116367",
+    "director": "Robert Rodriguez",
+    "budget": "19,000,000",
+    "gross": "25,839,496",
+    "runtime": "1:48",
+    "name": "От заката до рассвета"
+  },
+  "0113010": {
+    "movieid": "0113010",
+    "director": "Andrew Sipes",
+    "budget": "50,000,000",
+    "gross": "11,534,477",
+    "runtime": "1:31",
+    "name": "Чeстная игра"
+  },
+  "0113537": {
+    "movieid": "0113537",
+    "director": "Noah Baumbach",
+    "budget": "N/A",
+    "gross": "718,490",
+    "runtime": "1:36",
+    "name": "Забыть и вспомнить"
+  },
+  "0113828": {
+    "movieid": "0113828",
+    "director": "Claude Lelouch",
+    "budget": "N/A",
+    "gross": "740,048",
+    "runtime": "2:55",
+    "name": "Отверженные"
+  },
+  "0115644": {
+    "movieid": "0115644",
+    "director": "Michael Goldenberg",
+    "budget": "N/A",
+    "gross": "27,315,527",
+    "runtime": "1:27",
+    "name": "Постель из роз"
+  },
+  "0115676": {
+    "movieid": "0115676",
+    "director": "Steve Miner",
+    "budget": "15,000,000",
+    "gross": "2,042,530",
+    "runtime": "1:30",
+    "name": "Большие парни"
+  },
+  "0114367": {
+    "movieid": "0114367",
+    "director": "Christian Duguay",
+    "budget": "20,000,000",
+    "gross": "5,711,695",
+    "runtime": "1:48",
+    "name": "Крикуны"
+  },
+  "0113973": {
+    "movieid": "0113973",
+    "director": "Susanne Ofteringer",
+    "budget": "N/A",
+    "gross": "306,691",
+    "runtime": "1:10",
+    "name": "Nico Icon"
+  },
+  "0112744": {
+    "movieid": "0112744",
+    "director": "Sean Penn",
+    "budget": "9,000,000",
+    "gross": "868,979",
+    "runtime": "1:51",
+    "name": "Постовой на перекрестке"
+  },
+  "0116731": {
+    "movieid": "0116731",
+    "director": "Brian Gibson",
+    "budget": "44,000,000",
+    "gross": "22,754,725",
+    "runtime": "1:58",
+    "name": "Присяжная"
+  },
+  "0112445": {
+    "movieid": "0112445",
+    "director": "Jafar Panahi",
+    "budget": "150,000",
+    "gross": "924,940",
+    "runtime": "1:25",
+    "name": "Белый шар"
+  },
+  "0114660": {
+    "movieid": "0114660",
+    "director": "Gary Fleder",
+    "budget": "7,000,000",
+    "gross": "529,766",
+    "runtime": "1:55",
+    "name": "Чем заняться мертвецу в Денвере"
+  },
+  "0112379": {
+    "movieid": "0112379",
+    "director": "Marleen Gorris",
+    "budget": "1,500,000",
+    "gross": "4,249,321",
+    "runtime": "1:42",
+    "name": "Антония"
+  },
+  "0114039": {
+    "movieid": "0114039",
+    "director": "Tim Reid",
+    "budget": "N/A",
+    "gross": "2,291,255",
+    "runtime": "1:55",
+    "name": "Once Upon a Time... When We Were Colored"
+  },
+  "0112365": {
+    "movieid": "0112365",
+    "director": "Philip Haas",
+    "budget": "4,997,987",
+    "gross": "3,414,301",
+    "runtime": "1:56",
+    "name": "Ангелы и насекомые"
+  },
+  "0118158": {
+    "movieid": "0118158",
+    "director": "Ridley Scott",
+    "budget": "38,000,000",
+    "gross": "10,292,300",
+    "runtime": "2:09",
+    "name": "Белый шквал"
+  },
+  "0116151": {
+    "movieid": "0116151",
+    "director": "Ken Kwapis",
+    "budget": "N/A",
+    "gross": "9,871,065",
+    "runtime": "1:28",
+    "name": "Появляется Данстон"
+  },
+  "0115697": {
+    "movieid": "0115697",
+    "director": "Penelope Spheeris",
+    "budget": "N/A",
+    "gross": "32,417,995",
+    "runtime": "1:27",
+    "name": "Паршивая овца"
+  },
+  "0113972": {
+    "movieid": "0113972",
+    "director": "John Badham",
+    "budget": "33,000,000",
+    "gross": "8,175,346",
+    "runtime": "1:29",
+    "name": "В последний момент"
+  },
+  "0117002": {
+    "movieid": "0117002",
+    "director": "Stephen Frears",
+    "budget": "47,000,000",
+    "gross": "12,379,402",
+    "runtime": "1:48",
+    "name": "Мэри Райли"
+  },
+  "0114825": {
+    "movieid": "0114825",
+    "director": "Wes Craven",
+    "budget": "20,000,000",
+    "gross": "19,751,736",
+    "runtime": "1:40",
+    "name": "Bампир в Бруклине"
+  },
+  "0115639": {
+    "movieid": "0115639",
+    "director": "Ted Demme",
+    "budget": "N/A",
+    "gross": "10,597,759",
+    "runtime": "1:52",
+    "name": "Красивые девушки"
+  },
+  "0115759": {
+    "movieid": "0115759",
+    "director": "John Woo",
+    "budget": "50,000,000",
+    "gross": "150,270,147",
+    "runtime": "1:48",
+    "name": "Сломанная стрела"
+  },
+  "0113403": {
+    "movieid": "0113403",
+    "director": "Kenneth Branagh",
+    "budget": "N/A",
+    "gross": "469,571",
+    "runtime": "1:39",
+    "name": "Зимняя сказка"
+  },
+  "0113247": {
+    "movieid": "0113247",
+    "director": "Mathieu Kassovitz",
+    "budget": "2,590,000",
+    "gross": "760,851",
+    "runtime": "1:38",
+    "name": "Ненависть"
+  },
+  "0113283": {
+    "movieid": "0113283",
+    "director": "Nick Broomfield",
+    "budget": "N/A",
+    "gross": "34,402",
+    "runtime": "1:46",
+    "name": "Heidi Fleiss: Hollywood Madam"
+  },
+  "0115907": {
+    "movieid": "0115907",
+    "director": "Harold Becker",
+    "budget": "40,000,000",
+    "gross": "20,340,204",
+    "runtime": "1:51",
+    "name": "Мэрия"
+  },
+  "0115734": {
+    "movieid": "0115734",
+    "director": "Wes Anderson",
+    "budget": "7,000,000",
+    "gross": "560,069",
+    "runtime": "1:31",
+    "name": "Бутылочная ракета"
+  },
+  "0117102": {
+    "movieid": "0117102",
+    "director": "Nick Castle",
+    "budget": "N/A",
+    "gross": "12,825,141",
+    "runtime": "1:36",
+    "name": "Господин Ошибка"
+  },
+  "0118040": {
+    "movieid": "0118040",
+    "director": "John Dahl",
+    "budget": "18,000,000",
+    "gross": "2,821,671",
+    "runtime": "1:57",
+    "name": "Незабываемое"
+  },
+  "0116483": {
+    "movieid": "0116483",
+    "director": "Dennis Dugan",
+    "budget": "12,000,000",
+    "gross": "41,422,354",
+    "runtime": "1:32",
+    "name": "Счастливчик Гилмор"
+  },
+  "0112579": {
+    "movieid": "0112579",
+    "director": "Clint Eastwood",
+    "budget": "24,000,000",
+    "gross": "182,016,617",
+    "runtime": "2:15",
+    "name": "Мосты округа Мэдисон"
+  },
+  "0110251": {
+    "movieid": "0110251",
+    "director": "Doris Dörrie",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:44",
+    "name": "Никто меня не любит"
+  },
+  "0117110": {
+    "movieid": "0117110",
+    "director": "Brian Henson",
+    "budget": "N/A",
+    "gross": "34,327,766",
+    "runtime": "1:39",
+    "name": "Остров сокровищ Маппетов"
+  },
+  "0112646": {
+    "movieid": "0112646",
+    "director": "Robert Leacock",
+    "budget": "N/A",
+    "gross": "28,672",
+    "runtime": "1:35",
+    "name": "Catwalk"
+  },
+  "0112573": {
+    "movieid": "0112573",
+    "director": "Mel Gibson",
+    "budget": "72,000,000",
+    "gross": "213,216,216",
+    "runtime": "2:58",
+    "name": "Храброе сердце"
+  },
+  "0075314": {
+    "movieid": "0075314",
+    "director": "Martin Scorsese",
+    "budget": "1,300,000",
+    "gross": "28,737,520",
+    "runtime": "1:54",
+    "name": "Таксист"
+  },
+  "0113326": {
+    "movieid": "0113326",
+    "director": "Stanley Tong",
+    "budget": "7,500,000",
+    "gross": "32,392,047",
+    "runtime": "1:44",
+    "name": "Разборка в Бронксе"
+  },
+  "0115645": {
+    "movieid": "0115645",
+    "director": "Barbet Schroeder",
+    "budget": "35,000,000",
+    "gross": "8,797,839",
+    "runtime": "1:48",
+    "name": "До и после"
+  },
+  "0112373": {
+    "movieid": "0112373",
+    "director": "Jon Blair",
+    "budget": "N/A",
+    "gross": "1,310,200",
+    "runtime": "1:57",
+    "name": "Вспоминая Анну Франк"
+  },
+  "0115033": {
+    "movieid": "0115033",
+    "director": "Benjamin Ross",
+    "budget": "N/A",
+    "gross": "536,825",
+    "runtime": "1:39",
+    "name": "Настольная книга молодого отравителя"
+  },
+  "0116606": {
+    "movieid": "0116606",
+    "director": "Eric Schaeffer",
+    "budget": "5,000,000",
+    "gross": "2,420,162",
+    "runtime": "1:32",
+    "name": "Если Люси упадет"
+  },
+  "0114536": {
+    "movieid": "0114536",
+    "director": "Andrew Davis",
+    "budget": "35,000,000",
+    "gross": "3,150,170",
+    "runtime": "2:15",
+    "name": "Один из двух"
+  },
+  "0106473": {
+    "movieid": "0106473",
+    "director": "John N. Smith",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:33",
+    "name": "Мальчики святого Винсента"
+  },
+  "0103859": {
+    "movieid": "0103859",
+    "director": "Reginald Hudlin",
+    "budget": "42,000,000",
+    "gross": "131,052,444",
+    "runtime": "1:57",
+    "name": "Бумеранг"
+  },
+  "0109424": {
+    "movieid": "0109424",
+    "director": "Wong Kar-Wai",
+    "budget": "N/A",
+    "gross": "3,275,063",
+    "runtime": "1:42",
+    "name": "Чyнгкингский экспресс"
+  },
+  "0116324": {
+    "movieid": "0116324",
+    "director": "David O. Russell",
+    "budget": "7,000,000",
+    "gross": "14,702,438",
+    "runtime": "1:32",
+    "name": "Не будите спящую собаку"
+  },
+  "0110647": {
+    "movieid": "0110647",
+    "director": "Peter MacDonald",
+    "budget": "17,000,000",
+    "gross": "N/A",
+    "runtime": "1:35",
+    "name": "Бесконечная история 3"
+  },
+  "0110217": {
+    "movieid": "0110217",
+    "director": "Michel Negroponte",
+    "budget": "N/A",
+    "gross": "10,622",
+    "runtime": "1:27",
+    "name": "Jupiter's Wife"
+  },
+  "0114131": {
+    "movieid": "0114131",
+    "director": "Bryan Gordon",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:35",
+    "name": "Журавль в небе"
+  },
+  "0113451": {
+    "movieid": "0113451",
+    "director": "William Friedkin",
+    "budget": "50,000,000",
+    "gross": "9,851,610",
+    "runtime": "1:35",
+    "name": "Шлюха"
+  },
+  "0116130": {
+    "movieid": "0116130",
+    "director": "David S. Ward",
+    "budget": "31,000,000",
+    "gross": "37,553,752",
+    "runtime": "1:32",
+    "name": "Убрать перископ"
+  },
+  "0113756": {
+    "movieid": "0113756",
+    "director": "Dirk Shafer",
+    "budget": "N/A",
+    "gross": "209,935",
+    "runtime": "1:26",
+    "name": "Man of the Year"
+  },
+  "0118055": {
+    "movieid": "0118055",
+    "director": "Jon Avnet",
+    "budget": "60,000,000",
+    "gross": "100,688,705",
+    "runtime": "2:04",
+    "name": "Близко к сердцу"
+  },
+  "0115685": {
+    "movieid": "0115685",
+    "director": "Mike Nichols",
+    "budget": "31,000,000",
+    "gross": "185,260,553",
+    "runtime": "1:57",
+    "name": "Клетка для пташек"
+  },
+  "0112585": {
+    "movieid": "0112585",
+    "director": "Edward Burns",
+    "budget": "238,000",
+    "gross": "10,426,506",
+    "runtime": "1:38",
+    "name": "Братья МакМаллен"
+  },
+  "0112442": {
+    "movieid": "0112442",
+    "director": "Michael Bay",
+    "budget": "19,000,000",
+    "gross": "141,407,024",
+    "runtime": "1:59",
+    "name": "Плохие парни"
+  },
+  "0112342": {
+    "movieid": "0112342",
+    "director": "Christopher Cain",
+    "budget": "N/A",
+    "gross": "7,506,759",
+    "runtime": "1:24",
+    "name": "Удивительное приключение панды"
+  },
+  "0112461": {
+    "movieid": "0112461",
+    "director": "Scott Kalvert",
+    "budget": "2,000,000",
+    "gross": "2,402,438",
+    "runtime": "1:42",
+    "name": "Дневник баскетболиста"
+  },
+  "0112427": {
+    "movieid": "0112427",
+    "director": "Mike Newell",
+    "budget": "4,000,000",
+    "gross": "259,724",
+    "runtime": "1:52",
+    "name": "Ужасно большое приключение"
+  },
+  "0109093": {
+    "movieid": "0109093",
+    "director": "Hal Hartley",
+    "budget": "2,300,000",
+    "gross": "757,088",
+    "runtime": "1:45",
+    "name": "Дилетанты"
+  },
+  "0112384": {
+    "movieid": "0112384",
+    "director": "Ron Howard",
+    "budget": "52,000,000",
+    "gross": "355,237,933",
+    "runtime": "2:20",
+    "name": "Аполлон 13"
+  },
+  "0114287": {
+    "movieid": "0114287",
+    "director": "Michael Caton-Jones",
+    "budget": "28,000,000",
+    "gross": "31,596,911",
+    "runtime": "2:19",
+    "name": "Роб Рой"
+  },
+  "0112288": {
+    "movieid": "0112288",
+    "director": "Abel Ferrara",
+    "budget": "N/A",
+    "gross": "307,308",
+    "runtime": "1:22",
+    "name": "Зависимость"
+  },
+  "0112462": {
+    "movieid": "0112462",
+    "director": "Joel Schumacher",
+    "budget": "100,000,000",
+    "gross": "336,567,158",
+    "runtime": "2:01",
+    "name": "Бэтмен навсегда"
+  },
+  "0061395": {
+    "movieid": "0061395",
+    "director": "Luis Buñuel",
+    "budget": "N/A",
+    "gross": "4,162,697",
+    "runtime": "1:40",
+    "name": "Belle de jour"
+  },
+  "0112495": {
+    "movieid": "0112495",
+    "director": "John Boorman",
+    "budget": "23,000,000",
+    "gross": "5,750,110",
+    "runtime": "1:40",
+    "name": "За пределами Рангуна"
+  },
+  "0112541": {
+    "movieid": "0112541",
+    "director": "Paul AusterWayne WangHarvey Wang",
+    "budget": "2,000,000",
+    "gross": "1,268,636",
+    "runtime": "1:23",
+    "name": "С унынием в лице"
+  },
+  "0109370": {
+    "movieid": "0109370",
+    "director": "Michael Moore",
+    "budget": "11,000,000",
+    "gross": "163,971",
+    "runtime": "1:31",
+    "name": "Канадский бекон"
+  },
+  "0112642": {
+    "movieid": "0112642",
+    "director": "Brad Silberling",
+    "budget": "55,000,000",
+    "gross": "288,144,179",
+    "runtime": "1:40",
+    "name": "Каспер"
+  },
+  "0112688": {
+    "movieid": "0112688",
+    "director": "Spike Lee",
+    "budget": "25,000,000",
+    "gross": "13,071,518",
+    "runtime": "2:08",
+    "name": "Толкачи"
+  },
+  "0112715": {
+    "movieid": "0112715",
+    "director": "Frank Marshall",
+    "budget": "50,000,000",
+    "gross": "152,022,101",
+    "runtime": "1:49",
+    "name": "Конго"
+  },
+  "0112740": {
+    "movieid": "0112740",
+    "director": "Tony Scott",
+    "budget": "53,000,000",
+    "gross": "157,387,195",
+    "runtime": "1:56",
+    "name": "Багровый прилив"
+  },
+  "0109508": {
+    "movieid": "0109508",
+    "director": "Terry Zwigoff",
+    "budget": "N/A",
+    "gross": "3,041,083",
+    "runtime": "1:59",
+    "name": "Крамб"
+  },
+  "0112851": {
+    "movieid": "0112851",
+    "director": "Robert Rodriguez",
+    "budget": "7,000,000",
+    "gross": "25,406,131",
+    "runtime": "1:44",
+    "name": "Отчаянный"
+  },
+  "0112857": {
+    "movieid": "0112857",
+    "director": "Carl Franklin",
+    "budget": "27,000,000",
+    "gross": "16,141,551",
+    "runtime": "1:42",
+    "name": "Дьявол в голубом платье"
+  },
+  "0112864": {
+    "movieid": "0112864",
+    "director": "John McTiernan",
+    "budget": "90,000,000",
+    "gross": "366,101,666",
+    "runtime": "2:08",
+    "name": "Крепкий орешек 3"
+  },
+  "0112887": {
+    "movieid": "0112887",
+    "director": "Gregg Araki",
+    "budget": "N/A",
+    "gross": "287,450",
+    "runtime": "1:23",
+    "name": "Поколение игры 'Doom'"
+  },
+  "0113071": {
+    "movieid": "0113071",
+    "director": "Jerry Zucker",
+    "budget": "55,000,000",
+    "gross": "127,600,435",
+    "runtime": "2:14",
+    "name": "Первый рыцарь"
+  },
+  "0113114": {
+    "movieid": "0113114",
+    "director": "Dwight H. Little",
+    "budget": "N/A",
+    "gross": "30,077,111",
+    "runtime": "1:35",
+    "name": "Освободите Вилли 2: Новое приключение"
+  },
+  "0113243": {
+    "movieid": "0113243",
+    "director": "Iain Softley",
+    "budget": "20,000,000",
+    "gross": "7,564,448",
+    "runtime": "1:45",
+    "name": "Хакеры"
+  },
+  "0113464": {
+    "movieid": "0113464",
+    "director": "Christopher Ashley",
+    "budget": "N/A",
+    "gross": "3,487,767",
+    "runtime": "1:32",
+    "name": "Джеффри"
+  },
+  "0113481": {
+    "movieid": "0113481",
+    "director": "Robert Longo",
+    "budget": "26,000,000",
+    "gross": "19,077,036",
+    "runtime": "1:43",
+    "name": "Джонни Мнемоник"
+  },
+  "0113492": {
+    "movieid": "0113492",
+    "director": "Danny Cannon",
+    "budget": "90,000,000",
+    "gross": "113,493,481",
+    "runtime": "1:36",
+    "name": "Судья Дредд"
+  },
+  "0113500": {
+    "movieid": "0113500",
+    "director": "John Fortenberry",
+    "budget": "N/A",
+    "gross": "17,014,653",
+    "runtime": "1:28",
+    "name": "Долг присяжного"
+  },
+  "0113540": {
+    "movieid": "0113540",
+    "director": "Larry Clark",
+    "budget": "1,500,000",
+    "gross": "7,412,216",
+    "runtime": "1:31",
+    "name": "Детки"
+  },
+  "0113677": {
+    "movieid": "0113677",
+    "director": "Tom DiCillo",
+    "budget": "500,000",
+    "gross": "1,111,790",
+    "runtime": "1:30",
+    "name": "Жизнь в забвении"
+  },
+  "0113690": {
+    "movieid": "0113690",
+    "director": "Clive Barker",
+    "budget": "12,000,000",
+    "gross": "13,294,422",
+    "runtime": "1:49",
+    "name": "Повелитель иллюзий"
+  },
+  "0107447": {
+    "movieid": "0107447",
+    "director": "Denys Arcand",
+    "budget": "N/A",
+    "gross": "542,985",
+    "runtime": "1:40",
+    "name": "Любовь и бренные останки"
+  },
+  "0113729": {
+    "movieid": "0113729",
+    "director": "Antonia Bird",
+    "budget": "N/A",
+    "gross": "15,453,274",
+    "runtime": "1:33",
+    "name": "Дикая любовь"
+  },
+  "0113749": {
+    "movieid": "0113749",
+    "director": "Kevin Smith",
+    "budget": "8,000,000",
+    "gross": "2,122,561",
+    "runtime": "1:34",
+    "name": "Тусовщики из супермаркета"
+  },
+  "0113820": {
+    "movieid": "0113820",
+    "director": "Bryan Spicer",
+    "budget": "20,000,000",
+    "gross": "66,433,194",
+    "runtime": "1:35",
+    "name": "Могучие Морфы Рейнджеры Силы"
+  },
+  "0110604": {
+    "movieid": "0110604",
+    "director": "Anthony Waller",
+    "budget": "2,000,000",
+    "gross": "1,125,910",
+    "runtime": "1:35",
+    "name": "Немой свидетель"
+  },
+  "0110620": {
+    "movieid": "0110620",
+    "director": "Michael Almereyda",
+    "budget": "1,000,000",
+    "gross": "443,169",
+    "runtime": "1:33",
+    "name": "Надя"
+  },
+  "0113957": {
+    "movieid": "0113957",
+    "director": "Irwin Winkler",
+    "budget": "22,000,000",
+    "gross": "110,627,965",
+    "runtime": "1:54",
+    "name": "Сеть"
+  },
+  "0113986": {
+    "movieid": "0113986",
+    "director": "Chris Columbus",
+    "budget": "N/A",
+    "gross": "138,510,230",
+    "runtime": "1:43",
+    "name": "Девять месяцев"
+  },
+  "0114095": {
+    "movieid": "0114095",
+    "director": "Daisy von Scherler Mayer",
+    "budget": "150,000",
+    "gross": "473,303",
+    "runtime": "1:34",
+    "name": "Тусовщица"
+  },
+  "0114194": {
+    "movieid": "0114194",
+    "director": "Gregory Widen",
+    "budget": "8,000,000",
+    "gross": "16,115,878",
+    "runtime": "1:38",
+    "name": "Пророчество"
+  },
+  "0114241": {
+    "movieid": "0114241",
+    "director": "Norman René",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:31",
+    "name": "Безрассудные"
+  },
+  "0114323": {
+    "movieid": "0114323",
+    "director": "Todd Haynes",
+    "budget": "1,000,000",
+    "gross": "512,558",
+    "runtime": "1:59",
+    "name": "Спасение"
+  },
+  "0114345": {
+    "movieid": "0114345",
+    "director": "Roland Joffé",
+    "budget": "46,000,000",
+    "gross": "10,382,407",
+    "runtime": "2:15",
+    "name": "Алая буква"
+  },
+  "0114436": {
+    "movieid": "0114436",
+    "director": "Paul Verhoeven",
+    "budget": "45,000,000",
+    "gross": "20,371,509",
+    "runtime": "2:08",
+    "name": "Шоугёлз"
+  },
+  "0114478": {
+    "movieid": "0114478",
+    "director": "Wayne Wang",
+    "budget": "7,000,000",
+    "gross": "8,367,636",
+    "runtime": "1:52",
+    "name": "Дым"
+  },
+  "0114496": {
+    "movieid": "0114496",
+    "director": "Lasse Hallström",
+    "budget": "N/A",
+    "gross": "50,865,589",
+    "runtime": "1:46",
+    "name": "Тема для разговора"
+  },
+  "0114508": {
+    "movieid": "0114508",
+    "director": "Roger Donaldson",
+    "budget": "35,000,000",
+    "gross": "113,374,103",
+    "runtime": "1:48",
+    "name": "Особь"
+  },
+  "0114558": {
+    "movieid": "0114558",
+    "director": "Kathryn Bigelow",
+    "budget": "42,000,000",
+    "gross": "7,961,376",
+    "runtime": "2:25",
+    "name": "Странные дни"
+  },
+  "0058450": {
+    "movieid": "0058450",
+    "director": "Jacques Demy",
+    "budget": "N/A",
+    "gross": "206,931",
+    "runtime": "1:31",
+    "name": "Шербургские зонтики"
+  },
+  "0114663": {
+    "movieid": "0114663",
+    "director": "Martha Coolidge",
+    "budget": "10,000,000",
+    "gross": "7,027,517",
+    "runtime": "1:55",
+    "name": "Три желания"
+  },
+  "0114702": {
+    "movieid": "0114702",
+    "director": "Agnieszka Holland",
+    "budget": "8,000,000",
+    "gross": "340,139",
+    "runtime": "1:51",
+    "name": "Полное затмение"
+  },
+  "0114682": {
+    "movieid": "0114682",
+    "director": "Beeban Kidron",
+    "budget": "30,000,000",
+    "gross": "47,774,193",
+    "runtime": "1:49",
+    "name": "Вонгу Фу, с благодарностью за всё! Джули Ньюмар"
+  },
+  "0114781": {
+    "movieid": "0114781",
+    "director": "Geoff Murphy",
+    "budget": "60,000,000",
+    "gross": "104,324,083",
+    "runtime": "1:40",
+    "name": "В осаде 2: Тёмная территория"
+  },
+  "0114798": {
+    "movieid": "0114798",
+    "director": "Diane Keaton",
+    "budget": "N/A",
+    "gross": "7,929,434",
+    "runtime": "1:33",
+    "name": "Сумасшедшие герои"
+  },
+  "0114805": {
+    "movieid": "0114805",
+    "director": "Douglas Keeve",
+    "budget": "N/A",
+    "gross": "2,875,086",
+    "runtime": "1:13",
+    "name": "Нараспашку"
+  },
+  "0114887": {
+    "movieid": "0114887",
+    "director": "Alfonso Arau",
+    "budget": "20,000,000",
+    "gross": "50,008,143",
+    "runtime": "1:42",
+    "name": "Прогулка в облаках"
+  },
+  "0114898": {
+    "movieid": "0114898",
+    "director": "Kevin Reynolds",
+    "budget": "175,000,000",
+    "gross": "264,218,220",
+    "runtime": "2:15",
+    "name": "Водный мир"
+  },
+  "0114928": {
+    "movieid": "0114928",
+    "director": "Desmond Nakano",
+    "budget": "7,000,000",
+    "gross": "3,734,870",
+    "runtime": "1:29",
+    "name": "Участь белого человека"
+  },
+  "0114938": {
+    "movieid": "0114938",
+    "director": "Walter Hill",
+    "budget": "30,000,000",
+    "gross": "2,193,982",
+    "runtime": "1:37",
+    "name": "Дикий Билл"
+  },
+  "0109340": {
+    "movieid": "0109340",
+    "director": "Mike Figgis",
+    "budget": "N/A",
+    "gross": "487,391",
+    "runtime": "1:37",
+    "name": "Версия Браунинга"
+  },
+  "0112602": {
+    "movieid": "0112602",
+    "director": "Greg Beeman",
+    "budget": "N/A",
+    "gross": "7,919,823",
+    "runtime": "1:30",
+    "name": "Измученные походом"
+  },
+  "0111579": {
+    "movieid": "0111579",
+    "director": "Nikita Mikhalkov",
+    "budget": "2,800,000",
+    "gross": "2,313,461",
+    "runtime": "2:15",
+    "name": "Утомлённые солнцем"
+  },
+  "0110882": {
+    "movieid": "0110882",
+    "director": "Milcho Manchevski",
+    "budget": "1,900,000",
+    "gross": "763,847",
+    "runtime": "1:53",
+    "name": "Перед дождем"
+  },
+  "0112471": {
+    "movieid": "0112471",
+    "director": "Richard Linklater",
+    "budget": "2,500,000",
+    "gross": "6,572,057",
+    "runtime": "1:41",
+    "name": "Перед рассветом"
+  },
+  "0112508": {
+    "movieid": "0112508",
+    "director": "Tamra Davis",
+    "budget": "10,000,000",
+    "gross": "26,488,734",
+    "runtime": "1:29",
+    "name": "Билли Мэдисон"
+  },
+  "0112438": {
+    "movieid": "0112438",
+    "director": "Guy Ferland",
+    "budget": "2,000,000",
+    "gross": "N/A",
+    "runtime": "1:30",
+    "name": "Приходящая няня"
+  },
+  "0112571": {
+    "movieid": "0112571",
+    "director": "Herbert Ross",
+    "budget": "21,000,000",
+    "gross": "23,440,188",
+    "runtime": "1:55",
+    "name": "Парни побоку"
+  },
+  "0112757": {
+    "movieid": "0112757",
+    "director": "Peter Horton",
+    "budget": "N/A",
+    "gross": "2,568,425",
+    "runtime": "1:37",
+    "name": "Лекарство"
+  },
+  "0112643": {
+    "movieid": "0112643",
+    "director": "Stuart Gordon",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:30",
+    "name": "Урод в замке"
+  },
+  "0112679": {
+    "movieid": "0112679",
+    "director": "Pat O'Connor",
+    "budget": "N/A",
+    "gross": "23,389,975",
+    "runtime": "1:43",
+    "name": "Круг друзей"
+  },
+  "0109445": {
+    "movieid": "0109445",
+    "director": "Kevin Smith",
+    "budget": "27,000",
+    "gross": "3,152,360",
+    "runtime": "1:32",
+    "name": "Клерки"
+  },
+  "0112883": {
+    "movieid": "0112883",
+    "director": "Jeremy Leven",
+    "budget": "25,000,000",
+    "gross": "68,792,531",
+    "runtime": "1:37",
+    "name": "Дон Жуан де Марко"
+  },
+  "0109635": {
+    "movieid": "0109635",
+    "director": "Barry Levinson",
+    "budget": "55,000,000",
+    "gross": "214,015,089",
+    "runtime": "2:08",
+    "name": "Разоблачение"
+  },
+  "0109676": {
+    "movieid": "0109676",
+    "director": "John Badham",
+    "budget": "45,000,000",
+    "gross": "28,735,315",
+    "runtime": "1:41",
+    "name": "Зона высадки"
+  },
+  "0112854": {
+    "movieid": "0112854",
+    "director": "Jack Baran",
+    "budget": "N/A",
+    "gross": "1,176,982",
+    "runtime": "1:42",
+    "name": "Дестини включает радио"
+  },
+  "0109579": {
+    "movieid": "0109579",
+    "director": "Roman Polanski",
+    "budget": "12,000,000",
+    "gross": "3,103,716",
+    "runtime": "1:43",
+    "name": "Смерть и девушка"
+  },
+  "0109642": {
+    "movieid": "0109642",
+    "director": "Taylor Hackford",
+    "budget": "N/A",
+    "gross": "24,361,867",
+    "runtime": "2:12",
+    "name": "Долорес Клэйборн"
+  },
+  "0109686": {
+    "movieid": "0109686",
+    "director": "Peter FarrellyBobby Farrelly",
+    "budget": "17,000,000",
+    "gross": "247,290,327",
+    "runtime": "1:47",
+    "name": "Тупой и еще тупее"
+  },
+  "0111797": {
+    "movieid": "0111797",
+    "director": "Ang Lee",
+    "budget": "N/A",
+    "gross": "7,294,403",
+    "runtime": "2:04",
+    "name": "Ешь, пей, мужчина, женщина"
+  },
+  "0109759": {
+    "movieid": "0109759",
+    "director": "Atom Egoyan",
+    "budget": "A$2,000,000",
+    "gross": "4,221,036",
+    "runtime": "1:43",
+    "name": "Экзотика"
+  },
+  "0109758": {
+    "movieid": "0109758",
+    "director": "Garry Marshall",
+    "budget": "25,000,000",
+    "gross": "6,841,570",
+    "runtime": "1:53",
+    "name": "Выход к Раю"
+  },
+  "0109707": {
+    "movieid": "0109707",
+    "director": "Tim Burton",
+    "budget": "18,000,000",
+    "gross": "5,888,242",
+    "runtime": "2:07",
+    "name": "Эд Вуд"
+  },
+  "0113117": {
+    "movieid": "0113117",
+    "director": "Lawrence Kasdan",
+    "budget": "40,000,000",
+    "gross": "101,982,854",
+    "runtime": "1:51",
+    "name": "Французский поцелуй"
+  },
+  "0113097": {
+    "movieid": "0113097",
+    "director": "Billy Crystal",
+    "budget": "N/A",
+    "gross": "33,177,694",
+    "runtime": "1:41",
+    "name": "Забыть Париж"
+  },
+  "0113028": {
+    "movieid": "0113028",
+    "director": "Phillip Borsos",
+    "budget": "N/A",
+    "gross": "11,642,946",
+    "runtime": "1:21",
+    "name": "Далеко от дома: Приключения желтого пса"
+  },
+  "0113198": {
+    "movieid": "0113198",
+    "director": "Kevin Lima",
+    "budget": "18,000,000",
+    "gross": "35,353,530",
+    "runtime": "1:18",
+    "name": "Каникулы Гуфи"
+  },
+  "0113303": {
+    "movieid": "0113303",
+    "director": "Brett Leonard",
+    "budget": "15,000,000",
+    "gross": "12,201,255",
+    "runtime": "1:46",
+    "name": "Убежище"
+  },
+  "0113089": {
+    "movieid": "0113089",
+    "director": "Carlo Carlei",
+    "budget": "15,000,000",
+    "gross": "3,987,768",
+    "runtime": "1:36",
+    "name": "Флюк"
+  },
+  "0109771": {
+    "movieid": "0109771",
+    "director": "Gérard Corbiau",
+    "budget": "N/A",
+    "gross": "1,600,226",
+    "runtime": "1:51",
+    "name": "Фаринелли-кастрат"
+  },
+  "0113199": {
+    "movieid": "0113199",
+    "director": "Mark Lewis",
+    "budget": "N/A",
+    "gross": "3,941,146",
+    "runtime": "1:30",
+    "name": "Горди"
+  },
+  "0110057": {
+    "movieid": "0110057",
+    "director": "Steve James",
+    "budget": "700,000",
+    "gross": "11,830,611",
+    "runtime": "2:50",
+    "name": "Баскетбольные мечты"
+  },
+  "0110005": {
+    "movieid": "0110005",
+    "director": "Peter Jackson",
+    "budget": "5,000,000",
+    "gross": "3,049,950",
+    "runtime": "1:39",
+    "name": "Небесные создания"
+  },
+  "0110066": {
+    "movieid": "0110066",
+    "director": "Randall Miller",
+    "budget": "10,500,000",
+    "gross": "26,325,256",
+    "runtime": "1:53",
+    "name": "Гость"
+  },
+  "0110116": {
+    "movieid": "0110116",
+    "director": "Bernard Rose",
+    "budget": "N/A",
+    "gross": "9,914,409",
+    "runtime": "2:01",
+    "name": "Бессмертная возлюбленная"
+  },
+  "0110006": {
+    "movieid": "0110006",
+    "director": "Steven Brill",
+    "budget": "N/A",
+    "gross": "17,689,177",
+    "runtime": "1:37",
+    "name": "Толстопузы"
+  },
+  "0113360": {
+    "movieid": "0113360",
+    "director": "J.F. Lawton",
+    "budget": "20,000,000",
+    "gross": "6,609,661",
+    "runtime": "1:51",
+    "name": "Преследуемый"
+  },
+  "0110099": {
+    "movieid": "0110099",
+    "director": "Fred Schepisi",
+    "budget": "25,000,000",
+    "gross": "26,381,221",
+    "runtime": "1:40",
+    "name": "Коэффициент интеллекта"
+  },
+  "0110148": {
+    "movieid": "0110148",
+    "director": "Neil Jordan",
+    "budget": "60,000,000",
+    "gross": "223,664,608",
+    "runtime": "2:03",
+    "name": "Интервью с вампиром"
+  },
+  "0113463": {
+    "movieid": "0113463",
+    "director": "James Ivory",
+    "budget": "14,000,000",
+    "gross": "2,473,668",
+    "runtime": "2:19",
+    "name": "Джефферсон в Париже"
+  },
+  "0110189": {
+    "movieid": "0110189",
+    "director": "James Melkonian",
+    "budget": "7,000,000",
+    "gross": "7,557,877",
+    "runtime": "1:22",
+    "name": "Шутники"
+  },
+  "0110216": {
+    "movieid": "0110216",
+    "director": "Ivan Reitman",
+    "budget": "60,000,000",
+    "gross": "108,431,355",
+    "runtime": "1:49",
+    "name": "Джуниор"
+  },
+  "0113501": {
+    "movieid": "0113501",
+    "director": "Arne Glimcher",
+    "budget": "N/A",
+    "gross": "36,853,222",
+    "runtime": "1:42",
+    "name": "Правое дело"
+  },
+  "0113538": {
+    "movieid": "0113538",
+    "director": "Michael Gottlieb",
+    "budget": "15,000,000",
+    "gross": "13,406,717",
+    "runtime": "1:29",
+    "name": "Первый рыцарь при дворце короля Артура"
+  },
+  "0113552": {
+    "movieid": "0113552",
+    "director": "Barbet Schroeder",
+    "budget": "40,000,000",
+    "gross": "14,942,422",
+    "runtime": "1:41",
+    "name": "Поцелуй смерти"
+  },
+  "0076759": {
+    "movieid": "0076759",
+    "director": "George Lucas",
+    "budget": "11,000,000",
+    "gross": "775,398,507",
+    "runtime": "2:01",
+    "name": "Звёздные войны: Эпизод 4 - Новая надежда"
+  },
+  "0110367": {
+    "movieid": "0110367",
+    "director": "Gillian Armstrong",
+    "budget": "18,000,000",
+    "gross": "50,085,123",
+    "runtime": "1:55",
+    "name": "Маленькие женщины"
+  },
+  "0113670": {
+    "movieid": "0113670",
+    "director": "Alfonso Cuarón",
+    "budget": "17,000,000",
+    "gross": "10,015,449",
+    "runtime": "1:37",
+    "name": "Маленькая принцесса"
+  },
+  "0110296": {
+    "movieid": "0110296",
+    "director": "Ken Loach",
+    "budget": "38,976,598",
+    "gross": "152,457",
+    "runtime": "1:41",
+    "name": "Божья коровка, улети на небо"
+  },
+  "0103994": {
+    "movieid": "0103994",
+    "director": "Alfonso Arau",
+    "budget": "2,000,000",
+    "gross": "21,744,201",
+    "runtime": "1:45",
+    "name": "Как вода для шоколада"
+  },
+  "0110322": {
+    "movieid": "0110322",
+    "director": "Edward Zwick",
+    "budget": "30,000,000",
+    "gross": "160,638,883",
+    "runtime": "2:13",
+    "name": "Легенды осени"
+  },
+  "0110443": {
+    "movieid": "0110443",
+    "director": "Nick Castle",
+    "budget": "N/A",
+    "gross": "30,112,050",
+    "runtime": "1:35",
+    "name": "Майор Пэйн"
+  },
+  "0107566": {
+    "movieid": "0107566",
+    "director": "Allison Anders",
+    "budget": "N/A",
+    "gross": "3,267,313",
+    "runtime": "1:32",
+    "name": "Моя безумная жизнь"
+  },
+  "0110391": {
+    "movieid": "0110391",
+    "director": "Glenn Gordon Caron",
+    "budget": "60,000,000",
+    "gross": "18,272,894",
+    "runtime": "1:48",
+    "name": "Любовный роман"
+  },
+  "0113691": {
+    "movieid": "0113691",
+    "director": "Stephen Gyllenhaal",
+    "budget": "17,000,000",
+    "gross": "7,603,766",
+    "runtime": "1:51",
+    "name": "Дело Исайи"
+  },
+  "0110428": {
+    "movieid": "0110428",
+    "director": "Nicholas Hytner",
+    "budget": "65,897,768",
+    "gross": "15,238,689",
+    "runtime": "1:50",
+    "name": "Безумие короля Георга"
+  },
+  "0109836": {
+    "movieid": "0109836",
+    "director": "Kenneth Branagh",
+    "budget": "45,000,000",
+    "gross": "112,006,296",
+    "runtime": "2:03",
+    "name": "Франкенштейн"
+  },
+  "0113755": {
+    "movieid": "0113755",
+    "director": "James Orr",
+    "budget": "N/A",
+    "gross": "40,070,995",
+    "runtime": "1:36",
+    "name": "Кто в доме хозяин"
+  },
+  "0110538": {
+    "movieid": "0110538",
+    "director": "Nora Ephron",
+    "budget": "15,000,000",
+    "gross": "6,821,850",
+    "runtime": "1:37",
+    "name": "Совершенно чокнутый"
+  },
+  "0110516": {
+    "movieid": "0110516",
+    "director": "Richard Benjamin",
+    "budget": "N/A",
+    "gross": "18,137,661",
+    "runtime": "1:50",
+    "name": "Карманные деньги"
+  },
+  "0110527": {
+    "movieid": "0110527",
+    "director": "Les Mayfield",
+    "budget": "N/A",
+    "gross": "46,264,384",
+    "runtime": "1:54",
+    "name": "Чудo на 34-й улице"
+  },
+  "0113808": {
+    "movieid": "0113808",
+    "director": "David Frankel",
+    "budget": "N/A",
+    "gross": "5,221,281",
+    "runtime": "1:35",
+    "name": "Рапсодия Майами"
+  },
+  "0113896": {
+    "movieid": "0113896",
+    "director": "Gregory Nava",
+    "budget": "5,500,000",
+    "gross": "11,079,373",
+    "runtime": "2:08",
+    "name": "Моя семья"
+  },
+  "0113870": {
+    "movieid": "0113870",
+    "director": "Marc Rocco",
+    "budget": "N/A",
+    "gross": "17,381,942",
+    "runtime": "2:02",
+    "name": "Убийство первой степени"
+  },
+  "0110684": {
+    "movieid": "0110684",
+    "director": "Robert Benton",
+    "budget": "20,000,000",
+    "gross": "39,491,975",
+    "runtime": "1:50",
+    "name": "Дураков нет"
+  },
+  "0110638": {
+    "movieid": "0110638",
+    "director": "Michael Apted",
+    "budget": "24,500,000",
+    "gross": "106,683,817",
+    "runtime": "1:52",
+    "name": "Нелл"
+  },
+  "0113967": {
+    "movieid": "0113967",
+    "director": "Nick Gomez",
+    "budget": "5,000,000",
+    "gross": "3,565,508",
+    "runtime": "1:38",
+    "name": "Дела в Нью-Джерси"
+  },
+  "0117169": {
+    "movieid": "0117169",
+    "director": "Tôru Murakawa",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:33",
+    "name": "Нью-йоркский полицейский"
+  },
+  "0106402": {
+    "movieid": "0106402",
+    "director": "Vadim Jean",
+    "budget": "3,000,000",
+    "gross": "N/A",
+    "runtime": "1:29",
+    "name": "Большой бедлам"
+  },
+  "0110671": {
+    "movieid": "0110671",
+    "director": "Alan Jacobs",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:38",
+    "name": "Нина берёт любовника"
+  },
+  "0110632": {
+    "movieid": "0110632",
+    "director": "Oliver Stone",
+    "budget": "34,000,000",
+    "gross": "50,287,182",
+    "runtime": "1:59",
+    "name": "Прирожденные убийцы"
+  },
+  "0110737": {
+    "movieid": "0110737",
+    "director": "Norman Jewison",
+    "budget": "N/A",
+    "gross": "20,059,210",
+    "runtime": "1:49",
+    "name": "Только ты"
+  },
+  "0110729": {
+    "movieid": "0110729",
+    "director": "Lee Tamahori",
+    "budget": "N/A",
+    "gross": "1,608,610",
+    "runtime": "1:42",
+    "name": "Когда-то были воинами"
+  },
+  "0114151": {
+    "movieid": "0114151",
+    "director": "Anne Goursaud",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:46",
+    "name": "Ядовитый плющ 2: Лили"
+  },
+  "0114069": {
+    "movieid": "0114069",
+    "director": "Wolfgang Petersen",
+    "budget": "50,000,000",
+    "gross": "189,859,560",
+    "runtime": "2:07",
+    "name": "Эпидемия"
+  },
+  "0110413": {
+    "movieid": "0110413",
+    "director": "Luc Besson",
+    "budget": "16,000,000",
+    "gross": "20,330,788",
+    "runtime": "1:50",
+    "name": "Леон"
+  },
+  "0114113": {
+    "movieid": "0114113",
+    "director": "Mira Nair",
+    "budget": "11,000,000",
+    "gross": "2,832,826",
+    "runtime": "1:53",
+    "name": "Семья Перес"
+  },
+  "0114210": {
+    "movieid": "0114210",
+    "director": "Joshua Brand",
+    "budget": "N/A",
+    "gross": "345,972",
+    "runtime": "1:34",
+    "name": "Пироманьяк: История любви"
+  },
+  "0110912": {
+    "movieid": "0110912",
+    "director": "Quentin Tarantino",
+    "budget": "8,000,000",
+    "gross": "213,928,762",
+    "runtime": "2:34",
+    "name": "Криминальное чтиво"
+  },
+  "0105652": {
+    "movieid": "0105652",
+    "director": "Ang Lee",
+    "budget": "400,000",
+    "gross": "152,322",
+    "runtime": "1:45",
+    "name": "Толкающие руки"
+  },
+  "0110889": {
+    "movieid": "0110889",
+    "director": "Antonia Bird",
+    "budget": "N/A",
+    "gross": "4,165,845",
+    "runtime": "1:45",
+    "name": "Священник"
+  },
+  "0110932": {
+    "movieid": "0110932",
+    "director": "Robert Redford",
+    "budget": "31,000,000",
+    "gross": "24,822,619",
+    "runtime": "2:13",
+    "name": "Телевикторина"
+  },
+  "0114129": {
+    "movieid": "0114129",
+    "director": "Kayo Hatta",
+    "budget": "N/A",
+    "gross": "1,238,905",
+    "runtime": "1:34",
+    "name": "Невеста по фотографии"
+  },
+  "0110963": {
+    "movieid": "0110963",
+    "director": "Patrice Chéreau",
+    "budget": "EM",
+    "gross": "1,318,578",
+    "runtime": "2:41",
+    "name": "Королева Марго"
+  },
+  "0114214": {
+    "movieid": "0114214",
+    "director": "Sam Raimi",
+    "budget": "32,000,000",
+    "gross": "18,636,537",
+    "runtime": "1:48",
+    "name": "Быстрый и мёртвый"
+  },
+  "0114296": {
+    "movieid": "0114296",
+    "director": "Peter Yates",
+    "budget": "22,000,000",
+    "gross": "12,096,881",
+    "runtime": "1:48",
+    "name": "Соседи по комнате"
+  },
+  "0110907": {
+    "movieid": "0110907",
+    "director": "Robert Altman",
+    "budget": "18,000,000",
+    "gross": "11,300,653",
+    "runtime": "2:13",
+    "name": "Высокая мода"
+  },
+  "0111495": {
+    "movieid": "0111495",
+    "director": "Krzysztof Kieslowski",
+    "budget": "N/A",
+    "gross": "3,641,980",
+    "runtime": "1:39",
+    "name": "Три цвета: Красный"
+  },
+  "0108394": {
+    "movieid": "0108394",
+    "director": "Krzysztof Kieslowski",
+    "budget": "N/A",
+    "gross": "1,552,993",
+    "runtime": "1:38",
+    "name": "Три цвета: Синий"
+  },
+  "0111507": {
+    "movieid": "0111507",
+    "director": "Krzysztof Kieslowski",
+    "budget": "N/A",
+    "gross": "1,289,366",
+    "runtime": "1:32",
+    "name": "Три цвета: Белый"
+  },
+  "0114268": {
+    "movieid": "0114268",
+    "director": "Fred Gerber",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:25",
+    "name": "Ребёнок напрокат"
+  },
+  "0110965": {
+    "movieid": "0110965",
+    "director": "George Mihalka",
+    "budget": "A$2,500,000",
+    "gross": "N/A",
+    "runtime": "1:34",
+    "name": "Родственный страх"
+  },
+  "0114571": {
+    "movieid": "0114571",
+    "director": "Harold Ramis",
+    "budget": "N/A",
+    "gross": "912,082",
+    "runtime": "1:35",
+    "name": "Стюарт спасает свою семью"
+  },
+  "0111333": {
+    "movieid": "0111333",
+    "director": "Richard Rich",
+    "budget": "45,000,000",
+    "gross": "9,771,658",
+    "runtime": "1:33",
+    "name": "Принцесса Лебедь"
+  },
+  "0111112": {
+    "movieid": "0111112",
+    "director": "John Sayles",
+    "budget": "3,000,000",
+    "gross": "6,159,269",
+    "runtime": "1:43",
+    "name": "Тайна острова Роан-Иниш"
+  },
+  "0111255": {
+    "movieid": "0111255",
+    "director": "Luis Llosa",
+    "budget": "45,000,000",
+    "gross": "170,362,582",
+    "runtime": "1:50",
+    "name": "Специалист"
+  },
+  "0111282": {
+    "movieid": "0111282",
+    "director": "Roland Emmerich",
+    "budget": "55,000,000",
+    "gross": "196,567,262",
+    "runtime": "1:56",
+    "name": "Звёздные врата"
+  },
+  "0111070": {
+    "movieid": "0111070",
+    "director": "John Pasquin",
+    "budget": "22,000,000",
+    "gross": "190,539,357",
+    "runtime": "1:37",
+    "name": "Санта Клаус"
+  },
+  "0111161": {
+    "movieid": "0111161",
+    "director": "Frank Darabont",
+    "budget": "25,000,000",
+    "gross": "29,333,735",
+    "runtime": "2:22",
+    "name": "Побег из Шоушенка"
+  },
+  "0111149": {
+    "movieid": "0111149",
+    "director": "Danny Boyle",
+    "budget": "2,500,000",
+    "gross": "8,418,797",
+    "runtime": "1:29",
+    "name": "Неглубокая могила"
+  },
+  "0108260": {
+    "movieid": "0108260",
+    "director": "Scott McGeheeDavid Siegel",
+    "budget": "N/A",
+    "gross": "102,780",
+    "runtime": "1:36",
+    "name": "Швы"
+  },
+  "0106966": {
+    "movieid": "0106966",
+    "director": "Tomás Gutiérrez AleaJuan Carlos Tabío",
+    "budget": "N/A",
+    "gross": "2,087,569",
+    "runtime": "1:48",
+    "name": "Клубника и шоколад"
+  },
+  "0114594": {
+    "movieid": "0114594",
+    "director": "George Huang",
+    "budget": "700,000",
+    "gross": "382,928",
+    "runtime": "1:33",
+    "name": "Среди акул"
+  },
+  "0111309": {
+    "movieid": "0111309",
+    "director": "Geoff BurtonKevin Dowling",
+    "budget": "$3,465,000",
+    "gross": "766,464",
+    "runtime": "1:40",
+    "name": "Чего мы стоим в жизни"
+  },
+  "0113936": {
+    "movieid": "0113936",
+    "director": "Kelly Makin",
+    "budget": "N/A",
+    "gross": "4,686,937",
+    "runtime": "1:31",
+    "name": "Большое путешествие"
+  },
+  "0110081": {
+    "movieid": "0110081",
+    "director": "Yimou Zhang",
+    "budget": "N/A",
+    "gross": "2,332,728",
+    "runtime": "2:13",
+    "name": "Жить"
+  },
+  "0114614": {
+    "movieid": "0114614",
+    "director": "Rachel Talalay",
+    "budget": "25,000,000",
+    "gross": "4,064,495",
+    "runtime": "1:44",
+    "name": "Танкистка"
+  },
+  "0114608": {
+    "movieid": "0114608",
+    "director": "Ernest R. Dickerson",
+    "budget": "13,000,000",
+    "gross": "21,089,146",
+    "runtime": "1:32",
+    "name": "Байки из склепа: Демон ночи"
+  },
+  "0111280": {
+    "movieid": "0111280",
+    "director": "David Carson",
+    "budget": "35,000,000",
+    "gross": "118,071,125",
+    "runtime": "1:58",
+    "name": "Звёздный путь: Поколения"
+  },
+  "0114609": {
+    "movieid": "0114609",
+    "director": "Rusty Cundieff",
+    "budget": "6,000,000",
+    "gross": "11,837,928",
+    "runtime": "1:38",
+    "name": "Истории из морга"
+  },
+  "0111454": {
+    "movieid": "0111454",
+    "director": "Brian Gilbert",
+    "budget": "N/A",
+    "gross": "538,534",
+    "runtime": "2:05",
+    "name": "Том и Вив"
+  },
+  "0114852": {
+    "movieid": "0114852",
+    "director": "John Carpenter",
+    "budget": "22,000,000",
+    "gross": "9,418,365",
+    "runtime": "1:38",
+    "name": "Деревня проклятых"
+  },
+  "0114694": {
+    "movieid": "0114694",
+    "director": "Peter Segal",
+    "budget": "20,000,000",
+    "gross": "32,679,899",
+    "runtime": "1:37",
+    "name": "Увалень Томми"
+  },
+  "0111590": {
+    "movieid": "0111590",
+    "director": "Louis Malle",
+    "budget": "N/A",
+    "gross": "1,746,050",
+    "runtime": "1:59",
+    "name": "Ваня с 42-й улицы"
+  },
+  "0114788": {
+    "movieid": "0114788",
+    "director": "Steven Soderbergh",
+    "budget": "6,500,000",
+    "gross": "536,023",
+    "runtime": "1:39",
+    "name": "Там внутри"
+  },
+  "0114888": {
+    "movieid": "0114888",
+    "director": "Preston A. Whitmore II",
+    "budget": "15,000,000",
+    "gross": "6,014,341",
+    "runtime": "1:28",
+    "name": "Ходячие мертвецы"
+  },
+  "0108550": {
+    "movieid": "0108550",
+    "director": "Lasse Hallström",
+    "budget": "11,000,000",
+    "gross": "10,032,765",
+    "runtime": "1:58",
+    "name": "Что гложет Гилберта Грейпа"
+  },
+  "0114857": {
+    "movieid": "0114857",
+    "director": "Brett Leonard",
+    "budget": "30,000,000",
+    "gross": "24,047,675",
+    "runtime": "1:46",
+    "name": "Виpтуозность"
+  },
+  "0114924": {
+    "movieid": "0114924",
+    "director": "Jon Turteltaub",
+    "budget": "17,000,000",
+    "gross": "182,057,016",
+    "runtime": "1:43",
+    "name": "Пока ты спал"
+  },
+  "0111667": {
+    "movieid": "0111667",
+    "director": "Jon Avnet",
+    "budget": "N/A",
+    "gross": "16,928,556",
+    "runtime": "2:06",
+    "name": "Война"
+  },
+  "0109655": {
+    "movieid": "0109655",
+    "director": "Mina Shum",
+    "budget": "N/A",
+    "gross": "759,393",
+    "runtime": "1:27",
+    "name": "Двойная радость"
+  },
+  "0110598": {
+    "movieid": "0110598",
+    "director": "P.J. Hogan",
+    "budget": "9,000,000",
+    "gross": "15,510,889",
+    "runtime": "1:46",
+    "name": "Свадьба Мюриэл"
+  },
+  "0112435": {
+    "movieid": "0112435",
+    "director": "Melanie Mayron",
+    "budget": "6,500,000",
+    "gross": "9,685,976",
+    "runtime": "1:34",
+    "name": "Веселые няньки"
+  },
+  "0109040": {
+    "movieid": "0109040",
+    "director": "Tom Shadyac",
+    "budget": "15,000,000",
+    "gross": "107,217,396",
+    "runtime": "1:26",
+    "name": "Эйс Вентура: Розыск домашних животных"
+  },
+  "0109045": {
+    "movieid": "0109045",
+    "director": "Stephan Elliott",
+    "budget": "N/A",
+    "gross": "11,302,168",
+    "runtime": "1:44",
+    "name": "Приключения Присциллы, королевы пустыни"
+  },
+  "0106339": {
+    "movieid": "0106339",
+    "director": "Iain Softley",
+    "budget": "N/A",
+    "gross": "4,708,451",
+    "runtime": "1:40",
+    "name": "Битлз: Четыре плюс один (Пятый в квартете)"
+  },
+  "0104779": {
+    "movieid": "0104779",
+    "director": "Roman Polanski",
+    "budget": "5,000,000",
+    "gross": "1,862,805",
+    "runtime": "2:19",
+    "name": "Горькая луна"
+  },
+  "0109348": {
+    "movieid": "0109348",
+    "director": "Woody Allen",
+    "budget": "20,000,000",
+    "gross": "13,383,747",
+    "runtime": "1:38",
+    "name": "Пули над Бродвеем"
+  },
+  "0109444": {
+    "movieid": "0109444",
+    "director": "Phillip Noyce",
+    "budget": "62,000,000",
+    "gross": "215,887,717",
+    "runtime": "2:21",
+    "name": "Прямая и явная угроза"
+  },
+  "0109446": {
+    "movieid": "0109446",
+    "director": "Joel Schumacher",
+    "budget": "45,000,000",
+    "gross": "117,615,211",
+    "runtime": "1:59",
+    "name": "Клиент"
+  },
+  "0109484": {
+    "movieid": "0109484",
+    "director": "Jessie Nelson",
+    "budget": "15,000,000",
+    "gross": "20,164,171",
+    "runtime": "1:55",
+    "name": "Коррина, Коррина"
+  },
+  "0109504": {
+    "movieid": "0109504",
+    "director": "Spike Lee",
+    "budget": "14,000,000",
+    "gross": "13,642,925",
+    "runtime": "1:55",
+    "name": "Круклин"
+  },
+  "0109506": {
+    "movieid": "0109506",
+    "director": "Alex Proyas",
+    "budget": "23,000,000",
+    "gross": "50,844,565",
+    "runtime": "1:42",
+    "name": "Ворон"
+  },
+  "0109450": {
+    "movieid": "0109450",
+    "director": "Ron Shelton",
+    "budget": "N/A",
+    "gross": "1,007,583",
+    "runtime": "2:08",
+    "name": "Кобб"
+  },
+  "0109813": {
+    "movieid": "0109813",
+    "director": "Brian Levant",
+    "budget": "46,000,000",
+    "gross": "341,631,208",
+    "runtime": "1:31",
+    "name": "Флинтстоуны"
+  },
+  "0109830": {
+    "movieid": "0109830",
+    "director": "Robert Zemeckis",
+    "budget": "55,000,000",
+    "gross": "678,226,465",
+    "runtime": "2:22",
+    "name": "Форрест Гамп"
+  },
+  "0109831": {
+    "movieid": "0109831",
+    "director": "Mike Newell",
+    "budget": "4,400,000",
+    "gross": "245,700,832",
+    "runtime": "1:57",
+    "name": "Четыре свадьбы и одни похороны"
+  },
+  "0113305": {
+    "movieid": "0113305",
+    "director": "John Singleton",
+    "budget": "N/A",
+    "gross": "38,290,723",
+    "runtime": "2:08",
+    "name": "Bыcшее образование"
+  },
+  "0110091": {
+    "movieid": "0110091",
+    "director": "Darnell Martin",
+    "budget": "N/A",
+    "gross": "1,760,527",
+    "runtime": "1:44",
+    "name": "А мне так нравится"
+  },
+  "0110093": {
+    "movieid": "0110093",
+    "director": "Charles Shyer",
+    "budget": "45,000,000",
+    "gross": "30,806,194",
+    "runtime": "2:03",
+    "name": "Я люблю неприятности"
+  },
+  "0110167": {
+    "movieid": "0110167",
+    "director": "Andrew Bergman",
+    "budget": "20,000,000",
+    "gross": "37,939,757",
+    "runtime": "1:41",
+    "name": "Счастливый случай"
+  },
+  "0110213": {
+    "movieid": "0110213",
+    "director": "Stephen Sommers",
+    "budget": "27,000,000",
+    "gross": "52,389,402",
+    "runtime": "1:51",
+    "name": "Книга джунглей"
+  },
+  "0107472": {
+    "movieid": "0107472",
+    "director": "N/A",
+    "budget": "N/A",
+    "gross": "449,707",
+    "runtime": "3:03",
+    "name": "Прекрасная и ужасная жизнь Лени Рифеншталь"
+  },
+  "0110357": {
+    "movieid": "0110357",
+    "director": "Roger AllersRob Minkoff",
+    "budget": "45,000,000",
+    "gross": "979,161,373",
+    "runtime": "1:28",
+    "name": "Король лев"
+  },
+  "0107426": {
+    "movieid": "0107426",
+    "director": "Bernardo Bertolucci",
+    "budget": "35,000,000",
+    "gross": "4,885,392",
+    "runtime": "2:03",
+    "name": "Маленький Будда"
+  },
+  "0111686": {
+    "movieid": "0111686",
+    "director": "Wes Craven",
+    "budget": "8,000,000",
+    "gross": "19,721,741",
+    "runtime": "1:52",
+    "name": "Кошмар на улице Вязов 7: Новый кошмар"
+  },
+  "0110475": {
+    "movieid": "0110475",
+    "director": "Chuck Russell",
+    "budget": "23,000,000",
+    "gross": "351,583,407",
+    "runtime": "1:41",
+    "name": "Маска"
+  },
+  "0110478": {
+    "movieid": "0110478",
+    "director": "Richard Donner",
+    "budget": "75,000,000",
+    "gross": "183,031,272",
+    "runtime": "2:07",
+    "name": "Мэверик"
+  },
+  "0110588": {
+    "movieid": "0110588",
+    "director": "Alan Rudolph",
+    "budget": "7,000,000",
+    "gross": "2,144,667",
+    "runtime": "2:05",
+    "name": "Миссис Паркер и порочный круг"
+  },
+  "0110622": {
+    "movieid": "0110622",
+    "director": "Peter Segal",
+    "budget": "30,000,000",
+    "gross": "51,132,598",
+    "runtime": "1:23",
+    "name": "Голый пистолет 33 1/3: Последний выпад"
+  },
+  "0110771": {
+    "movieid": "0110771",
+    "director": "Ron Howard",
+    "budget": "6,000,000",
+    "gross": "48,424,341",
+    "runtime": "1:52",
+    "name": "Газета"
+  },
+  "0110950": {
+    "movieid": "0110950",
+    "director": "Ben Stiller",
+    "budget": "11,500,000",
+    "gross": "33,351,557",
+    "runtime": "1:39",
+    "name": "Реальность кусается"
+  },
+  "0105226": {
+    "movieid": "0105226",
+    "director": "John Dahl",
+    "budget": "8,000,000",
+    "gross": "2,502,551",
+    "runtime": "1:38",
+    "name": "Придорожное заведение"
+  },
+  "0110989": {
+    "movieid": "0110989",
+    "director": "Donald Petrie",
+    "budget": "40,000,000",
+    "gross": "38,087,756",
+    "runtime": "1:35",
+    "name": "Богатенький Ричи"
+  },
+  "0110997": {
+    "movieid": "0110997",
+    "director": "Curtis Hanson",
+    "budget": "45,000,000",
+    "gross": "94,216,343",
+    "runtime": "1:51",
+    "name": "Дикая река"
+  },
+  "0111257": {
+    "movieid": "0111257",
+    "director": "Jan de Bont",
+    "budget": "30,000,000",
+    "gross": "350,448,145",
+    "runtime": "1:56",
+    "name": "Скорость"
+  },
+  "0111256": {
+    "movieid": "0111256",
+    "director": "Ron Underwood",
+    "budget": "38,000,000",
+    "gross": "20,667,959",
+    "runtime": "1:39",
+    "name": "Без слов"
+  },
+  "0111438": {
+    "movieid": "0111438",
+    "director": "Peter Hyams",
+    "budget": "27,000,000",
+    "gross": "101,646,581",
+    "runtime": "1:39",
+    "name": "Патруль времени"
+  },
+  "0111503": {
+    "movieid": "0111503",
+    "director": "James Cameron",
+    "budget": "115,000,000",
+    "gross": "378,882,411",
+    "runtime": "2:21",
+    "name": "Правдивая ложь"
+  },
+  "0111693": {
+    "movieid": "0111693",
+    "director": "Luis Mandoki",
+    "budget": "N/A",
+    "gross": "50,021,959",
+    "runtime": "2:06",
+    "name": "Когда мужчина любит женщину"
+  },
+  "0111742": {
+    "movieid": "0111742",
+    "director": "Mike Nichols",
+    "budget": "70,000,000",
+    "gross": "131,002,597",
+    "runtime": "2:05",
+    "name": "Волк"
+  },
+  "0111756": {
+    "movieid": "0111756",
+    "director": "Lawrence Kasdan",
+    "budget": "63,000,000",
+    "gross": "25,052,000",
+    "runtime": "3:11",
+    "name": "Уайатт Эрп"
+  },
+  "0112443": {
+    "movieid": "0112443",
+    "director": "Damian Harris",
+    "budget": "15,000,000",
+    "gross": "3,674,841",
+    "runtime": "1:48",
+    "name": "Плохая компания"
+  },
+  "0110455": {
+    "movieid": "0110455",
+    "director": "Suri Krishnamma",
+    "budget": "N/A",
+    "gross": "920,916",
+    "runtime": "1:39",
+    "name": "Любовь без имени"
+  },
+  "0111048": {
+    "movieid": "0111048",
+    "director": "Jefery Levy",
+    "budget": "N/A",
+    "gross": "63,513",
+    "runtime": "1:36",
+    "name": "Японский городовой"
+  },
+  "0110399": {
+    "movieid": "0110399",
+    "director": "Keenen Ivory Wayans",
+    "budget": "10,000,000",
+    "gross": "29,392,418",
+    "runtime": "1:40",
+    "name": "Пропавшие миллионы"
+  },
+  "0112570": {
+    "movieid": "0112570",
+    "director": "Robert Lee KingRaoul O'ConnellBrian Sloan",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:31",
+    "name": "Boys Life: Three Stories of Love, Lust, and Liberation"
+  },
+  "0109454": {
+    "movieid": "0109454",
+    "director": "Yves Angelo",
+    "budget": "N/A",
+    "gross": "464,284",
+    "runtime": "1:50",
+    "name": "Полковник Шабер"
+  },
+  "0059170": {
+    "movieid": "0059170",
+    "director": "Russ Meyer",
+    "budget": "45,000",
+    "gross": "N/A",
+    "runtime": "1:23",
+    "name": "Faster, Pussycat! Kill! Kill!"
+  },
+  "0110186": {
+    "movieid": "0110186",
+    "director": "Doug McHenry",
+    "budget": "7,000,000",
+    "gross": "20,851,521",
+    "runtime": "1:59",
+    "name": "Узы братства"
+  },
+  "0111301": {
+    "movieid": "0111301",
+    "director": "Steven E. de Souza",
+    "budget": "35,000,000",
+    "gross": "99,433,436",
+    "runtime": "1:42",
+    "name": "Уличный боец"
+  },
+  "0110027": {
+    "movieid": "0110027",
+    "director": "Andrew Morahan",
+    "budget": "26,000,000",
+    "gross": "12,303,080",
+    "runtime": "1:39",
+    "name": "Горец 3: Последнее измерение"
+  },
+  "0109785": {
+    "movieid": "0109785",
+    "director": "Michael Corrente",
+    "budget": "80,000",
+    "gross": "514,775",
+    "runtime": "1:37",
+    "name": "Федерал Хилл"
+  },
+  "0113409": {
+    "movieid": "0113409",
+    "director": "John Carpenter",
+    "budget": "8,000,000",
+    "gross": "8,926,413",
+    "runtime": "1:35",
+    "name": "В пасти безумия"
+  },
+  "0109021": {
+    "movieid": "0109021",
+    "director": "John G. Avildsen",
+    "budget": "7,000,000",
+    "gross": "19,623,396",
+    "runtime": "1:45",
+    "name": "8 секунд"
+  },
+  "0109035": {
+    "movieid": "0109035",
+    "director": "Jeff Pollack",
+    "budget": "3,500,000",
+    "gross": "16,192,320",
+    "runtime": "1:36",
+    "name": "Над кольцом"
+  },
+  "0106220": {
+    "movieid": "0106220",
+    "director": "Barry Sonnenfeld",
+    "budget": "47,000,000",
+    "gross": "48,919,043",
+    "runtime": "1:34",
+    "name": "Ценности семейки Аддамс"
+  },
+  "0106226": {
+    "movieid": "0106226",
+    "director": "Martin Scorsese",
+    "budget": "34,000,000",
+    "gross": "32,255,953",
+    "runtime": "2:19",
+    "name": "Эпоха невинности"
+  },
+  "0109068": {
+    "movieid": "0109068",
+    "director": "Michael Lehmann",
+    "budget": "N/A",
+    "gross": "5,751,882",
+    "runtime": "1:32",
+    "name": "Пустоголовые"
+  },
+  "0109067": {
+    "movieid": "0109067",
+    "director": "Paul Michael Glaser",
+    "budget": "17,080,000",
+    "gross": "21,011,318",
+    "runtime": "1:47",
+    "name": "Непобедимый дикарь"
+  },
+  "0106292": {
+    "movieid": "0106292",
+    "director": "John Badham",
+    "budget": "N/A",
+    "gross": "20,208,496",
+    "runtime": "1:48",
+    "name": "Слежка 2: Снова в засаде"
+  },
+  "0109198": {
+    "movieid": "0109198",
+    "director": "Jonathan Kaplan",
+    "budget": "25,000,000",
+    "gross": "15,240,435",
+    "runtime": "1:39",
+    "name": "Плохие девчонки"
+  },
+  "0109219": {
+    "movieid": "0109219",
+    "director": "Whit Stillman",
+    "budget": "3,200,000",
+    "gross": "7,266,973",
+    "runtime": "1:41",
+    "name": "Барселона"
+  },
+  "0106379": {
+    "movieid": "0106379",
+    "director": "Bill Forsyth",
+    "budget": "40,000,000",
+    "gross": "1,519,366",
+    "runtime": "2:02",
+    "name": "Быть человеком"
+  },
+  "0106400": {
+    "movieid": "0106400",
+    "director": "Penelope Spheeris",
+    "budget": "25,000,000",
+    "gross": "57,405,220",
+    "runtime": "1:32",
+    "name": "Деревенщина из Беверли-Хиллз"
+  },
+  "0109254": {
+    "movieid": "0109254",
+    "director": "John Landis",
+    "budget": "50,000,000",
+    "gross": "119,208,989",
+    "runtime": "1:44",
+    "name": "Полицейский из Беверли-Хиллз 3"
+  },
+  "0109279": {
+    "movieid": "0109279",
+    "director": "Caroline Thompson",
+    "budget": "N/A",
+    "gross": "4,630,377",
+    "runtime": "1:28",
+    "name": "Чeрный красавец"
+  },
+  "0109297": {
+    "movieid": "0109297",
+    "director": "Michael Apted",
+    "budget": "11,000,000",
+    "gross": "16,696,219",
+    "runtime": "1:46",
+    "name": "Мгновение ока"
+  },
+  "0109303": {
+    "movieid": "0109303",
+    "director": "Stephen Hopkins",
+    "budget": "28,000,000",
+    "gross": "30,156,002",
+    "runtime": "2:01",
+    "name": "Взорванная жизнь"
+  },
+  "0109305": {
+    "movieid": "0109305",
+    "director": "William Friedkin",
+    "budget": "N/A",
+    "gross": "23,070,663",
+    "runtime": "1:48",
+    "name": "Азартная игра"
+  },
+  "0109306": {
+    "movieid": "0109306",
+    "director": "Tony Richardson",
+    "budget": "16,000,000",
+    "gross": "3,359,465",
+    "runtime": "1:41",
+    "name": "Голубое небо"
+  },
+  "0106452": {
+    "movieid": "0106452",
+    "director": "Abel Ferrara",
+    "budget": "13,000,000",
+    "gross": "428,868",
+    "runtime": "1:27",
+    "name": "Похитители тел"
+  },
+  "0106471": {
+    "movieid": "0106471",
+    "director": "Jennifer Lynch",
+    "budget": "N/A",
+    "gross": "1,796,389",
+    "runtime": "1:47",
+    "name": "Елена в ящике"
+  },
+  "0106489": {
+    "movieid": "0106489",
+    "director": "Robert De Niro",
+    "budget": "22,000,000",
+    "gross": "17,287,898",
+    "runtime": "2:01",
+    "name": "Бронкская история"
+  },
+  "0109361": {
+    "movieid": "0109361",
+    "director": "Adam Resnick",
+    "budget": "9,000,000",
+    "gross": "3,662,459",
+    "runtime": "1:20",
+    "name": "Юнга"
+  },
+  "0106505": {
+    "movieid": "0106505",
+    "director": "John Whitesell",
+    "budget": "13,000,000",
+    "gross": "2,570,550",
+    "runtime": "1:30",
+    "name": "Девушка из календаря"
+  },
+  "0106519": {
+    "movieid": "0106519",
+    "director": "Brian De Palma",
+    "budget": "30,000,000",
+    "gross": "63,848,322",
+    "runtime": "2:24",
+    "name": "Путь Карлито"
+  },
+  "0109439": {
+    "movieid": "0109439",
+    "director": "Paul Weiland",
+    "budget": "40,000,000",
+    "gross": "43,622,150",
+    "runtime": "1:56",
+    "name": "Городские пижоны 2: Легенда о золоте Кёрли"
+  },
+  "0109443": {
+    "movieid": "0109443",
+    "director": "Mick Jackson",
+    "budget": "18,000,000",
+    "gross": "7,355,425",
+    "runtime": "1:47",
+    "name": "Стерлось из памяти"
+  },
+  "0106582": {
+    "movieid": "0106582",
+    "director": "Renny Harlin",
+    "budget": "70,000,000",
+    "gross": "255,000,211",
+    "runtime": "1:53",
+    "name": "Скалолаз"
+  },
+  "0106598": {
+    "movieid": "0106598",
+    "director": "Steve Barron",
+    "budget": "30,000,000",
+    "gross": "21,274,717",
+    "runtime": "1:28",
+    "name": "Яйцеголовые"
+  },
+  "0109456": {
+    "movieid": "0109456",
+    "director": "Richard Rush",
+    "budget": "40,000,000",
+    "gross": "19,726,050",
+    "runtime": "2:01",
+    "name": "Цвет ночи"
+  },
+  "0109480": {
+    "movieid": "0109480",
+    "director": "Michael Ritchie",
+    "budget": "N/A",
+    "gross": "11,391,093",
+    "runtime": "1:33",
+    "name": "Отвали!"
+  },
+  "0109493": {
+    "movieid": "0109493",
+    "director": "Gregg Champion",
+    "budget": "35,000,000",
+    "gross": "20,280,016",
+    "runtime": "1:42",
+    "name": "У ковбоев так принято"
+  },
+  "0106673": {
+    "movieid": "0106673",
+    "director": "Ivan Reitman",
+    "budget": "28,000,000",
+    "gross": "63,270,710",
+    "runtime": "1:50",
+    "name": "Дейв"
+  },
+  "0106677": {
+    "movieid": "0106677",
+    "director": "Richard Linklater",
+    "budget": "6,900,000",
+    "gross": "8,260,382",
+    "runtime": "1:43",
+    "name": "Под кайфом и в смятении"
+  },
+  "0106697": {
+    "movieid": "0106697",
+    "director": "Marco Brambilla",
+    "budget": "57,000,000",
+    "gross": "58,056,466",
+    "runtime": "1:55",
+    "name": "Разрушитель"
+  },
+  "0106834": {
+    "movieid": "0106834",
+    "director": "Gus Van Sant",
+    "budget": "8,000,000",
+    "gross": "1,708,873",
+    "runtime": "1:46",
+    "name": "Даже девушки-ковбои иногда грустят"
+  },
+  "0106873": {
+    "movieid": "0106873",
+    "director": "Carl Reiner",
+    "budget": "N/A",
+    "gross": "7,839,327",
+    "runtime": "1:31",
+    "name": "Фатальный инстинкт"
+  },
+  "0106332": {
+    "movieid": "0106332",
+    "director": "Kaige Chen",
+    "budget": "4,000,000",
+    "gross": "7,437,725",
+    "runtime": "2:51",
+    "name": "Прощай, моя наложница"
+  },
+  "0106881": {
+    "movieid": "0106881",
+    "director": "Peter Weir",
+    "budget": "N/A",
+    "gross": "6,995,302",
+    "runtime": "2:02",
+    "name": "Бесстрашный"
+  },
+  "0106880": {
+    "movieid": "0106880",
+    "director": "Rusty Cundieff",
+    "budget": "999,999",
+    "gross": "233,824",
+    "runtime": "1:28",
+    "name": "Страх перед черной шляпой"
+  },
+  "0111732": {
+    "movieid": "0111732",
+    "director": "Alek Keshishian",
+    "budget": "N/A",
+    "gross": "20,016,254",
+    "runtime": "1:41",
+    "name": "С почестями"
+  },
+  "0106926": {
+    "movieid": "0106926",
+    "director": "Steve Kloves",
+    "budget": "N/A",
+    "gross": "9,709,451",
+    "runtime": "2:06",
+    "name": "Плоть от плоти"
+  },
+  "0111712": {
+    "movieid": "0111712",
+    "director": "John Irvin",
+    "budget": "N/A",
+    "gross": "6,243,722",
+    "runtime": "1:41",
+    "name": "Вдовья гора"
+  },
+  "0106941": {
+    "movieid": "0106941",
+    "director": "Barry Sonnenfeld",
+    "budget": "30,000,000",
+    "gross": "11,146,270",
+    "runtime": "1:36",
+    "name": "Консьерж"
+  },
+  "0106918": {
+    "movieid": "0106918",
+    "director": "Sydney Pollack",
+    "budget": "42,000,000",
+    "gross": "270,248,367",
+    "runtime": "2:34",
+    "name": "Фирма"
+  },
+  "0106965": {
+    "movieid": "0106965",
+    "director": "Simon Wincer",
+    "budget": "20,000,000",
+    "gross": "153,709,806",
+    "runtime": "1:52",
+    "name": "Освободите Вилли"
+  },
+  "0109842": {
+    "movieid": "0109842",
+    "director": "Boaz Yakin",
+    "budget": "3,500,000",
+    "gross": "8,094,616",
+    "runtime": "1:54",
+    "name": "Дерзкий"
+  },
+  "0106977": {
+    "movieid": "0106977",
+    "director": "Andrew Davis",
+    "budget": "44,000,000",
+    "gross": "368,875,760",
+    "runtime": "2:10",
+    "name": "Беглец"
+  },
+  "0107004": {
+    "movieid": "0107004",
+    "director": "Walter Hill",
+    "budget": "35,000,000",
+    "gross": "18,635,620",
+    "runtime": "1:55",
+    "name": "Джеронимо: Американская легенда"
+  },
+  "0109890": {
+    "movieid": "0109890",
+    "director": "Roger Donaldson",
+    "budget": "N/A",
+    "gross": "30,057,974",
+    "runtime": "1:55",
+    "name": "Побег"
+  },
+  "0109891": {
+    "movieid": "0109891",
+    "director": "Howard Deutch",
+    "budget": "30,000,000",
+    "gross": "18,869,594",
+    "runtime": "1:49",
+    "name": "Как справиться с отцом"
+  },
+  "0109913": {
+    "movieid": "0109913",
+    "director": "Rose Troche",
+    "budget": "15,000",
+    "gross": "2,405,285",
+    "runtime": "1:23",
+    "name": "Ловись, рыбка"
+  },
+  "0107076": {
+    "movieid": "0107076",
+    "director": "John Woo",
+    "budget": "18,000,000",
+    "gross": "74,189,677",
+    "runtime": "1:37",
+    "name": "Трудная мишень"
+  },
+  "0107144": {
+    "movieid": "0107144",
+    "director": "Jim Abrahams",
+    "budget": "25,000,000",
+    "gross": "133,752,825",
+    "runtime": "1:26",
+    "name": "Горячие головы 2"
+  },
+  "0113674": {
+    "movieid": "0113674",
+    "director": "Julianna Lavin",
+    "budget": "N/A",
+    "gross": "23,808",
+    "runtime": "1:35",
+    "name": "Мальчишник наоборот"
+  },
+  "0112966": {
+    "movieid": "0112966",
+    "director": "Christopher Monger",
+    "budget": "40,997,769",
+    "gross": "10,904,930",
+    "runtime": "1:39",
+    "name": "Англичанин, который поднялся на холм, но спустился с горы"
+  },
+  "0107151": {
+    "movieid": "0107151",
+    "director": "Bille August",
+    "budget": "40,000,000",
+    "gross": "6,265,311",
+    "runtime": "2:25",
+    "name": "Дом духов"
+  },
+  "0110064": {
+    "movieid": "0110064",
+    "director": "Eric Meza",
+    "budget": "N/A",
+    "gross": "19,281,235",
+    "runtime": "1:40",
+    "name": "Домашняя вечеринка 3"
+  },
+  "0110074": {
+    "movieid": "0110074",
+    "director": "Joel CoenEthan Coen",
+    "budget": "40,000,000",
+    "gross": "2,816,518",
+    "runtime": "1:51",
+    "name": "Подручный Хадсакера"
+  },
+  "0110097": {
+    "movieid": "0110097",
+    "director": "James L. Brooks",
+    "budget": "40,000,000",
+    "gross": "10,424,645",
+    "runtime": "1:55",
+    "name": "Я сделаю все"
+  },
+  "0110123": {
+    "movieid": "0110123",
+    "director": "Daniel Petrie Jr.",
+    "budget": "N/A",
+    "gross": "28,881,266",
+    "runtime": "1:31",
+    "name": "Армейские приключения"
+  },
+  "0107206": {
+    "movieid": "0107206",
+    "director": "Wolfgang Petersen",
+    "budget": "40,000,000",
+    "gross": "176,997,168",
+    "runtime": "2:08",
+    "name": "На линии огня"
+  },
+  "0107207": {
+    "movieid": "0107207",
+    "director": "Jim Sheridan",
+    "budget": "13,000,000",
+    "gross": "65,796,862",
+    "runtime": "2:13",
+    "name": "Во имя отца"
+  },
+  "0110137": {
+    "movieid": "0110137",
+    "director": "Matty Rich",
+    "budget": "8,000,000",
+    "gross": "8,880,705",
+    "runtime": "1:50",
+    "name": "Чернильница"
+  },
+  "0108551": {
+    "movieid": "0108551",
+    "director": "Brian Gibson",
+    "budget": "15,000,000",
+    "gross": "39,100,956",
+    "runtime": "1:58",
+    "name": "На что способна любовь"
+  },
+  "0110197": {
+    "movieid": "0110197",
+    "director": "Barry Levinson",
+    "budget": "30,000,000",
+    "gross": "3,783,003",
+    "runtime": "1:52",
+    "name": "Джимми-Голливуд"
+  },
+  "0107286": {
+    "movieid": "0107286",
+    "director": "Stephen Hopkins",
+    "budget": "21,000,000",
+    "gross": "12,526,677",
+    "runtime": "1:50",
+    "name": "Ночь страшного суда"
+  },
+  "0107290": {
+    "movieid": "0107290",
+    "director": "Steven Spielberg",
+    "budget": "63,000,000",
+    "gross": "1,104,379,926",
+    "runtime": "2:07",
+    "name": "Парк юрского периода"
+  },
+  "0107302": {
+    "movieid": "0107302",
+    "director": "Dominic Sena",
+    "budget": "9,000,000",
+    "gross": "2,395,231",
+    "runtime": "1:57",
+    "name": "Калифорния"
+  },
+  "0110265": {
+    "movieid": "0110265",
+    "director": "Roger Avary",
+    "budget": "1,500,000",
+    "gross": "418,961",
+    "runtime": "1:36",
+    "name": "Убить Зои"
+  },
+  "0110305": {
+    "movieid": "0110305",
+    "director": "Daniel Petrie",
+    "budget": "N/A",
+    "gross": "9,994,609",
+    "runtime": "1:34",
+    "name": "Лесси"
+  },
+  "0107362": {
+    "movieid": "0107362",
+    "director": "John McTiernan",
+    "budget": "85,000,000",
+    "gross": "137,298,489",
+    "runtime": "2:10",
+    "name": "Последний киногерой"
+  },
+  "0107413": {
+    "movieid": "0107413",
+    "director": "James Lapine",
+    "budget": "N/A",
+    "gross": "12,440,858",
+    "runtime": "1:31",
+    "name": "Жизнь с Майки"
+  },
+  "0110353": {
+    "movieid": "0110353",
+    "director": "Simon Wincer",
+    "budget": "$36,000,000",
+    "gross": "16,821,273",
+    "runtime": "1:38",
+    "name": "Джек - молния"
+  },
+  "0107468": {
+    "movieid": "0107468",
+    "director": "David Cronenberg",
+    "budget": "17,000,000",
+    "gross": "1,498,795",
+    "runtime": "1:41",
+    "name": "М. Баттерфляй"
+  },
+  "0107478": {
+    "movieid": "0107478",
+    "director": "Richard Benjamin",
+    "budget": "22,000,000",
+    "gross": "104,942,695",
+    "runtime": "1:51",
+    "name": "Сделано в Америке"
+  },
+  "0107497": {
+    "movieid": "0107497",
+    "director": "Harold Becker",
+    "budget": "20,000,000",
+    "gross": "46,405,336",
+    "runtime": "1:47",
+    "name": "Готова на всё"
+  },
+  "0107501": {
+    "movieid": "0107501",
+    "director": "Mel Gibson",
+    "budget": "20,000,000",
+    "gross": "24,760,338",
+    "runtime": "1:55",
+    "name": "Чeловек без лица"
+  },
+  "0107507": {
+    "movieid": "0107507",
+    "director": "Woody Allen",
+    "budget": "13,500,000",
+    "gross": "11,330,911",
+    "runtime": "1:44",
+    "name": "Загадочное убийство в Манхэттэне"
+  },
+  "0107554": {
+    "movieid": "0107554",
+    "director": "Albert HughesAllen Hughes",
+    "budget": "3,500,000",
+    "gross": "27,912,072",
+    "runtime": "1:37",
+    "name": "Угроза для общества"
+  },
+  "0116253": {
+    "movieid": "0116253",
+    "director": "Stuart Baird",
+    "budget": "55,000,000",
+    "gross": "121,969,216",
+    "runtime": "2:13",
+    "name": "Приказано уничтожить"
+  },
+  "0074102": {
+    "movieid": "0074102",
+    "director": "Nagisa Ôshima",
+    "budget": "N/A",
+    "gross": "569",
+    "runtime": "1:49",
+    "name": "Ai no korîda"
+  },
+  "0111689": {
+    "movieid": "0111689",
+    "director": "Tom Noonan",
+    "budget": "120,000",
+    "gross": "141",
+    "runtime": "1:31",
+    "name": "Что случилось тогда..."
+  },
+  "0107616": {
+    "movieid": "0107616",
+    "director": "Kenneth Branagh",
+    "budget": "11,000,000",
+    "gross": "22,549,338",
+    "runtime": "1:51",
+    "name": "Много шума из ничего"
+  },
+  "0107613": {
+    "movieid": "0107613",
+    "director": "Anthony Minghella",
+    "budget": "13,000,000",
+    "gross": "3,125,424",
+    "runtime": "1:38",
+    "name": "Мистер Прекрасный"
+  },
+  "0107614": {
+    "movieid": "0107614",
+    "director": "Chris Columbus",
+    "budget": "25,000,000",
+    "gross": "441,286,195",
+    "runtime": "2:05",
+    "name": "Миссис Даутфайр"
+  },
+  "0107653": {
+    "movieid": "0107653",
+    "director": "Mike Leigh",
+    "budget": "N/A",
+    "gross": "1,797,195",
+    "runtime": "2:11",
+    "name": "Обнаженная"
+  },
+  "0110657": {
+    "movieid": "0110657",
+    "director": "Christopher Cain",
+    "budget": "12,000,000",
+    "gross": "15,876,353",
+    "runtime": "1:47",
+    "name": "Парень-каратист 4"
+  },
+  "0110678": {
+    "movieid": "0110678",
+    "director": "Martin Campbell",
+    "budget": "20,000,000",
+    "gross": "15,339,030",
+    "runtime": "1:58",
+    "name": "Побег невозможен"
+  },
+  "0110687": {
+    "movieid": "0110687",
+    "director": "Rob Reiner",
+    "budget": "40,000,000",
+    "gross": "7,182,747",
+    "runtime": "1:27",
+    "name": "Норт"
+  },
+  "0107756": {
+    "movieid": "0107756",
+    "director": "Sally Potter",
+    "budget": "4,000,000",
+    "gross": "5,410,588",
+    "runtime": "1:34",
+    "name": "Орландо"
+  },
+  "0107808": {
+    "movieid": "0107808",
+    "director": "Clint Eastwood",
+    "budget": "30,000,000",
+    "gross": "135,130,999",
+    "runtime": "2:18",
+    "name": "Совершенный мир"
+  },
+  "0107818": {
+    "movieid": "0107818",
+    "director": "Jonathan Demme",
+    "budget": "26,000,000",
+    "gross": "206,678,440",
+    "runtime": "2:05",
+    "name": "Филадельфия"
+  },
+  "0107822": {
+    "movieid": "0107822",
+    "director": "Jane Campion",
+    "budget": "7,000,000",
+    "gross": "40,185,766",
+    "runtime": "2:01",
+    "name": "Пианино"
+  },
+  "0107840": {
+    "movieid": "0107840",
+    "director": "John Singleton",
+    "budget": "14,000,000",
+    "gross": "27,515,786",
+    "runtime": "1:49",
+    "name": "Поэтичная Джастис"
+  },
+  "0107889": {
+    "movieid": "0107889",
+    "director": "David S. Ward",
+    "budget": "15,000,000",
+    "gross": "23,032,565",
+    "runtime": "1:52",
+    "name": "Программа"
+  },
+  "0111003": {
+    "movieid": "0111003",
+    "director": "Stuart Orme",
+    "budget": "N/A",
+    "gross": "8,647,042",
+    "runtime": "1:49",
+    "name": "Кукловоды"
+  },
+  "0110939": {
+    "movieid": "0110939",
+    "director": "Mel Smith",
+    "budget": "15,000,000",
+    "gross": "1,316,865",
+    "runtime": "1:48",
+    "name": "Убийства на радио"
+  },
+  "0110955": {
+    "movieid": "0110955",
+    "director": "Ted Demme",
+    "budget": "11,000,000",
+    "gross": "11,439,193",
+    "runtime": "1:37",
+    "name": "Осторожно, заложник!"
+  },
+  "0107943": {
+    "movieid": "0107943",
+    "director": "James Ivory",
+    "budget": "15,000,000",
+    "gross": "23,240,144",
+    "runtime": "2:14",
+    "name": "На исходе дня"
+  },
+  "0110971": {
+    "movieid": "0110971",
+    "director": "Penny Marshall",
+    "budget": "40,000,000",
+    "gross": "24,332,324",
+    "runtime": "2:08",
+    "name": "Чeловек эпохи Bозрождения"
+  },
+  "0107969": {
+    "movieid": "0107969",
+    "director": "Philip Kaufman",
+    "budget": "35,000,000",
+    "gross": "107,198,790",
+    "runtime": "2:05",
+    "name": "Восходящее солнце"
+  },
+  "0111001": {
+    "movieid": "0111001",
+    "director": "Alan Parker",
+    "budget": "25,000,000",
+    "gross": "6,562,513",
+    "runtime": "1:58",
+    "name": "Дорога на Вэлвилл"
+  },
+  "0107978": {
+    "movieid": "0107978",
+    "director": "Fred Dekker",
+    "budget": "22,000,000",
+    "gross": "10,696,210",
+    "runtime": "1:44",
+    "name": "Робокоп 3"
+  },
+  "0107977": {
+    "movieid": "0107977",
+    "director": "Mel Brooks",
+    "budget": "20,000,000",
+    "gross": "35,739,755",
+    "runtime": "1:44",
+    "name": "Робин Гуд: Мужчины в трико"
+  },
+  "0107983": {
+    "movieid": "0107983",
+    "director": "Peter Medak",
+    "budget": "11,500,000",
+    "gross": "3,275,585",
+    "runtime": "1:50",
+    "name": "Ромео истекает кровью"
+  },
+  "0105275": {
+    "movieid": "0105275",
+    "director": "Geoffrey Wright",
+    "budget": "N/A",
+    "gross": "175,732",
+    "runtime": "1:34",
+    "name": "Скины"
+  },
+  "0108000": {
+    "movieid": "0108000",
+    "director": "Victor Nunez",
+    "budget": "800,000",
+    "gross": "1,001,437",
+    "runtime": "1:54",
+    "name": "Руби в раю"
+  },
+  "0108002": {
+    "movieid": "0108002",
+    "director": "David Anspaugh",
+    "budget": "N/A",
+    "gross": "22,881,563",
+    "runtime": "1:54",
+    "name": "Руди"
+  },
+  "0105032": {
+    "movieid": "0105032",
+    "director": "Cyril Collard",
+    "budget": "N/A",
+    "gross": "662,341",
+    "runtime": "2:06",
+    "name": "Дикие ночи"
+  },
+  "0108052": {
+    "movieid": "0108052",
+    "director": "Steven Spielberg",
+    "budget": "22,000,000",
+    "gross": "322,161,245",
+    "runtime": "3:15",
+    "name": "Список Шиндлера"
+  },
+  "0111094": {
+    "movieid": "0111094",
+    "director": "Michael Ritchie",
+    "budget": "N/A",
+    "gross": "2,694,234",
+    "runtime": "1:41",
+    "name": "Скаут"
+  },
+  "0108065": {
+    "movieid": "0108065",
+    "director": "Steven Zaillian",
+    "budget": "12,000,000",
+    "gross": "7,266,383",
+    "runtime": "1:49",
+    "name": "Выбор игры"
+  },
+  "0108071": {
+    "movieid": "0108071",
+    "director": "Agnieszka Holland",
+    "budget": "18,000,000",
+    "gross": "31,181,347",
+    "runtime": "1:41",
+    "name": "Таинственный сад"
+  },
+  "0111127": {
+    "movieid": "0111127",
+    "director": "John Waters",
+    "budget": "13,000,000",
+    "gross": "7,823,437",
+    "runtime": "1:35",
+    "name": "Мамочка-маньячка-убийца"
+  },
+  "0111143": {
+    "movieid": "0111143",
+    "director": "Russell Mulcahy",
+    "budget": "25,000,000",
+    "gross": "48,063,435",
+    "runtime": "1:48",
+    "name": "Тень"
+  },
+  "0108101": {
+    "movieid": "0108101",
+    "director": "Richard Attenborough",
+    "budget": "22,000,000",
+    "gross": "25,842,377",
+    "runtime": "2:11",
+    "name": "Страна теней"
+  },
+  "0108122": {
+    "movieid": "0108122",
+    "director": "Robert Altman",
+    "budget": "12,000,000",
+    "gross": "6,110,979",
+    "runtime": "3:08",
+    "name": "Короткий монтаж"
+  },
+  "0111194": {
+    "movieid": "0111194",
+    "director": "Gillies MacKinnon",
+    "budget": "N/A",
+    "gross": "3,430,583",
+    "runtime": "1:46",
+    "name": "Поворот судьбы"
+  },
+  "0111201": {
+    "movieid": "0111201",
+    "director": "John Duigan",
+    "budget": "N/A",
+    "gross": "7,770,731",
+    "runtime": "1:38",
+    "name": "Сирены"
+  },
+  "0108149": {
+    "movieid": "0108149",
+    "director": "Fred Schepisi",
+    "budget": "12,000,000",
+    "gross": "6,405,918",
+    "runtime": "1:52",
+    "name": "Шесть степеней отчуждения"
+  },
+  "0108160": {
+    "movieid": "0108160",
+    "director": "Nora Ephron",
+    "budget": "21,000,000",
+    "gross": "227,927,165",
+    "runtime": "1:45",
+    "name": "Неспящие в Сиэтле"
+  },
+  "0108162": {
+    "movieid": "0108162",
+    "director": "Phillip Noyce",
+    "budget": "40,000,000",
+    "gross": "116,300,000",
+    "runtime": "1:47",
+    "name": "Щепка"
+  },
+  "0083658": {
+    "movieid": "0083658",
+    "director": "Ridley Scott",
+    "budget": "28,000,000",
+    "gross": "41,767,218",
+    "runtime": "1:57",
+    "name": "Бегущий по лезвию"
+  },
+  "0108186": {
+    "movieid": "0108186",
+    "director": "Steve Rash",
+    "budget": "8,000,000",
+    "gross": "36,448,400",
+    "runtime": "1:35",
+    "name": "Зятёк"
+  },
+  "0108174": {
+    "movieid": "0108174",
+    "director": "Thomas Schlamme",
+    "budget": "20,000,000",
+    "gross": "11,585,483",
+    "runtime": "1:33",
+    "name": "Я женился на убийце с топором"
+  },
+  "0108238": {
+    "movieid": "0108238",
+    "director": "Rowdy Herrington",
+    "budget": "30,000,000",
+    "gross": "24,107,867",
+    "runtime": "1:42",
+    "name": "На расстоянии удара"
+  },
+  "0108255": {
+    "movieid": "0108255",
+    "director": "Annabel JankelRocky Morton",
+    "budget": "48,000,000",
+    "gross": "20,928,292",
+    "runtime": "1:44",
+    "name": "Супербратья Марио"
+  },
+  "0111323": {
+    "movieid": "0111323",
+    "director": "Ernest R. Dickerson",
+    "budget": "7,400,000",
+    "gross": "7,727,256",
+    "runtime": "1:36",
+    "name": "Игра на выживание"
+  },
+  "0111400": {
+    "movieid": "0111400",
+    "director": "Deran Sarafian",
+    "budget": "50,000,000",
+    "gross": "16,487,349",
+    "runtime": "1:42",
+    "name": "Скорость падения"
+  },
+  "0108328": {
+    "movieid": "0108328",
+    "director": "François Girard",
+    "budget": "N/A",
+    "gross": "1,319,521",
+    "runtime": "1:38",
+    "name": "Тридцать две истории о Гленне Гульде"
+  },
+  "0111418": {
+    "movieid": "0111418",
+    "director": "Andrew Fleming",
+    "budget": "N/A",
+    "gross": "14,815,317",
+    "runtime": "1:33",
+    "name": "Трое"
+  },
+  "0107688": {
+    "movieid": "0107688",
+    "director": "Henry Selick",
+    "budget": "18,000,000",
+    "gross": "107,800,040",
+    "runtime": "1:16",
+    "name": "Кошмар перед Рождеством"
+  },
+  "0108333": {
+    "movieid": "0108333",
+    "director": "Stephen Herek",
+    "budget": "30,000,000",
+    "gross": "53,898,845",
+    "runtime": "1:45",
+    "name": "Три мушкетера"
+  },
+  "0108358": {
+    "movieid": "0108358",
+    "director": "George P. Cosmatos",
+    "budget": "25,000,000",
+    "gross": "56,505,065",
+    "runtime": "2:10",
+    "name": "Тумстоун: Легенда дикого запада"
+  },
+  "0108399": {
+    "movieid": "0108399",
+    "director": "Tony Scott",
+    "budget": "13,000,000",
+    "gross": "13,094,586",
+    "runtime": "1:59",
+    "name": "Настоящая любовь"
+  },
+  "0108515": {
+    "movieid": "0108515",
+    "director": "Chris HegedusD.A. Pennebaker",
+    "budget": "N/A",
+    "gross": "901,668",
+    "runtime": "1:36",
+    "name": "Военная комната"
+  },
+  "0110763": {
+    "movieid": "0110763",
+    "director": "Pixote HuntJoe Johnston",
+    "budget": "27,000,000",
+    "gross": "13,670,688",
+    "runtime": "1:20",
+    "name": "Повелитель страниц"
+  },
+  "0114906": {
+    "movieid": "0114906",
+    "director": "Todd Solondz",
+    "budget": "800,000",
+    "gross": "4,569,882",
+    "runtime": "1:28",
+    "name": "Добро пожаловать в кукольный дом"
+  },
+  "0107002": {
+    "movieid": "0107002",
+    "director": "Claude Berri",
+    "budget": "RF",
+    "gross": "N/A",
+    "runtime": "2:40",
+    "name": "Жерминаль"
+  },
+  "0109403": {
+    "movieid": "0109403",
+    "director": "Dennis Hopper",
+    "budget": "N/A",
+    "gross": "1,596,687",
+    "runtime": "1:42",
+    "name": "Конвоиры"
+  },
+  "0107315": {
+    "movieid": "0107315",
+    "director": "Pedro Almodóvar",
+    "budget": "N/A",
+    "gross": "2,020,357",
+    "runtime": "1:54",
+    "name": "Кика"
+  },
+  "0106408": {
+    "movieid": "0106408",
+    "director": "Gurinder Chadha",
+    "budget": "N/A",
+    "gross": "740,827",
+    "runtime": "1:41",
+    "name": "Бхаджи на пляже"
+  },
+  "0110363": {
+    "movieid": "0110363",
+    "director": "Andrew Scheinman",
+    "budget": "N/A",
+    "gross": "12,267,790",
+    "runtime": "1:59",
+    "name": "Маленькая большая лига"
+  },
+  "0107225": {
+    "movieid": "0107225",
+    "director": "Lina Wertmüller",
+    "budget": "N/A",
+    "gross": "1,113,435",
+    "runtime": "1:40",
+    "name": "Я надеюсь, что выкарабкаюсь"
+  },
+  "0111252": {
+    "movieid": "0111252",
+    "director": "David O. Russell",
+    "budget": "200,000",
+    "gross": "1,359,736",
+    "runtime": "1:40",
+    "name": "Раскрепощение"
+  },
+  "0110366": {
+    "movieid": "0110366",
+    "director": "Penelope Spheeris",
+    "budget": "23,000,000",
+    "gross": "67,308,282",
+    "runtime": "1:22",
+    "name": "Маленькие негодяи"
+  },
+  "0109120": {
+    "movieid": "0109120",
+    "director": "George Miller",
+    "budget": "N/A",
+    "gross": "16,820,893",
+    "runtime": "1:35",
+    "name": "Андре"
+  },
+  "0108059": {
+    "movieid": "0108059",
+    "director": "Ricky Tognazzi",
+    "budget": "N/A",
+    "gross": "147,107",
+    "runtime": "1:36",
+    "name": "Охрана"
+  },
+  "0110892": {
+    "movieid": "0110892",
+    "director": "Michael Austin",
+    "budget": "N/A",
+    "gross": "3,062,530",
+    "runtime": "1:37",
+    "name": "Принцесса Карабу"
+  },
+  "0112651": {
+    "movieid": "0112651",
+    "director": "Rob EpsteinJeffrey Friedman",
+    "budget": "N/A",
+    "gross": "1,400,591",
+    "runtime": "1:42",
+    "name": "Целлулоидный шкаф"
+  },
+  "0109382": {
+    "movieid": "0109382",
+    "director": "Nanni Moretti",
+    "budget": "N/A",
+    "gross": "173,696",
+    "runtime": "1:40",
+    "name": "Дорогой дневник"
+  },
+  "0112572": {
+    "movieid": "0112572",
+    "director": "Betty Thomas",
+    "budget": "12,000,000",
+    "gross": "46,576,136",
+    "runtime": "1:30",
+    "name": "Семейка Брэди"
+  },
+  "0099785": {
+    "movieid": "0099785",
+    "director": "Chris Columbus",
+    "budget": "18,000,000",
+    "gross": "476,684,675",
+    "runtime": "1:43",
+    "name": "Один дома"
+  },
+  "0099653": {
+    "movieid": "0099653",
+    "director": "Jerry Zucker",
+    "budget": "22,000,000",
+    "gross": "505,703,557",
+    "runtime": "2:06",
+    "name": "Привидение"
+  },
+  "0103639": {
+    "movieid": "0103639",
+    "director": "Ron ClementsJohn Musker",
+    "budget": "28,000,000",
+    "gross": "504,050,219",
+    "runtime": "1:30",
+    "name": "Аладдин"
+  },
+  "0103064": {
+    "movieid": "0103064",
+    "director": "James Cameron",
+    "budget": "102,000,000",
+    "gross": "517,778,573",
+    "runtime": "2:17",
+    "name": "Терминатор 2: Судный день"
+  },
+  "0099348": {
+    "movieid": "0099348",
+    "director": "Kevin Costner",
+    "budget": "22,000,000",
+    "gross": "424,208,848",
+    "runtime": "3:01",
+    "name": "Танцующий с волками"
+  },
+  "0096895": {
+    "movieid": "0096895",
+    "director": "Tim Burton",
+    "budget": "35,000,000",
+    "gross": "411,569,241",
+    "runtime": "2:06",
+    "name": "Бэтмен"
+  },
+  "0102926": {
+    "movieid": "0102926",
+    "director": "Jonathan Demme",
+    "budget": "19,000,000",
+    "gross": "272,742,922",
+    "runtime": "1:58",
+    "name": "Молчание ягнят"
+  },
+  "0029583": {
+    "movieid": "0029583",
+    "director": "N/A",
+    "budget": "1,499,000",
+    "gross": "185,098,309",
+    "runtime": "1:23",
+    "name": "Белоснежка и семь гномов"
+  },
+  "0101414": {
+    "movieid": "0101414",
+    "director": "Gary TrousdaleKirk Wise",
+    "budget": "25,000,000",
+    "gross": "451,291,298",
+    "runtime": "1:24",
+    "name": "Красавица и чудовище"
+  },
+  "0032910": {
+    "movieid": "0032910",
+    "director": "N/A",
+    "budget": "2,600,000",
+    "gross": "121,892,045",
+    "runtime": "1:28",
+    "name": "Пиноккио"
+  },
+  "0100405": {
+    "movieid": "0100405",
+    "director": "Garry Marshall",
+    "budget": "14,000,000",
+    "gross": "463,406,268",
+    "runtime": "1:59",
+    "name": "Красотка"
+  },
+  "0065214": {
+    "movieid": "0065214",
+    "director": "Sam Peckinpah",
+    "budget": "6,244,087",
+    "gross": "640,561",
+    "runtime": "2:25",
+    "name": "Дикая банда"
+  },
+  "0110395": {
+    "movieid": "0110395",
+    "director": "C.M. Talkington",
+    "budget": "N/A",
+    "gross": "35,200",
+    "runtime": "1:41",
+    "name": "Любовь и 45 калибр"
+  },
+  "0109934": {
+    "movieid": "0109934",
+    "director": "Jean Bach",
+    "budget": "N/A",
+    "gross": "527,034",
+    "runtime": "1:00",
+    "name": "A Great Day in Harlem"
+  },
+  "0117247": {
+    "movieid": "0117247",
+    "director": "Michael Hoffman",
+    "budget": "N/A",
+    "gross": "97,529,550",
+    "runtime": "1:48",
+    "name": "Один прекрасный день"
+  },
+  "0112625": {
+    "movieid": "0112625",
+    "director": "Bill Condon",
+    "budget": "6,000,000",
+    "gross": "13,941,216",
+    "runtime": "1:35",
+    "name": "Кэндимэн 2: Прощание с плотью"
+  },
+  "0116282": {
+    "movieid": "0116282",
+    "director": "Joel CoenEthan Coen",
+    "budget": "7,000,000",
+    "gross": "60,611,975",
+    "runtime": "1:38",
+    "name": "Фарго"
+  },
+  "0116552": {
+    "movieid": "0116552",
+    "director": "David R. Ellis",
+    "budget": "N/A",
+    "gross": "32,772,492",
+    "runtime": "1:28",
+    "name": "Дорога домой-II: Затерянные в Сан-Франциско"
+  },
+  "0082509": {
+    "movieid": "0082509",
+    "director": "N/A",
+    "budget": "9,300,000",
+    "gross": "547,563",
+    "runtime": "1:26",
+    "name": "Тяжелый метал"
+  },
+  "0116514": {
+    "movieid": "0116514",
+    "director": "Kevin Yagher",
+    "budget": "4,000,000",
+    "gross": "9,336,886",
+    "runtime": "1:25",
+    "name": "Bосставший из ада IV: Кровное родство"
+  },
+  "0117283": {
+    "movieid": "0117283",
+    "director": "Matt Reeves",
+    "budget": "8,000,000",
+    "gross": "5,656,388",
+    "runtime": "1:38",
+    "name": "Чyжие похороны"
+  },
+  "0116684": {
+    "movieid": "0116684",
+    "director": "Franco Zeffirelli",
+    "budget": "N/A",
+    "gross": "5,200,601",
+    "runtime": "1:52",
+    "name": "Джейн Эйр"
+  },
+  "0070506": {
+    "movieid": "0070506",
+    "director": "Franco Brusati",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:40",
+    "name": "Pane e cioccolata"
+  },
+  "0065421": {
+    "movieid": "0065421",
+    "director": "Wolfgang Reitherman",
+    "budget": "4,000,000",
+    "gross": "191,000,000",
+    "runtime": "1:18",
+    "name": "Коты-аристократы"
+  },
+  "0113083": {
+    "movieid": "0113083",
+    "director": "Pedro Almodóvar",
+    "budget": "N/A",
+    "gross": "1,105,265",
+    "runtime": "1:43",
+    "name": "Цветок моей тайны"
+  },
+  "0118001": {
+    "movieid": "0118001",
+    "director": "Fernando Trueba",
+    "budget": "24,000,000",
+    "gross": "1,141,556",
+    "runtime": "1:58",
+    "name": "Двое - это слишком"
+  },
+  "0116165": {
+    "movieid": "0116165",
+    "director": "Bill Couturié",
+    "budget": "24,000,000",
+    "gross": "4,422,380",
+    "runtime": "1:34",
+    "name": "Эд"
+  },
+  "0117891": {
+    "movieid": "0117891",
+    "director": "Martin Lawrence",
+    "budget": "8,000,000",
+    "gross": "35,599,803",
+    "runtime": "1:48",
+    "name": "Тонкая грань между любовью и ненавистью"
+  },
+  "0113613": {
+    "movieid": "0113613",
+    "director": "Stacy Title",
+    "budget": "N/A",
+    "gross": "459,749",
+    "runtime": "1:32",
+    "name": "Последний ужин"
+  },
+  "0117381": {
+    "movieid": "0117381",
+    "director": "Gregory Hoblit",
+    "budget": "30,000,000",
+    "gross": "102,616,183",
+    "runtime": "2:09",
+    "name": "Первобытный страх"
+  },
+  "0115509": {
+    "movieid": "0115509",
+    "director": "Larry LekerPaul Sabella",
+    "budget": "N/A",
+    "gross": "8,620,678",
+    "runtime": "1:22",
+    "name": "Все псы попадают в рай 2"
+  },
+  "0114671": {
+    "movieid": "0114671",
+    "director": "Ken Loach",
+    "budget": "2,500,000",
+    "gross": "228,800",
+    "runtime": "1:49",
+    "name": "Земля и свобода"
+  },
+  "0112844": {
+    "movieid": "0112844",
+    "director": "Hal Salwen",
+    "budget": "N/A",
+    "gross": "148,121",
+    "runtime": "1:20",
+    "name": "Звонок Денизы"
+  },
+  "0114658": {
+    "movieid": "0114658",
+    "director": "Jonathan R. Betuel",
+    "budget": "33,500,000",
+    "gross": "N/A",
+    "runtime": "1:32",
+    "name": "Теодор Рекс"
+  },
+  "0116275": {
+    "movieid": "0116275",
+    "director": "Richard Pearce",
+    "budget": "N/A",
+    "gross": "10,125,417",
+    "runtime": "1:49",
+    "name": "Семейное дело"
+  },
+  "0113122": {
+    "movieid": "0113122",
+    "director": "Todd Verow",
+    "budget": "N/A",
+    "gross": "87,433",
+    "runtime": "1:28",
+    "name": "Прыжок"
+  },
+  "0117608": {
+    "movieid": "0117608",
+    "director": "Jonathan Lynn",
+    "budget": "39,000,000",
+    "gross": "37,956,793",
+    "runtime": "1:34",
+    "name": "Сержант Билко"
+  },
+  "0113448": {
+    "movieid": "0113448",
+    "director": "Tim Sullivan",
+    "budget": "N/A",
+    "gross": "218,626",
+    "runtime": "1:50",
+    "name": "Джек и Сара"
+  },
+  "0116414": {
+    "movieid": "0116414",
+    "director": "Spike Lee",
+    "budget": "12,000,000",
+    "gross": "4,939,939",
+    "runtime": "1:48",
+    "name": "Девушка No6"
+  },
+  "0116095": {
+    "movieid": "0116095",
+    "director": "Jeremiah S. Chechik",
+    "budget": "N/A",
+    "gross": "17,100,266",
+    "runtime": "1:47",
+    "name": "Дьявольщина"
+  },
+  "0113947": {
+    "movieid": "0113947",
+    "director": "Claude Sautet",
+    "budget": "N/A",
+    "gross": "955,708",
+    "runtime": "1:46",
+    "name": "Нелли и месье Арно"
+  },
+  "0115956": {
+    "movieid": "0115956",
+    "director": "Edward Zwick",
+    "budget": "46,000,000",
+    "gross": "100,860,818",
+    "runtime": "1:56",
+    "name": "Мужество в бою"
+  },
+  "0117060": {
+    "movieid": "0117060",
+    "director": "Brian De Palma",
+    "budget": "80,000,000",
+    "gross": "457,696,391",
+    "runtime": "1:50",
+    "name": "Миссия невыполнима"
+  },
+  "0109028": {
+    "movieid": "0109028",
+    "director": "Friðrik Þór Friðriksson",
+    "budget": "SK",
+    "gross": "N/A",
+    "runtime": "1:23",
+    "name": "Холодная лихорадка"
+  },
+  "0117071": {
+    "movieid": "0117071",
+    "director": "Pen Densham",
+    "budget": "N/A",
+    "gross": "3,486,957",
+    "runtime": "2:03",
+    "name": "Молл Флэндерс"
+  },
+  "0116136": {
+    "movieid": "0116136",
+    "director": "Rob Cohen",
+    "budget": "57,000,000",
+    "gross": "115,267,375",
+    "runtime": "1:43",
+    "name": "Сердце дракона"
+  },
+  "0116168": {
+    "movieid": "0116168",
+    "director": "Steve Rash",
+    "budget": "30,000,000",
+    "gross": "31,387,164",
+    "runtime": "1:40",
+    "name": "Эдди"
+  },
+  "0116683": {
+    "movieid": "0116683",
+    "director": "Henry Selick",
+    "budget": "38,000,000",
+    "gross": "28,946,127",
+    "runtime": "1:19",
+    "name": "Джеймс и гигантский персик"
+  },
+  "0116287": {
+    "movieid": "0116287",
+    "director": "James Foley",
+    "budget": "N/A",
+    "gross": "20,831,000",
+    "runtime": "1:37",
+    "name": "Страх"
+  },
+  "0116768": {
+    "movieid": "0116768",
+    "director": "Kelly Makin",
+    "budget": "N/A",
+    "gross": "2,654,308",
+    "runtime": "1:29",
+    "name": "Таблетка радости"
+  },
+  "0114787": {
+    "movieid": "0114787",
+    "director": "Emir Kusturica",
+    "budget": "14,000,000",
+    "gross": "182,134",
+    "runtime": "2:50",
+    "name": "Андеграунд"
+  },
+  "0112536": {
+    "movieid": "0112536",
+    "director": "Alan MehrezPhilip Tan",
+    "budget": "N/A",
+    "gross": "684,351",
+    "runtime": "1:30",
+    "name": "Кровавый спорт 2"
+  },
+  "0048473": {
+    "movieid": "0048473",
+    "director": "Satyajit Ray",
+    "budget": "N/A",
+    "gross": "135,342",
+    "runtime": "2:05",
+    "name": "Pather Panchali"
+  },
+  "0052572": {
+    "movieid": "0052572",
+    "director": "Satyajit Ray",
+    "budget": "N/A",
+    "gross": "134,241",
+    "runtime": "1:45",
+    "name": "Apur Sansar"
+  },
+  "0117128": {
+    "movieid": "0117128",
+    "director": "Jim Mallon",
+    "budget": "N/A",
+    "gross": "1,007,306",
+    "runtime": "1:13",
+    "name": "Таинственный театр 3000 года"
+  },
+  "0117705": {
+    "movieid": "0117705",
+    "director": "Joe Pytka",
+    "budget": "80,000,000",
+    "gross": "230,594,962",
+    "runtime": "1:28",
+    "name": "Космический джем"
+  },
+  "0062711": {
+    "movieid": "0062711",
+    "director": "Roger Vadim",
+    "budget": "9,000,000",
+    "gross": "1,622",
+    "runtime": "1:38",
+    "name": "Barbarella"
+  },
+  "0108181": {
+    "movieid": "0108181",
+    "director": "George Hickenlooper",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "0:25",
+    "name": "Некоторые люди называет это отточенным лезвием"
+  },
+  "0114307": {
+    "movieid": "0114307",
+    "director": "Peter Yates",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:49",
+    "name": "The Run of the Country"
+  },
+  "0058898": {
+    "movieid": "0058898",
+    "director": "Jean-Luc Godard",
+    "budget": "220,000",
+    "gross": "66,651",
+    "runtime": "1:39",
+    "name": "Альфавилль"
+  },
+  "0113443": {
+    "movieid": "0113443",
+    "director": "Randal Kleiser",
+    "budget": "N/A",
+    "gross": "622,503",
+    "runtime": "1:50",
+    "name": "Это моя вечеринка"
+  },
+  "0114048": {
+    "movieid": "0114048",
+    "director": "Simon Wincer",
+    "budget": "N/A",
+    "gross": "24,670,346",
+    "runtime": "1:47",
+    "name": "Операция 'Слон'"
+  },
+  "0117104": {
+    "movieid": "0117104",
+    "director": "Richard Benjamin",
+    "budget": "25,000,000",
+    "gross": "10,082,005",
+    "runtime": "1:45",
+    "name": "Миссис Уинтерборн"
+  },
+  "0117688": {
+    "movieid": "0117688",
+    "director": "Norberto Barba",
+    "budget": "19,000,000",
+    "gross": "5,107,669",
+    "runtime": "1:34",
+    "name": "Соло"
+  },
+  "0117774": {
+    "movieid": "0117774",
+    "director": "Robert Mandel",
+    "budget": "N/A",
+    "gross": "14,818,176",
+    "runtime": "1:54",
+    "name": "Замена"
+  },
+  "0114736": {
+    "movieid": "0114736",
+    "director": "Pat Verducci",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:34",
+    "name": "Настоящее преступление"
+  },
+  "0116289": {
+    "movieid": "0116289",
+    "director": "Steven Baigelman",
+    "budget": "N/A",
+    "gross": "3,124,440",
+    "runtime": "1:39",
+    "name": "Чувствуя Миннесоту"
+  },
+  "0109593": {
+    "movieid": "0109593",
+    "director": "Zalman King",
+    "budget": "N/A",
+    "gross": "63,174",
+    "runtime": "1:42",
+    "name": "Дельта Венеры"
+  },
+  "0112368": {
+    "movieid": "0112368",
+    "director": "Patrick Read Johnson",
+    "budget": "N/A",
+    "gross": "4,821,759",
+    "runtime": "1:30",
+    "name": "Станцуем, крошка"
+  },
+  "0115742": {
+    "movieid": "0115742",
+    "director": "Stacy Cochran",
+    "budget": "N/A",
+    "gross": "516,349",
+    "runtime": "1:26",
+    "name": "Парни"
+  },
+  "0117420": {
+    "movieid": "0117420",
+    "director": "Jean-Claude Van Damme",
+    "budget": "30,000,000",
+    "gross": "57,400,547",
+    "runtime": "1:35",
+    "name": "В поисках приключений"
+  },
+  "0117784": {
+    "movieid": "0117784",
+    "director": "Steve Gomer",
+    "budget": "N/A",
+    "gross": "10,163,782",
+    "runtime": "1:39",
+    "name": "Парк Сансет"
+  },
+  "0117107": {
+    "movieid": "0117107",
+    "director": "Lee Tamahori",
+    "budget": "29,000,000",
+    "gross": "11,526,099",
+    "runtime": "1:47",
+    "name": "Скала Малхолланд"
+  },
+  "0117979": {
+    "movieid": "0117979",
+    "director": "Michael Lehmann",
+    "budget": "N/A",
+    "gross": "34,861,807",
+    "runtime": "1:37",
+    "name": "Правда о кошках и собаках"
+  },
+  "0095776": {
+    "movieid": "0095776",
+    "director": "George Scribner",
+    "budget": "31,000,000",
+    "gross": "74,151,346",
+    "runtime": "1:14",
+    "name": "Оливер и компания"
+  },
+  "0115851": {
+    "movieid": "0115851",
+    "director": "Tom DeCerchio",
+    "budget": "N/A",
+    "gross": "9,255,027",
+    "runtime": "1:31",
+    "name": "Баскетбольная лихорадка"
+  },
+  "0116322": {
+    "movieid": "0116322",
+    "director": "Alan Shapiro",
+    "budget": "25,530,000",
+    "gross": "20,080,020",
+    "runtime": "1:35",
+    "name": "Флиппер"
+  },
+  "0112817": {
+    "movieid": "0112817",
+    "director": "Jim Jarmusch",
+    "budget": "9,000,000",
+    "gross": "1,085,079",
+    "runtime": "2:01",
+    "name": "Мертвец"
+  },
+  "0113362": {
+    "movieid": "0113362",
+    "director": "Jean-Paul Rappeneau",
+    "budget": "N/A",
+    "gross": "1,320,043",
+    "runtime": "2:15",
+    "name": "Гусар на крыше"
+  },
+  "0108500": {
+    "movieid": "0108500",
+    "director": "Jean-Marie Poiré",
+    "budget": "RF",
+    "gross": "659,810",
+    "runtime": "1:47",
+    "name": "Пришельцы"
+  },
+  "0117108": {
+    "movieid": "0117108",
+    "director": "Harold Ramis",
+    "budget": "45,000,000",
+    "gross": "21,075,014",
+    "runtime": "1:57",
+    "name": "Множество"
+  },
+  "0113270": {
+    "movieid": "0113270",
+    "director": "Brett Thompson",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:29",
+    "name": "The Haunted World of Edward D. Wood Jr."
+  },
+  "0115963": {
+    "movieid": "0115963",
+    "director": "Andrew Fleming",
+    "budget": "15,000,000",
+    "gross": "24,825,844",
+    "runtime": "1:41",
+    "name": "Колдовство"
+  },
+  "0116448": {
+    "movieid": "0116448",
+    "director": "Reginald Hudlin",
+    "budget": "N/A",
+    "gross": "8,008,255",
+    "runtime": "1:31",
+    "name": "Большой белый обман"
+  },
+  "0116827": {
+    "movieid": "0116827",
+    "director": "Bruce Beresford",
+    "budget": "N/A",
+    "gross": "5,939,449",
+    "runtime": "1:43",
+    "name": "Последний танец"
+  },
+  "0112701": {
+    "movieid": "0112701",
+    "director": "John Schlesinger",
+    "budget": "N/A",
+    "gross": "5,682,429",
+    "runtime": "1:45",
+    "name": "Неуютная ферма"
+  },
+  "0116508": {
+    "movieid": "0116508",
+    "director": "Phil Joanou",
+    "budget": "25,000,000",
+    "gross": "5,009,305",
+    "runtime": "2:12",
+    "name": "Пленники небес"
+  },
+  "0117500": {
+    "movieid": "0117500",
+    "director": "Michael Bay",
+    "budget": "75,000,000",
+    "gross": "335,062,621",
+    "runtime": "2:16",
+    "name": "Скала"
+  },
+  "0109592": {
+    "movieid": "0109592",
+    "director": "Michele Soavi",
+    "budget": "4,000,000",
+    "gross": "253,986",
+    "runtime": "1:43",
+    "name": "О смерти, о любви"
+  },
+  "0117998": {
+    "movieid": "0117998",
+    "director": "Jan de Bont",
+    "budget": "92,000,000",
+    "gross": "494,580,615",
+    "runtime": "1:53",
+    "name": "Смерч"
+  },
+  "0115624": {
+    "movieid": "0115624",
+    "director": "David Hogan",
+    "budget": "9,000,000",
+    "gross": "3,793,614",
+    "runtime": "1:38",
+    "name": "Не называй меня малышкой"
+  },
+  "0113568": {
+    "movieid": "0113568",
+    "director": "Mamoru Oshii",
+    "budget": "330,000,000",
+    "gross": "968,116",
+    "runtime": "1:23",
+    "name": "Призрак в доспехах"
+  },
+  "0117894": {
+    "movieid": "0117894",
+    "director": "Tom Holland",
+    "budget": "8,000,000",
+    "gross": "15,315,484",
+    "runtime": "1:33",
+    "name": "Худеющий"
+  },
+  "0117723": {
+    "movieid": "0117723",
+    "director": "Rick Friedberg",
+    "budget": "18,000,000",
+    "gross": "26,960,191",
+    "runtime": "1:21",
+    "name": "Неистребимый шпион"
+  },
+  "0112691": {
+    "movieid": "0112691",
+    "director": "Nick Park",
+    "budget": "N/A",
+    "gross": "20,909",
+    "runtime": "0:31",
+    "name": "Уоллес и Громит: Выбрить наголо"
+  },
+  "0117768": {
+    "movieid": "0117768",
+    "director": "John Landis",
+    "budget": "25,000,000",
+    "gross": "2,491,989",
+    "runtime": "1:34",
+    "name": "Семейка придурков"
+  },
+  "0115571": {
+    "movieid": "0115571",
+    "director": "David Twohy",
+    "budget": "25,000,000",
+    "gross": "14,063,331",
+    "runtime": "1:55",
+    "name": "Прибытие"
+  },
+  "0057012": {
+    "movieid": "0057012",
+    "director": "Stanley Kubrick",
+    "budget": "1,800,000",
+    "gross": "9,631,984",
+    "runtime": "1:35",
+    "name": "Доктор Стрейнджлав, или Как я научился не волноваться и полюбил атомную бомбу"
+  },
+  "0109688": {
+    "movieid": "0109688",
+    "director": "Louis ChaWong Kar-Wai",
+    "budget": "K$40,000,000",
+    "gross": "2,009,694",
+    "runtime": "1:40",
+    "name": "Прах времен"
+  },
+  "0110480": {
+    "movieid": "0110480",
+    "director": "Freida Lee Mock",
+    "budget": "N/A",
+    "gross": "62,186",
+    "runtime": "1:45",
+    "name": "Maya Lin: A Strong Clear Vision"
+  },
+  "0108211": {
+    "movieid": "0108211",
+    "director": "Joseph Vilsmaier",
+    "budget": "EM",
+    "gross": "152,972",
+    "runtime": "2:14",
+    "name": "Сталинград"
+  },
+  "0117331": {
+    "movieid": "0117331",
+    "director": "Simon Wincer",
+    "budget": "45,000,000",
+    "gross": "17,330,678",
+    "runtime": "1:40",
+    "name": "Фантом"
+  },
+  "0117765": {
+    "movieid": "0117765",
+    "director": "Andrew Bergman",
+    "budget": "40,000,000",
+    "gross": "113,309,743",
+    "runtime": "1:55",
+    "name": "Стриптиз"
+  },
+  "0113280": {
+    "movieid": "0113280",
+    "director": "James Mangold",
+    "budget": "N/A",
+    "gross": "941,414",
+    "runtime": "1:45",
+    "name": "Тяжелый"
+  },
+  "0116669": {
+    "movieid": "0116669",
+    "director": "Francis Ford Coppola",
+    "budget": "45,000,000",
+    "gross": "58,620,973",
+    "runtime": "1:53",
+    "name": "Джек"
+  },
+  "0116594": {
+    "movieid": "0116594",
+    "director": "Mary Harron",
+    "budget": "N/A",
+    "gross": "1,875,527",
+    "runtime": "1:43",
+    "name": "Я стреляла в Энди Уорхола"
+  },
+  "0070820": {
+    "movieid": "0070820",
+    "director": "Djibril Diop Mambéty",
+    "budget": "N/A",
+    "gross": "180",
+    "runtime": "1:25",
+    "name": "Touki bouki"
+  },
+  "0063715": {
+    "movieid": "0063715",
+    "director": "Federico FelliniLouis MalleRoger Vadim",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "2:01",
+    "name": "Histoires extraordinaires"
+  },
+  "0117951": {
+    "movieid": "0117951",
+    "director": "Danny Boyle",
+    "budget": "1,500,000",
+    "gross": "16,992,984",
+    "runtime": "1:33",
+    "name": "На игле"
+  },
+  "0118523": {
+    "movieid": "0118523",
+    "director": "Scott Winant",
+    "budget": "23,000,000",
+    "gross": "3,525,125",
+    "runtime": "1:53",
+    "name": "Ускользающий идеал"
+  },
+  "0116629": {
+    "movieid": "0116629",
+    "director": "Roland Emmerich",
+    "budget": "75,000,000",
+    "gross": "817,400,891",
+    "runtime": "2:25",
+    "name": "День независимости"
+  },
+  "0117737": {
+    "movieid": "0117737",
+    "director": "Bernardo Bertolucci",
+    "budget": "10,000,000",
+    "gross": "4,900,436",
+    "runtime": "1:58",
+    "name": "Ускользающая красота"
+  },
+  "0116277": {
+    "movieid": "0116277",
+    "director": "Tony Scott",
+    "budget": "55,000,000",
+    "gross": "18,626,419",
+    "runtime": "1:56",
+    "name": "Фанат"
+  },
+  "0116583": {
+    "movieid": "0116583",
+    "director": "Gary TrousdaleKirk Wise",
+    "budget": "100,000,000",
+    "gross": "325,338,851",
+    "runtime": "1:31",
+    "name": "Горбун из Нотр-Дама"
+  },
+  "0115798": {
+    "movieid": "0115798",
+    "director": "Ben Stiller",
+    "budget": "47,000,000",
+    "gross": "102,825,796",
+    "runtime": "1:36",
+    "name": "Кабельщик"
+  },
+  "0116778": {
+    "movieid": "0116778",
+    "director": "Bobby FarrellyPeter Farrelly",
+    "budget": "27,000,000",
+    "gross": "25,023,434",
+    "runtime": "1:54",
+    "name": "Заводила"
+  },
+  "0116213": {
+    "movieid": "0116213",
+    "director": "Chuck Russell",
+    "budget": "100,000,000",
+    "gross": "242,295,562",
+    "runtime": "1:55",
+    "name": "Стиратель"
+  },
+  "0117218": {
+    "movieid": "0117218",
+    "director": "Tom Shadyac",
+    "budget": "54,000,000",
+    "gross": "273,961,019",
+    "runtime": "1:35",
+    "name": "Чокнутый профессор"
+  },
+  "0111546": {
+    "movieid": "0111546",
+    "director": "Lucian Pintilie",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:22",
+    "name": "Незабываемое лето"
+  },
+  "0113610": {
+    "movieid": "0113610",
+    "director": "Yale Strom",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:25",
+    "name": "The Last Klezmer: Leopold Kozlowski, His Life and Music"
+  },
+  "0111237": {
+    "movieid": "0111237",
+    "director": "Alexandre Rockwell",
+    "budget": "N/A",
+    "gross": "18,112",
+    "runtime": "1:42",
+    "name": "Тот, кто влюблен"
+  },
+  "0116040": {
+    "movieid": "0116040",
+    "director": "Rob Cohen",
+    "budget": "80,000,000",
+    "gross": "159,212,469",
+    "runtime": "1:54",
+    "name": "Дневной свет"
+  },
+  "0116365": {
+    "movieid": "0116365",
+    "director": "Peter Jackson",
+    "budget": "30,000,000",
+    "gross": "29,359,216",
+    "runtime": "1:50",
+    "name": "Страшилы"
+  },
+  "0116905": {
+    "movieid": "0116905",
+    "director": "John Sayles",
+    "budget": "5,000,000",
+    "gross": "12,421,583",
+    "runtime": "2:15",
+    "name": "Звезда шерифа"
+  },
+  "0116493": {
+    "movieid": "0116493",
+    "director": "Bronwen Hughes",
+    "budget": "12,000,000",
+    "gross": "26,570,048",
+    "runtime": "1:40",
+    "name": "Шпионка Хэрриэт"
+  },
+  "0117333": {
+    "movieid": "0117333",
+    "director": "Jon Turteltaub",
+    "budget": "32,000,000",
+    "gross": "152,036,382",
+    "runtime": "2:03",
+    "name": "Феномен"
+  },
+  "0118113": {
+    "movieid": "0118113",
+    "director": "Nicole Holofcener",
+    "budget": "1,000,000",
+    "gross": "1,287,480",
+    "runtime": "1:26",
+    "name": "Гуляют, болтают"
+  },
+  "0117628": {
+    "movieid": "0117628",
+    "director": "Edward Burns",
+    "budget": "3,500,000",
+    "gross": "9,538,948",
+    "runtime": "1:36",
+    "name": "Только она единственная"
+  },
+  "0117913": {
+    "movieid": "0117913",
+    "director": "Joel Schumacher",
+    "budget": "40,000,000",
+    "gross": "152,266,007",
+    "runtime": "2:29",
+    "name": "Время убивать"
+  },
+  "0115530": {
+    "movieid": "0115530",
+    "director": "Michael Corrente",
+    "budget": "N/A",
+    "gross": "665,450",
+    "runtime": "1:28",
+    "name": "Американский бизон"
+  },
+  "0115493": {
+    "movieid": "0115493",
+    "director": "Fraser C. Heston",
+    "budget": "23,000,000",
+    "gross": "11,829,959",
+    "runtime": "1:49",
+    "name": "Аляска"
+  },
+  "0116320": {
+    "movieid": "0116320",
+    "director": "Kevin Hooks",
+    "budget": "25,000,000",
+    "gross": "17,193,231",
+    "runtime": "1:38",
+    "name": "Беглецы"
+  },
+  "0116756": {
+    "movieid": "0116756",
+    "director": "Paul Michael Glaser",
+    "budget": "20,000,000",
+    "gross": "18,937,262",
+    "runtime": "1:33",
+    "name": "Джинна вызывали?"
+  },
+  "0116823": {
+    "movieid": "0116823",
+    "director": "Howard Franklin",
+    "budget": "30,000,000",
+    "gross": "8,315,693",
+    "runtime": "1:33",
+    "name": "Больше, чем жизнь"
+  },
+  "0118073": {
+    "movieid": "0118073",
+    "director": "Arlene Sanford",
+    "budget": "12,000,000",
+    "gross": "21,440,752",
+    "runtime": "1:30",
+    "name": "Семейка Брэди 2"
+  },
+  "0061495": {
+    "movieid": "0061495",
+    "director": "Éric Rohmer",
+    "budget": "N/A",
+    "gross": "7,077",
+    "runtime": "1:26",
+    "name": "La collectionneuse"
+  },
+  "0110246": {
+    "movieid": "0110246",
+    "director": "Peter Sehr",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "2:19",
+    "name": "Kaspar Hauser"
+  },
+  "0115472": {
+    "movieid": "0115472",
+    "director": "Steve Barron",
+    "budget": "25,000,000",
+    "gross": "15,094,530",
+    "runtime": "1:36",
+    "name": "Приключения Пиноккио"
+  },
+  "0116707": {
+    "movieid": "0116707",
+    "director": "John Payson",
+    "budget": "13,000,000",
+    "gross": "4,619,014",
+    "runtime": "1:20",
+    "name": "Квартирка Джо"
+  },
+  "0116313": {
+    "movieid": "0116313",
+    "director": "Hugh Wilson",
+    "budget": "26,000,000",
+    "gross": "181,489,203",
+    "runtime": "1:43",
+    "name": "Клуб первых жён"
+  },
+  "0117438": {
+    "movieid": "0117438",
+    "director": "Ron Howard",
+    "budget": "80,000,000",
+    "gross": "309,492,681",
+    "runtime": "2:01",
+    "name": "Выкуп"
+  },
+  "0116531": {
+    "movieid": "0116531",
+    "director": "Hart Bochner",
+    "budget": "N/A",
+    "gross": "21,302,121",
+    "runtime": "1:26",
+    "name": "Учитель и чудовища"
+  },
+  "0116353": {
+    "movieid": "0116353",
+    "director": "Annette Haywood-Carter",
+    "budget": "N/A",
+    "gross": "269,300",
+    "runtime": "1:42",
+    "name": "Ложный огонь"
+  },
+  "0115857": {
+    "movieid": "0115857",
+    "director": "Andrew Davis",
+    "budget": "50,000,000",
+    "gross": "60,209,334",
+    "runtime": "1:47",
+    "name": "Цепная реакция"
+  },
+  "0117008": {
+    "movieid": "0117008",
+    "director": "Danny DeVito",
+    "budget": "36,000,000",
+    "gross": "33,463,422",
+    "runtime": "1:38",
+    "name": "Матильда"
+  },
+  "0116191": {
+    "movieid": "0116191",
+    "director": "Douglas McGrath",
+    "budget": "6,000,000",
+    "gross": "22,231,658",
+    "runtime": "2:00",
+    "name": "Эмма"
+  },
+  "0115986": {
+    "movieid": "0115986",
+    "director": "Tim Pope",
+    "budget": "13,000,000",
+    "gross": "17,917,287",
+    "runtime": "1:24",
+    "name": "Ворон: Город ангелов"
+  },
+  "0116571": {
+    "movieid": "0116571",
+    "director": "Harry Winer",
+    "budget": "N/A",
+    "gross": "7,032,782",
+    "runtime": "1:48",
+    "name": "Домашний арест"
+  },
+  "0053459": {
+    "movieid": "0053459",
+    "director": "Georges Franju",
+    "budget": "N/A",
+    "gross": "62,793",
+    "runtime": "1:30",
+    "name": "Les yeux sans visage"
+  },
+  "0117826": {
+    "movieid": "0117826",
+    "director": "Gilbert Adler",
+    "budget": "13,000,000",
+    "gross": "5,781,045",
+    "runtime": "1:27",
+    "name": "Байки из склепа: Кровавый бордель"
+  },
+  "0117718": {
+    "movieid": "0117718",
+    "director": "Lee David Zlotoff",
+    "budget": "6,000,000",
+    "gross": "12,658,486",
+    "runtime": "1:57",
+    "name": "Гриль-бар 'Порох'"
+  },
+  "0116225": {
+    "movieid": "0116225",
+    "director": "John Carpenter",
+    "budget": "50,000,000",
+    "gross": "25,477,365",
+    "runtime": "1:41",
+    "name": "Побег из Лос-Анджелеса"
+  },
+  "0115632": {
+    "movieid": "0115632",
+    "director": "Julian Schnabel",
+    "budget": "3,300,000",
+    "gross": "3,046,785",
+    "runtime": "1:47",
+    "name": "Баския"
+  },
+  "0117918": {
+    "movieid": "0117918",
+    "director": "Ron Shelton",
+    "budget": "45,000,000",
+    "gross": "53,854,588",
+    "runtime": "2:15",
+    "name": "Жестяной кубок"
+  },
+  "0068646": {
+    "movieid": "0068646",
+    "director": "Francis Ford Coppola",
+    "budget": "6,000,000",
+    "gross": "250,342,198",
+    "runtime": "2:55",
+    "name": "Крёстный отец"
+  },
+  "0104558": {
+    "movieid": "0104558",
+    "director": "Stanley Tong",
+    "budget": "900,000",
+    "gross": "16,270,600",
+    "runtime": "1:36",
+    "name": "Полицейская история 3: Суперполицейский"
+  },
+  "0115736": {
+    "movieid": "0115736",
+    "director": "Lana WachowskiLilly Wachowski",
+    "budget": "4,500,000",
+    "gross": "3,803,441",
+    "runtime": "1:49",
+    "name": "Связь"
+  },
+  "0115836": {
+    "movieid": "0115836",
+    "director": "Arthur Hiller",
+    "budget": "17,000,000",
+    "gross": "3,325,651",
+    "runtime": "1:29",
+    "name": "Автостоянка"
+  },
+  "0116745": {
+    "movieid": "0116745",
+    "director": "Robert Altman",
+    "budget": "19,000,000",
+    "gross": "1,356,828",
+    "runtime": "1:56",
+    "name": "Канзас Сити"
+  },
+  "0119214": {
+    "movieid": "0119214",
+    "director": "Christopher Cain",
+    "budget": "53,000,000",
+    "gross": "19,745,922",
+    "runtime": "1:34",
+    "name": "На рыбалку"
+  },
+  "0110693": {
+    "movieid": "0110693",
+    "director": "Izidore K. Musallam",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:23",
+    "name": "Нечего терять"
+  },
+  "0106544": {
+    "movieid": "0106544",
+    "director": "Stanley Tong",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:44",
+    "name": "Супер полицейский 2"
+  },
+  "0120004": {
+    "movieid": "0120004",
+    "director": "Peter Hyams",
+    "budget": "40,000,000",
+    "gross": "33,956,608",
+    "runtime": "1:50",
+    "name": "Реликт"
+  },
+  "0116654": {
+    "movieid": "0116654",
+    "director": "John FrankenheimerRichard Stanley",
+    "budget": "40,000,000",
+    "gross": "49,627,779",
+    "runtime": "1:36",
+    "name": "Остров доктора Моро"
+  },
+  "0116311": {
+    "movieid": "0116311",
+    "director": "David Mickey Evans",
+    "budget": "N/A",
+    "gross": "26,491,793",
+    "runtime": "1:41",
+    "name": "Первый ребенок страны"
+  },
+  "0117965": {
+    "movieid": "0117965",
+    "director": "David Koepp",
+    "budget": "8,000,000",
+    "gross": "3,622,979",
+    "runtime": "1:34",
+    "name": "Эффект спускового курка"
+  },
+  "0115725": {
+    "movieid": "0115725",
+    "director": "Norman Jewison",
+    "budget": "30,000,000",
+    "gross": "4,357,406",
+    "runtime": "1:50",
+    "name": "Богус"
+  },
+  "0115783": {
+    "movieid": "0115783",
+    "director": "Ernest R. Dickerson",
+    "budget": "25,000,000",
+    "gross": "22,611,954",
+    "runtime": "1:24",
+    "name": "Пуленепробиваемый"
+  },
+  "0113596": {
+    "movieid": "0113596",
+    "director": "Roy Allen Smith",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:11",
+    "name": "Земля до начала времен: В поисках воды"
+  },
+  "0109001": {
+    "movieid": "0109001",
+    "director": "Theo van Gogh",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:27",
+    "name": "06"
+  },
+  "0113253": {
+    "movieid": "0113253",
+    "director": "Joe Chappelle",
+    "budget": "5,000,000",
+    "gross": "15,116,634",
+    "runtime": "1:27",
+    "name": "Хэллоуин 6: Проклятие Майкла Майерса"
+  },
+  "0117991": {
+    "movieid": "0117991",
+    "director": "Trevor Nunn",
+    "budget": "5,000,000",
+    "gross": "588,621",
+    "runtime": "2:14",
+    "name": "Двенадцатая ночь или что угодно"
+  },
+  "0117093": {
+    "movieid": "0117093",
+    "director": "Keith Gordon",
+    "budget": "6,000,000",
+    "gross": "403,701",
+    "runtime": "1:54",
+    "name": "Мать-тьма"
+  },
+  "0111019": {
+    "movieid": "0111019",
+    "director": "André Téchiné",
+    "budget": "N/A",
+    "gross": "807,775",
+    "runtime": "1:50",
+    "name": "Дикий тростник"
+  },
+  "0035896": {
+    "movieid": "0035896",
+    "director": "Sam Wood",
+    "budget": "3,000,000",
+    "gross": "N/A",
+    "runtime": "2:50",
+    "name": "For Whom the Bell Tolls"
+  },
+  "0032904": {
+    "movieid": "0032904",
+    "director": "George Cukor",
+    "budget": "944,000",
+    "gross": "414,976",
+    "runtime": "1:52",
+    "name": "Филадельфийская история"
+  },
+  "0045152": {
+    "movieid": "0045152",
+    "director": "Stanley DonenGene Kelly",
+    "budget": "2,540,800",
+    "gross": "2,096,442",
+    "runtime": "1:43",
+    "name": "Поющие под дождём"
+  },
+  "0043278": {
+    "movieid": "0043278",
+    "director": "Vincente Minnelli",
+    "budget": "2,723,903",
+    "gross": "275,077",
+    "runtime": "1:54",
+    "name": "Американец в Париже"
+  },
+  "0050419": {
+    "movieid": "0050419",
+    "director": "Stanley Donen",
+    "budget": "3,000,000",
+    "gross": "1,669",
+    "runtime": "1:43",
+    "name": "Забавная мордашка"
+  },
+  "0054698": {
+    "movieid": "0054698",
+    "director": "Blake Edwards",
+    "budget": "2,500,000",
+    "gross": "600,922",
+    "runtime": "1:55",
+    "name": "Завтрак у «Тиффани»"
+  },
+  "0052357": {
+    "movieid": "0052357",
+    "director": "Alfred Hitchcock",
+    "budget": "2,479,000",
+    "gross": "7,974,114",
+    "runtime": "2:08",
+    "name": "Головокружение"
+  },
+  "0047396": {
+    "movieid": "0047396",
+    "director": "Alfred Hitchcock",
+    "budget": "1,000,000",
+    "gross": "37,905,475",
+    "runtime": "1:52",
+    "name": "Окно во двор"
+  },
+  "0025316": {
+    "movieid": "0025316",
+    "director": "Frank Capra",
+    "budget": "325,000",
+    "gross": "16,993",
+    "runtime": "1:45",
+    "name": "Это случилось однажды ночью"
+  },
+  "0036855": {
+    "movieid": "0036855",
+    "director": "George Cukor",
+    "budget": "N/A",
+    "gross": "2,391",
+    "runtime": "1:54",
+    "name": "Gaslight"
+  },
+  "0025164": {
+    "movieid": "0025164",
+    "director": "Mark Sandrich",
+    "budget": "520,000",
+    "gross": "6,879",
+    "runtime": "1:47",
+    "name": "Веселый развод"
+  },
+  "0053125": {
+    "movieid": "0053125",
+    "director": "Alfred Hitchcock",
+    "budget": "3,101,000",
+    "gross": "197,920",
+    "runtime": "2:16",
+    "name": "На север через северо-запад"
+  },
+  "0053604": {
+    "movieid": "0053604",
+    "director": "Billy Wilder",
+    "budget": "3,000,000",
+    "gross": "18,783,770",
+    "runtime": "2:05",
+    "name": "Квартира"
+  },
+  "0053291": {
+    "movieid": "0053291",
+    "director": "Billy Wilder",
+    "budget": "2,883,848",
+    "gross": "208,786",
+    "runtime": "2:01",
+    "name": "В джазе только девушки"
+  },
+  "0056923": {
+    "movieid": "0056923",
+    "director": "Stanley Donen",
+    "budget": "3,000,000",
+    "gross": "175,119",
+    "runtime": "1:53",
+    "name": "Шарада"
+  },
+  "0034583": {
+    "movieid": "0034583",
+    "director": "Michael Curtiz",
+    "budget": "950,000",
+    "gross": "4,731,471",
+    "runtime": "1:42",
+    "name": "Касабланка"
+  },
+  "0033870": {
+    "movieid": "0033870",
+    "director": "John Huston",
+    "budget": "375,000",
+    "gross": "41,740",
+    "runtime": "1:40",
+    "name": "The Maltese Falcon"
+  },
+  "0058385": {
+    "movieid": "0058385",
+    "director": "George Cukor",
+    "budget": "17,000,000",
+    "gross": "72,685,970",
+    "runtime": "2:50",
+    "name": "Моя прекрасная леди"
+  },
+  "0047437": {
+    "movieid": "0047437",
+    "director": "Billy Wilder",
+    "budget": "2,238,813",
+    "gross": "3,985",
+    "runtime": "1:53",
+    "name": "Сабрина"
+  },
+  "0046250": {
+    "movieid": "0046250",
+    "director": "William Wyler",
+    "budget": "1,500,000",
+    "gross": "103,197",
+    "runtime": "1:58",
+    "name": "Римские каникулы"
+  },
+  "0031580": {
+    "movieid": "0031580",
+    "director": "Walter LangWilliam A. Seiter",
+    "budget": "1,000,000",
+    "gross": "N/A",
+    "runtime": "1:33",
+    "name": "The Little Princess"
+  },
+  "0037059": {
+    "movieid": "0037059",
+    "director": "Vincente Minnelli",
+    "budget": "1,700,000",
+    "gross": "502,844",
+    "runtime": "1:53",
+    "name": "Встреть меня в Сент-Луисе"
+  },
+  "0032138": {
+    "movieid": "0032138",
+    "director": "Victor FlemingKing Vidor",
+    "budget": "2,777,000",
+    "gross": "25,637,669",
+    "runtime": "1:42",
+    "name": "Волшебник страны Оз"
+  },
+  "0031381": {
+    "movieid": "0031381",
+    "director": "Victor Fleming",
+    "budget": "3,977,000",
+    "gross": "402,382,193",
+    "runtime": "3:58",
+    "name": "Унесённые ветром"
+  },
+  "0084370": {
+    "movieid": "0084370",
+    "director": "Richard Benjamin",
+    "budget": "7,900,000",
+    "gross": "20,123,620",
+    "runtime": "1:32",
+    "name": "My Favorite Year"
+  },
+  "0043014": {
+    "movieid": "0043014",
+    "director": "Billy Wilder",
+    "budget": "1,752,000",
+    "gross": "310,954",
+    "runtime": "1:50",
+    "name": "Сансет бульвар"
+  },
+  "0033467": {
+    "movieid": "0033467",
+    "director": "Orson Welles",
+    "budget": "839,727",
+    "gross": "1,711,106",
+    "runtime": "1:59",
+    "name": "Гражданин Кейн"
+  },
+  "0062622": {
+    "movieid": "0062622",
+    "director": "Stanley Kubrick",
+    "budget": "12,000,000",
+    "gross": "66,890,296",
+    "runtime": "2:29",
+    "name": "2001 год: Космическая одиссея"
+  },
+  "0042192": {
+    "movieid": "0042192",
+    "director": "Joseph L. Mankiewicz",
+    "budget": "1,400,000",
+    "gross": "154,974",
+    "runtime": "2:18",
+    "name": "Всё о Еве"
+  },
+  "0032143": {
+    "movieid": "0032143",
+    "director": "George Cukor",
+    "budget": "1,688,000",
+    "gross": "16,161",
+    "runtime": "2:13",
+    "name": "The Women"
+  },
+  "0032976": {
+    "movieid": "0032976",
+    "director": "Alfred Hitchcock",
+    "budget": "1,288,000",
+    "gross": "113,328",
+    "runtime": "2:10",
+    "name": "Ребекка"
+  },
+  "0032484": {
+    "movieid": "0032484",
+    "director": "Alfred Hitchcock",
+    "budget": "1,500,000",
+    "gross": "782",
+    "runtime": "2:00",
+    "name": "Foreign Correspondent"
+  },
+  "0038787": {
+    "movieid": "0038787",
+    "director": "Alfred Hitchcock",
+    "budget": "2,000,000",
+    "gross": "117,330",
+    "runtime": "1:42",
+    "name": "Notorious"
+  },
+  "0038109": {
+    "movieid": "0038109",
+    "director": "Alfred Hitchcock",
+    "budget": "1,696,377",
+    "gross": "19,288",
+    "runtime": "1:51",
+    "name": "Spellbound"
+  },
+  "0050105": {
+    "movieid": "0050105",
+    "director": "Leo McCarey",
+    "budget": "N/A",
+    "gross": "3,873,965",
+    "runtime": "1:55",
+    "name": "An Affair to Remember"
+  },
+  "0048728": {
+    "movieid": "0048728",
+    "director": "Alfred Hitchcock",
+    "budget": "2,500,000",
+    "gross": "7,117",
+    "runtime": "1:46",
+    "name": "To Catch a Thief"
+  },
+  "0042451": {
+    "movieid": "0042451",
+    "director": "Vincente Minnelli",
+    "budget": "N/A",
+    "gross": "89",
+    "runtime": "1:32",
+    "name": "Father of the Bride"
+  },
+  "0045537": {
+    "movieid": "0045537",
+    "director": "Vincente Minnelli",
+    "budget": "2,169,120",
+    "gross": "15,009",
+    "runtime": "1:52",
+    "name": "The Band Wagon"
+  },
+  "0031725": {
+    "movieid": "0031725",
+    "director": "Ernst Lubitsch",
+    "budget": "1,365,000",
+    "gross": "2,477",
+    "runtime": "1:50",
+    "name": "Ниночка"
+  },
+  "0050658": {
+    "movieid": "0050658",
+    "director": "Billy Wilder",
+    "budget": "2,100,000",
+    "gross": "718",
+    "runtime": "2:10",
+    "name": "Love in the Afternoon"
+  },
+  "0051658": {
+    "movieid": "0051658",
+    "director": "Vincente MinnelliCharles Walters",
+    "budget": "3,319,355",
+    "gross": "N/A",
+    "runtime": "1:55",
+    "name": "Жижи"
+  },
+  "0029843": {
+    "movieid": "0029843",
+    "director": "Michael CurtizWilliam Keighley",
+    "budget": "1,900,000",
+    "gross": "5,742",
+    "runtime": "1:42",
+    "name": "The Adventures of Robin Hood"
+  },
+  "0032762": {
+    "movieid": "0032762",
+    "director": "Rouben Mamoulian",
+    "budget": "1,000,000",
+    "gross": "10,248",
+    "runtime": "1:34",
+    "name": "The Mark of Zorro"
+  },
+  "0037008": {
+    "movieid": "0037008",
+    "director": "Otto PremingerRouben Mamoulian",
+    "budget": "1,020,000",
+    "gross": "1,356",
+    "runtime": "1:28",
+    "name": "Лора"
+  },
+  "0039420": {
+    "movieid": "0039420",
+    "director": "Joseph L. Mankiewicz",
+    "budget": "N/A",
+    "gross": "29,545",
+    "runtime": "1:44",
+    "name": "The Ghost and Mrs. Muir"
+  },
+  "0029162": {
+    "movieid": "0029162",
+    "director": "Frank Capra",
+    "budget": "4,000,000",
+    "gross": "N/A",
+    "runtime": "2:12",
+    "name": "Lost Horizon"
+  },
+  "0027125": {
+    "movieid": "0027125",
+    "director": "Mark Sandrich",
+    "budget": "609,000",
+    "gross": "13,592",
+    "runtime": "1:41",
+    "name": "Top Hat"
+  },
+  "0035446": {
+    "movieid": "0035446",
+    "director": "Ernst Lubitsch",
+    "budget": "N/A",
+    "gross": "4,578,000",
+    "runtime": "1:39",
+    "name": "Быть или не быть"
+  },
+  "0028010": {
+    "movieid": "0028010",
+    "director": "Gregory La Cava",
+    "budget": "656,000",
+    "gross": "N/A",
+    "runtime": "1:34",
+    "name": "My Man Godfrey"
+  },
+  "0049261": {
+    "movieid": "0049261",
+    "director": "George Stevens",
+    "budget": "5,400,000",
+    "gross": "32,857,066",
+    "runtime": "3:21",
+    "name": "Giant"
+  },
+  "0048028": {
+    "movieid": "0048028",
+    "director": "Elia Kazan",
+    "budget": "N/A",
+    "gross": "29,934",
+    "runtime": "1:58",
+    "name": "East of Eden"
+  },
+  "0025878": {
+    "movieid": "0025878",
+    "director": "W.S. Van Dyke",
+    "budget": "226,408",
+    "gross": "N/A",
+    "runtime": "1:31",
+    "name": "The Thin Man"
+  },
+  "0032599": {
+    "movieid": "0032599",
+    "director": "Howard Hawks",
+    "budget": "N/A",
+    "gross": "330",
+    "runtime": "1:32",
+    "name": "His Girl Friday"
+  },
+  "0048960": {
+    "movieid": "0048960",
+    "director": "Michael AndersonJohn Farrow",
+    "budget": "6,000,000",
+    "gross": "42,009,549",
+    "runtime": "2:47",
+    "name": "Around the World in Eighty Days"
+  },
+  "0038650": {
+    "movieid": "0038650",
+    "director": "Frank Capra",
+    "budget": "3,180,000",
+    "gross": "10,635,461",
+    "runtime": "2:10",
+    "name": "Эта замечательная жизнь"
+  },
+  "0031679": {
+    "movieid": "0031679",
+    "director": "Frank Capra",
+    "budget": "1,900,000",
+    "gross": "146,123",
+    "runtime": "2:09",
+    "name": "Мистер Смит едет в Вашингтон"
+  },
+  "0029947": {
+    "movieid": "0029947",
+    "director": "Howard Hawks",
+    "budget": "1,073,000",
+    "gross": "13,489",
+    "runtime": "1:42",
+    "name": "Bringing Up Baby"
+  },
+  "0034012": {
+    "movieid": "0034012",
+    "director": "George Stevens",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:59",
+    "name": "Penny Serenade"
+  },
+  "0025586": {
+    "movieid": "0025586",
+    "director": "John Cromwell",
+    "budget": "403,000",
+    "gross": "N/A",
+    "runtime": "1:23",
+    "name": "Of Human Bondage"
+  },
+  "0027893": {
+    "movieid": "0027893",
+    "director": "John Cromwell",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:42",
+    "name": "Little Lord Fauntleroy"
+  },
+  "0041509": {
+    "movieid": "0041509",
+    "director": "Henry Koster",
+    "budget": "2,873,000",
+    "gross": "N/A",
+    "runtime": "1:42",
+    "name": "The Inspector General"
+  },
+  "0026029": {
+    "movieid": "0026029",
+    "director": "Alfred Hitchcock",
+    "budget": "50,000",
+    "gross": "54,096",
+    "runtime": "1:26",
+    "name": "The 39 Steps"
+  },
+  "0063350": {
+    "movieid": "0063350",
+    "director": "George A. Romero",
+    "budget": "114,000",
+    "gross": "238,101",
+    "runtime": "1:36",
+    "name": "Night of the Living Dead"
+  },
+  "0043265": {
+    "movieid": "0043265",
+    "director": "John Huston",
+    "budget": "1,000,000",
+    "gross": "46,305",
+    "runtime": "1:45",
+    "name": "Африканская королева"
+  },
+  "0046414": {
+    "movieid": "0046414",
+    "director": "John Huston",
+    "budget": "1,000,000",
+    "gross": "N/A",
+    "runtime": "1:29",
+    "name": "Beat the Devil"
+  },
+  "0051459": {
+    "movieid": "0051459",
+    "director": "Richard Brooks",
+    "budget": "3,000,000",
+    "gross": "1,872",
+    "runtime": "1:48",
+    "name": "Кошка на раскалённой крыше"
+  },
+  "0033891": {
+    "movieid": "0033891",
+    "director": "Frank Capra",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "2:15",
+    "name": "Познакомьтесь с Джоном Доу"
+  },
+  "0022879": {
+    "movieid": "0022879",
+    "director": "Frank Borzage",
+    "budget": "799,520",
+    "gross": "N/A",
+    "runtime": "1:20",
+    "name": "Прощай, оружие"
+  },
+  "0114007": {
+    "movieid": "0114007",
+    "director": "Thaddeus O'Sullivan",
+    "budget": "N/A",
+    "gross": "40,374",
+    "runtime": "1:25",
+    "name": "Ничего личного"
+  },
+  "0118927": {
+    "movieid": "0118927",
+    "director": "Darrell Roodt",
+    "budget": "N/A",
+    "gross": "5,406,742",
+    "runtime": "1:35",
+    "name": "Опасная земля"
+  },
+  "0048491": {
+    "movieid": "0048491",
+    "director": "Joshua Logan",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:55",
+    "name": "Picnic"
+  },
+  "0117357": {
+    "movieid": "0117357",
+    "director": "Richard Schenkman",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:39",
+    "name": "Причуды любви"
+  },
+  "0116329": {
+    "movieid": "0116329",
+    "director": "Carroll Ballard",
+    "budget": "22,000,000",
+    "gross": "25,143,818",
+    "runtime": "1:47",
+    "name": "Летите домой"
+  },
+  "0118742": {
+    "movieid": "0118742",
+    "director": "Lance Young",
+    "budget": "N/A",
+    "gross": "294,064",
+    "runtime": "1:43",
+    "name": "Блаженство"
+  },
+  "0116442": {
+    "movieid": "0116442",
+    "director": "Allison Anders",
+    "budget": "5,000,000",
+    "gross": "660,313",
+    "runtime": "1:56",
+    "name": "Утеха сердца моего"
+  },
+  "0117011": {
+    "movieid": "0117011",
+    "director": "Ringo Lam",
+    "budget": "25,000,000",
+    "gross": "14,502,483",
+    "runtime": "1:41",
+    "name": "Максимальный риск"
+  },
+  "0117039": {
+    "movieid": "0117039",
+    "director": "Neil Jordan",
+    "budget": "25,000,000",
+    "gross": "11,136,590",
+    "runtime": "2:13",
+    "name": "Майкл Коллинз"
+  },
+  "0116635": {
+    "movieid": "0116635",
+    "director": "Matthew Broderick",
+    "budget": "N/A",
+    "gross": "195,170",
+    "runtime": "1:59",
+    "name": "Бесконечность"
+  },
+  "0115678": {
+    "movieid": "0115678",
+    "director": "Campbell ScottStanley Tucci",
+    "budget": "4,100,000",
+    "gross": "12,009,094",
+    "runtime": "1:49",
+    "name": "Большая ночь"
+  },
+  "0116830": {
+    "movieid": "0116830",
+    "director": "Walter Hill",
+    "budget": "67,000,000",
+    "gross": "47,267,001",
+    "runtime": "1:41",
+    "name": "Герой - одиночка"
+  },
+  "0117603": {
+    "movieid": "0117603",
+    "director": "F. Gary Gray",
+    "budget": "9,000,000",
+    "gross": "41,590,886",
+    "runtime": "2:03",
+    "name": "Вызов"
+  },
+  "0115438": {
+    "movieid": "0115438",
+    "director": "John Herzfeld",
+    "budget": "N/A",
+    "gross": "11,132,210",
+    "runtime": "1:44",
+    "name": "Два дня в долине"
+  },
+  "0116259": {
+    "movieid": "0116259",
+    "director": "Michael Apted",
+    "budget": "38,000,000",
+    "gross": "17,380,126",
+    "runtime": "1:58",
+    "name": "Крайние меры"
+  },
+  "0116421": {
+    "movieid": "0116421",
+    "director": "John Gray",
+    "budget": "45,000,000",
+    "gross": "20,351,264",
+    "runtime": "1:31",
+    "name": "Мерцающий"
+  },
+  "0116000": {
+    "movieid": "0116000",
+    "director": "Robert Lieberman",
+    "budget": "N/A",
+    "gross": "22,955,097",
+    "runtime": "1:44",
+    "name": "Могучие утята 3"
+  },
+  "0115862": {
+    "movieid": "0115862",
+    "director": "James Foley",
+    "budget": "50,000,000",
+    "gross": "22,540,359",
+    "runtime": "1:53",
+    "name": "Камера"
+  },
+  "0072653": {
+    "movieid": "0072653",
+    "director": "Norman Tokar",
+    "budget": "N/A",
+    "gross": "36,853,000",
+    "runtime": "1:40",
+    "name": "The Apple Dumpling Gang"
+  },
+  "0047977": {
+    "movieid": "0047977",
+    "director": "Norman Foster",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:33",
+    "name": "Davy Crockett: King of the Wild Frontier"
+  },
+  "0072951": {
+    "movieid": "0072951",
+    "director": "John Hough",
+    "budget": "N/A",
+    "gross": "20,000,000",
+    "runtime": "1:37",
+    "name": "Escape to Witch Mountain"
+  },
+  "0064603": {
+    "movieid": "0064603",
+    "director": "Robert Stevenson",
+    "budget": "N/A",
+    "gross": "51,264,022",
+    "runtime": "1:48",
+    "name": "The Love Bug"
+  },
+  "0071607": {
+    "movieid": "0071607",
+    "director": "Robert Stevenson",
+    "budget": "N/A",
+    "gross": "38,229,000",
+    "runtime": "1:28",
+    "name": "Herbie Rides Again"
+  },
+  "0050798": {
+    "movieid": "0050798",
+    "director": "Robert Stevenson",
+    "budget": "N/A",
+    "gross": "91",
+    "runtime": "1:23",
+    "name": "Old Yeller"
+  },
+  "0055277": {
+    "movieid": "0055277",
+    "director": "David Swift",
+    "budget": "N/A",
+    "gross": "29,650,385",
+    "runtime": "2:09",
+    "name": "The Parent Trap"
+  },
+  "0054195": {
+    "movieid": "0054195",
+    "director": "David Swift",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "2:14",
+    "name": "Pollyanna"
+  },
+  "0107131": {
+    "movieid": "0107131",
+    "director": "Duwayne Dunham",
+    "budget": "N/A",
+    "gross": "41,833,324",
+    "runtime": "1:24",
+    "name": "Дорога домой: Невероятное путешествие"
+  },
+  "0053271": {
+    "movieid": "0053271",
+    "director": "Charles Barton",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:44",
+    "name": "The Shaggy Dog"
+  },
+  "0054357": {
+    "movieid": "0054357",
+    "director": "Ken Annakin",
+    "budget": "5,000,000",
+    "gross": "40,359,745",
+    "runtime": "2:06",
+    "name": "Swiss Family Robinson"
+  },
+  "0059793": {
+    "movieid": "0059793",
+    "director": "Robert Stevenson",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:56",
+    "name": "That Darn Cat!"
+  },
+  "0046672": {
+    "movieid": "0046672",
+    "director": "Richard Fleischer",
+    "budget": "9,000,000",
+    "gross": "746",
+    "runtime": "2:07",
+    "name": "20000 лье под водой"
+  },
+  "0106611": {
+    "movieid": "0106611",
+    "director": "Jon Turteltaub",
+    "budget": "14,000,000",
+    "gross": "154,856,263",
+    "runtime": "1:38",
+    "name": "Крутые виражи"
+  },
+  "0109127": {
+    "movieid": "0109127",
+    "director": "William Dear",
+    "budget": "24,000,000",
+    "gross": "50,236,831",
+    "runtime": "1:42",
+    "name": "Ангелы у кромки поля"
+  },
+  "0042332": {
+    "movieid": "0042332",
+    "director": "Clyde GeronimiWilfred JacksonHamilton Luske",
+    "budget": "2,900,000",
+    "gross": "96,383,387",
+    "runtime": "1:14",
+    "name": "Золушка"
+  },
+  "0063819": {
+    "movieid": "0063819",
+    "director": "Wolfgang ReithermanBen Sharpsteen",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "0:25",
+    "name": "Winnie the Pooh and the Blustery Day"
+  },
+  "0038166": {
+    "movieid": "0038166",
+    "director": "N/A",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:11",
+    "name": "Три кабальеро"
+  },
+  "0057546": {
+    "movieid": "0057546",
+    "director": "Wolfgang ReithermanClyde GeronimiDavid Hand",
+    "budget": "3,000,000",
+    "gross": "12,000,000",
+    "runtime": "1:19",
+    "name": "Меч в камне"
+  },
+  "0102798": {
+    "movieid": "0102798",
+    "director": "Kevin Reynolds",
+    "budget": "48,000,000",
+    "gross": "390,493,908",
+    "runtime": "2:23",
+    "name": "Робин Гуд: Принц воров"
+  },
+  "0058331": {
+    "movieid": "0058331",
+    "director": "Robert Stevenson",
+    "budget": "6,000,000",
+    "gross": "103,127,195",
+    "runtime": "2:19",
+    "name": "Мэри Поппинс"
+  },
+  "0033563": {
+    "movieid": "0033563",
+    "director": "N/A",
+    "budget": "950,000",
+    "gross": "112,581",
+    "runtime": "1:04",
+    "name": "Дамбо"
+  },
+  "0076538": {
+    "movieid": "0076538",
+    "director": "Don ChaffeyDon Bluth",
+    "budget": "10,000,000",
+    "gross": "39,588,000",
+    "runtime": "2:08",
+    "name": "Pete's Dragon"
+  },
+  "0066817": {
+    "movieid": "0066817",
+    "director": "Robert StevensonWard Kimball",
+    "budget": "20,000,000",
+    "gross": "844",
+    "runtime": "1:57",
+    "name": "Bedknobs and Broomsticks"
+  },
+  "0043274": {
+    "movieid": "0043274",
+    "director": "N/A",
+    "budget": "3,000,000",
+    "gross": "1,246",
+    "runtime": "1:15",
+    "name": "Алиса в Стране чудес"
+  },
+  "0082406": {
+    "movieid": "0082406",
+    "director": "N/A",
+    "budget": "12,000,000",
+    "gross": "63,456,988",
+    "runtime": "1:23",
+    "name": "Лис и пёс"
+  },
+  "0116361": {
+    "movieid": "0116361",
+    "director": "Matthew Bright",
+    "budget": "3,000,000",
+    "gross": "295,493",
+    "runtime": "1:44",
+    "name": "Шоссе"
+  },
+  "0059742": {
+    "movieid": "0059742",
+    "director": "Robert Wise",
+    "budget": "8,200,000",
+    "gross": "159,500,547",
+    "runtime": "2:52",
+    "name": "Звуки музыки"
+  },
+  "0095016": {
+    "movieid": "0095016",
+    "director": "John McTiernan",
+    "budget": "28,000,000",
+    "gross": "143,651,650",
+    "runtime": "2:12",
+    "name": "Крепкий орешек"
+  },
+  "0104692": {
+    "movieid": "0104692",
+    "director": "Brett Leonard",
+    "budget": "10,000,000",
+    "gross": "32,100,816",
+    "runtime": "1:48",
+    "name": "Газонокосильщик"
+  },
+  "0117582": {
+    "movieid": "0117582",
+    "director": "Christopher Hampton",
+    "budget": "7,000,000",
+    "gross": "106,606",
+    "runtime": "1:35",
+    "name": "Секретный агент"
+  },
+  "0117589": {
+    "movieid": "0117589",
+    "director": "Mike Leigh",
+    "budget": "4,500,000",
+    "gross": "13,417,292",
+    "runtime": "2:16",
+    "name": "Тайны и ложь"
+  },
+  "0117887": {
+    "movieid": "0117887",
+    "director": "Tom Hanks",
+    "budget": "26,000,000",
+    "gross": "34,585,416",
+    "runtime": "1:48",
+    "name": "То, что ты делаешь"
+  },
+  "0117924": {
+    "movieid": "0117924",
+    "director": "Michael Pressman",
+    "budget": "N/A",
+    "gross": "4,189,233",
+    "runtime": "1:33",
+    "name": "Джиллиан на день рождения"
+  },
+  "0115640": {
+    "movieid": "0115640",
+    "director": "Hettie Macdonald",
+    "budget": "N/A",
+    "gross": "2,176,488",
+    "runtime": "1:30",
+    "name": "Красота"
+  },
+  "0116908": {
+    "movieid": "0116908",
+    "director": "Renny Harlin",
+    "budget": "65,000,000",
+    "gross": "89,456,761",
+    "runtime": "2:01",
+    "name": "Долгий поцелуй на ночь"
+  },
+  "0116409": {
+    "movieid": "0116409",
+    "director": "Stephen Hopkins",
+    "budget": "55,000,000",
+    "gross": "38,619,959",
+    "runtime": "1:50",
+    "name": "Призрак и Тьма"
+  },
+  "0116913": {
+    "movieid": "0116913",
+    "director": "Al Pacino",
+    "budget": "N/A",
+    "gross": "1,408,575",
+    "runtime": "1:52",
+    "name": "B поисках Ричарда"
+  },
+  "0117958": {
+    "movieid": "0117958",
+    "director": "Steve Buscemi",
+    "budget": "1,300,000",
+    "gross": "749,741",
+    "runtime": "1:35",
+    "name": "Истина в вине"
+  },
+  "0117202": {
+    "movieid": "0117202",
+    "director": "John McNaughton",
+    "budget": "N/A",
+    "gross": "22,891",
+    "runtime": "1:41",
+    "name": "Нормальная жизнь"
+  },
+  "0116404": {
+    "movieid": "0116404",
+    "director": "Spike Lee",
+    "budget": "2,400,000",
+    "gross": "5,754,249",
+    "runtime": "2:00",
+    "name": "Садись в автобус"
+  },
+  "0120107": {
+    "movieid": "0120107",
+    "director": "George P. Cosmatos",
+    "budget": "45,000,000",
+    "gross": "2,312,463",
+    "runtime": "1:43",
+    "name": "Теневой заговор"
+  },
+  "0116722": {
+    "movieid": "0116722",
+    "director": "Michael Winterbottom",
+    "budget": "7,000,000",
+    "gross": "409,144",
+    "runtime": "2:03",
+    "name": "Джуд"
+  },
+  "0116242": {
+    "movieid": "0116242",
+    "director": "Woody Allen",
+    "budget": "20,000,000",
+    "gross": "9,759,200",
+    "runtime": "1:41",
+    "name": "Все говорят, что я люблю тебя"
+  },
+  "0117509": {
+    "movieid": "0117509",
+    "director": "Baz Luhrmann",
+    "budget": "14,500,000",
+    "gross": "147,554,998",
+    "runtime": "2:00",
+    "name": "Ромео + Джульетта"
+  },
+  "0117802": {
+    "movieid": "0117802",
+    "director": "Doug Liman",
+    "budget": "200,000",
+    "gross": "4,555,020",
+    "runtime": "1:36",
+    "name": "Тусовщики"
+  },
+  "0117665": {
+    "movieid": "0117665",
+    "director": "Barry Levinson",
+    "budget": "44,000,000",
+    "gross": "165,615,285",
+    "runtime": "2:27",
+    "name": "Спящие"
+  },
+  "0115491": {
+    "movieid": "0115491",
+    "director": "Tad Stones",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:21",
+    "name": "Аладдин и король разбойников"
+  },
+  "0029546": {
+    "movieid": "0029546",
+    "director": "Mark Sandrich",
+    "budget": "991,000",
+    "gross": "6,662",
+    "runtime": "1:49",
+    "name": "Shall We Dance"
+  },
+  "0039286": {
+    "movieid": "0039286",
+    "director": "Edward Dmytryk",
+    "budget": "250,000",
+    "gross": "N/A",
+    "runtime": "1:26",
+    "name": "Crossfire"
+  },
+  "0067992": {
+    "movieid": "0067992",
+    "director": "Mel Stuart",
+    "budget": "3,000,000",
+    "gross": "687,741",
+    "runtime": "1:40",
+    "name": "Вилли Вонка и шоколадная фабрика"
+  },
+  "0055018": {
+    "movieid": "0055018",
+    "director": "Jack Clayton",
+    "budget": "430,000",
+    "gross": "30,221",
+    "runtime": "1:40",
+    "name": "The Innocents"
+  },
+  "0070707": {
+    "movieid": "0070707",
+    "director": "Woody Allen",
+    "budget": "2,000,000",
+    "gross": "18,344,868",
+    "runtime": "1:29",
+    "name": "Sleeper"
+  },
+  "0066808": {
+    "movieid": "0066808",
+    "director": "Woody Allen",
+    "budget": "2,000,000",
+    "gross": "136,200",
+    "runtime": "1:22",
+    "name": "Bananas"
+  },
+  "0095159": {
+    "movieid": "0095159",
+    "director": "Charles CrichtonJohn Cleese",
+    "budget": "7,500,000",
+    "gross": "62,493,712",
+    "runtime": "1:48",
+    "name": "Рыбка по имени Ванда"
+  },
+  "0079470": {
+    "movieid": "0079470",
+    "director": "Terry Jones",
+    "budget": "4,000,000",
+    "gross": "20,833,252",
+    "runtime": "1:34",
+    "name": "Житие Брайана по Монти Пайтон"
+  },
+  "0084865": {
+    "movieid": "0084865",
+    "director": "Blake Edwards",
+    "budget": "N/A",
+    "gross": "28,229,440",
+    "runtime": "2:14",
+    "name": "Виктор/Виктория"
+  },
+  "0068334": {
+    "movieid": "0068334",
+    "director": "Michael Ritchie",
+    "budget": "1,500,000",
+    "gross": "N/A",
+    "runtime": "1:50",
+    "name": "The Candidate"
+  },
+  "0059243": {
+    "movieid": "0059243",
+    "director": "Blake Edwards",
+    "budget": "12,000,000",
+    "gross": "N/A",
+    "runtime": "2:40",
+    "name": "The Great Race"
+  },
+  "0061418": {
+    "movieid": "0061418",
+    "director": "Arthur Penn",
+    "budget": "2,500,000",
+    "gross": "2,560",
+    "runtime": "1:51",
+    "name": "Бонни и Клайд"
+  },
+  "0052027": {
+    "movieid": "0052027",
+    "director": "John SturgesFred Zinnemann",
+    "budget": "5,000,000",
+    "gross": "67,740",
+    "runtime": "1:26",
+    "name": "The Old Man and the Sea"
+  },
+  "0046912": {
+    "movieid": "0046912",
+    "director": "Alfred Hitchcock",
+    "budget": "1,400,000",
+    "gross": "45,313",
+    "runtime": "1:45",
+    "name": "В случае убийства набирайте «М»"
+  },
+  "0092890": {
+    "movieid": "0092890",
+    "director": "Emile Ardolino",
+    "budget": "6,000,000",
+    "gross": "214,577,242",
+    "runtime": "1:40",
+    "name": "Грязные танцы"
+  },
+  "0105236": {
+    "movieid": "0105236",
+    "director": "Quentin Tarantino",
+    "budget": "1,200,000",
+    "gross": "2,932,006",
+    "runtime": "1:39",
+    "name": "Бешеные псы"
+  },
+  "0091763": {
+    "movieid": "0091763",
+    "director": "Oliver Stone",
+    "budget": "6,000,000",
+    "gross": "138,546,255",
+    "runtime": "2:00",
+    "name": "Взвод"
+  },
+  "0098627": {
+    "movieid": "0098627",
+    "director": "Ted Kotcheff",
+    "budget": "N/A",
+    "gross": "30,218,387",
+    "runtime": "1:37",
+    "name": "Weekend at Bernie's"
+  },
+  "0103772": {
+    "movieid": "0103772",
+    "director": "Paul Verhoeven",
+    "budget": "49,000,000",
+    "gross": "352,927,224",
+    "runtime": "2:07",
+    "name": "Основной инстинкт"
+  },
+  "0101761": {
+    "movieid": "0101761",
+    "director": "Oliver Stone",
+    "budget": "38,000,000",
+    "gross": "34,515,936",
+    "runtime": "2:20",
+    "name": "The Doors"
+  },
+  "0104036": {
+    "movieid": "0104036",
+    "director": "Neil Jordan",
+    "budget": "2,300,000",
+    "gross": "62,549,086",
+    "runtime": "1:52",
+    "name": "Жестокая игра"
+  },
+  "0104348": {
+    "movieid": "0104348",
+    "director": "James Foley",
+    "budget": "12,500,000",
+    "gross": "10,726,612",
+    "runtime": "1:40",
+    "name": "Гленгарри Глен Росс (Американцы)"
+  },
+  "0084707": {
+    "movieid": "0084707",
+    "director": "Alan J. Pakula",
+    "budget": "12,000,000",
+    "gross": "30,036,166",
+    "runtime": "2:30",
+    "name": "Выбор Софи"
+  },
+  "0083866": {
+    "movieid": "0083866",
+    "director": "Steven Spielberg",
+    "budget": "10,500,000",
+    "gross": "797,307,407",
+    "runtime": "1:55",
+    "name": "E.T. the Extra-Terrestrial"
+  },
+  "0029992": {
+    "movieid": "0029992",
+    "director": "Edwin L. Marin",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:09",
+    "name": "Рождественский гимн"
+  },
+  "0099371": {
+    "movieid": "0099371",
+    "director": "Tony Scott",
+    "budget": "60,000,000",
+    "gross": "157,920,733",
+    "runtime": "1:47",
+    "name": "Days of Thunder"
+  },
+  "0092099": {
+    "movieid": "0092099",
+    "director": "Tony Scott",
+    "budget": "15,000,000",
+    "gross": "357,288,178",
+    "runtime": "1:49",
+    "name": "Лучший стрелок"
+  },
+  "0048545": {
+    "movieid": "0048545",
+    "director": "Nicholas Ray",
+    "budget": "1,500,000",
+    "gross": "219,735",
+    "runtime": "1:51",
+    "name": "Rebel Without a Cause"
+  },
+  "0044081": {
+    "movieid": "0044081",
+    "director": "Elia Kazan",
+    "budget": "1,800,000",
+    "gross": "54,695",
+    "runtime": "2:02",
+    "name": "Трамвай «Желание»"
+  },
+  "0115885": {
+    "movieid": "0115885",
+    "director": "Greg Spence",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:25",
+    "name": "Дети кукурузы 4: Сбор урожая"
+  },
+  "0102336": {
+    "movieid": "0102336",
+    "director": "Erik Burke",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:24",
+    "name": "Loser"
+  },
+  "0117040": {
+    "movieid": "0117040",
+    "director": "Claude NuridsanyMarie Pérennou",
+    "budget": "HF",
+    "gross": "1,433,210",
+    "runtime": "1:20",
+    "name": "Микрокосмос"
+  },
+  "0117284": {
+    "movieid": "0117284",
+    "director": "Alan Taylor",
+    "budget": "N/A",
+    "gross": "365,284",
+    "runtime": "1:32",
+    "name": "Город хулиганов"
+  },
+  "0116378": {
+    "movieid": "0116378",
+    "director": "Abel Ferrara",
+    "budget": "12,500,000",
+    "gross": "1,227,553",
+    "runtime": "1:39",
+    "name": "Похороны"
+  },
+  "0113057": {
+    "movieid": "0113057",
+    "director": "Benoît Jacquot",
+    "budget": "N/A",
+    "gross": "230,049",
+    "runtime": "1:30",
+    "name": "Одинокая девушка"
+  },
+  "0116581": {
+    "movieid": "0116581",
+    "director": "Jaco Van Dormael",
+    "budget": "RF",
+    "gross": "33,031,984",
+    "runtime": "1:58",
+    "name": "День восьмой"
+  },
+  "0112907": {
+    "movieid": "0112907",
+    "director": "Peter Cohn",
+    "budget": "N/A",
+    "gross": "38,268",
+    "runtime": "1:30",
+    "name": "Алкаши"
+  },
+  "0117318": {
+    "movieid": "0117318",
+    "director": "Milos Forman",
+    "budget": "36,000,000",
+    "gross": "20,300,385",
+    "runtime": "2:10",
+    "name": "Народ против Ларри Флинта"
+  },
+  "0116422": {
+    "movieid": "0116422",
+    "director": "Rich Wilkes",
+    "budget": "N/A",
+    "gross": "15,134",
+    "runtime": "1:40",
+    "name": "Блеск славы"
+  },
+  "0117320": {
+    "movieid": "0117320",
+    "director": "R.J. CutlerDavid Van Taylor",
+    "budget": "N/A",
+    "gross": "134,485",
+    "runtime": "1:45",
+    "name": "A Perfect Candidate"
+  },
+  "0082846": {
+    "movieid": "0082846",
+    "director": "Mark Rydell",
+    "budget": "7,500,000",
+    "gross": "119,285,810",
+    "runtime": "1:49",
+    "name": "On Golden Pond"
+  },
+  "0072081": {
+    "movieid": "0072081",
+    "director": "Blake Edwards",
+    "budget": "5,000,000",
+    "gross": "41,833,423",
+    "runtime": "1:53",
+    "name": "Возвращение Розовой пантеры"
+  },
+  "0101775": {
+    "movieid": "0101775",
+    "director": "Ate de Jong",
+    "budget": "6,788,000",
+    "gross": "13,884,358",
+    "runtime": "1:43",
+    "name": "Drop Dead Fred"
+  },
+  "0096754": {
+    "movieid": "0096754",
+    "director": "James Cameron",
+    "budget": "70,000,000",
+    "gross": "90,520,202",
+    "runtime": "2:20",
+    "name": "The Abyss"
+  },
+  "0080749": {
+    "movieid": "0080749",
+    "director": "John Carpenter",
+    "budget": "1,100,000",
+    "gross": "21,448,830",
+    "runtime": "1:29",
+    "name": "The Fog"
+  },
+  "0082340": {
+    "movieid": "0082340",
+    "director": "John Carpenter",
+    "budget": "6,000,000",
+    "gross": "25,276,664",
+    "runtime": "1:39",
+    "name": "Побег из Нью-Йорка"
+  },
+  "0082533": {
+    "movieid": "0082533",
+    "director": "Joe Dante",
+    "budget": "1,000,000",
+    "gross": "17,985,893",
+    "runtime": "1:31",
+    "name": "Вой"
+  },
+  "0091288": {
+    "movieid": "0091288",
+    "director": "Claude Berri",
+    "budget": "N/A",
+    "gross": "4,940,939",
+    "runtime": "2:00",
+    "name": "Жан де Флоретт"
+  },
+  "0091480": {
+    "movieid": "0091480",
+    "director": "Claude Berri",
+    "budget": "N/A",
+    "gross": "3,940,542",
+    "runtime": "1:53",
+    "name": "Манон с источника"
+  },
+  "0081375": {
+    "movieid": "0081375",
+    "director": "Howard Zieff",
+    "budget": "9,500,000",
+    "gross": "69,847,348",
+    "runtime": "1:49",
+    "name": "Рядовой Бенджамин"
+  },
+  "0071853": {
+    "movieid": "0071853",
+    "director": "Terry GilliamTerry Jones",
+    "budget": "229,575",
+    "gross": "2,931,902",
+    "runtime": "1:31",
+    "name": "Монти Пайтон и священный Грааль"
+  },
+  "0116587": {
+    "movieid": "0116587",
+    "director": "Rick CastroBruce LaBruce",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:19",
+    "name": "Белый хастлер"
+  },
+  "0116212": {
+    "movieid": "0116212",
+    "director": "Michael Ray Rhodes",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:50",
+    "name": "Entertaining Angels: The Dorothy Day Story"
+  },
+  "0116886": {
+    "movieid": "0116886",
+    "director": "Susan Warms Dryfoos",
+    "budget": "N/A",
+    "gross": "50,605",
+    "runtime": "1:26",
+    "name": "The Line King: The Al Hirschfeld Story"
+  },
+  "0118147": {
+    "movieid": "0118147",
+    "director": "Leon Gast",
+    "budget": "N/A",
+    "gross": "2,789,985",
+    "runtime": "1:28",
+    "name": "Когда мы были королями"
+  },
+  "0108598": {
+    "movieid": "0108598",
+    "director": "Nick Park",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "0:30",
+    "name": "Уоллес и Громит: Неправильные штаны"
+  },
+  "0084589": {
+    "movieid": "0084589",
+    "director": "Daniel Vigne",
+    "budget": "N/A",
+    "gross": "3,723,036",
+    "runtime": "1:52",
+    "name": "Le retour de Martin Guerre"
+  },
+  "0109781": {
+    "movieid": "0109781",
+    "director": "Jan Svankmajer",
+    "budget": "N/A",
+    "gross": "2,117,923",
+    "runtime": "1:37",
+    "name": "Урок Фауста"
+  },
+  "0034493": {
+    "movieid": "0034493",
+    "director": "Vittorio De Sica",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:24",
+    "name": "I bambini ci guardano"
+  },
+  "0078875": {
+    "movieid": "0078875",
+    "director": "Volker Schlöndorff",
+    "budget": "N/A",
+    "gross": "7,469",
+    "runtime": "2:22",
+    "name": "Die Blechtrommel"
+  },
+  "0069198": {
+    "movieid": "0069198",
+    "director": "Peter Medak",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "2:34",
+    "name": "The Ruling Class"
+  },
+  "0110521": {
+    "movieid": "0110521",
+    "director": "Martine Dugowson",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "2:08",
+    "name": "Мина Танненбаум"
+  },
+  "0116059": {
+    "movieid": "0116059",
+    "director": "Garry Marshall",
+    "budget": "22,000,000",
+    "gross": "7,138,523",
+    "runtime": "1:52",
+    "name": "Дорогой Боженька"
+  },
+  "0112483": {
+    "movieid": "0112483",
+    "director": "Phillip Rhee",
+    "budget": "N/A",
+    "gross": "N/A",
+    "runtime": "1:30",
+    "name": "Лучшие из лучших 3"
+  },
+  "0103850": {
+    "movieid": "0103850",
+    "director": "Tim Robbins",
+    "budget": "3,900,000",
+    "gross": "4,479,470",
+    "runtime": "1:42",
+    "name": "Боб Робертс"
+  },
+  "0095765": {
+    "movieid": "0095765",
+    "director": "Giuseppe Tornatore",
+    "budget": "5,000,000",
+    "gross": "13,396,557",
+    "runtime": "2:54",
+    "name": "Новый кинотеатр «Парадизо»"
+  },
+  "0097108": {
+    "movieid": "0097108",
+    "director": "Peter Greenaway",
+    "budget": "N/A",
+    "gross": "8,527,316",
+    "runtime": "2:04",
+    "name": "Повар, вор, его жена и её любовник"
+  },
+  "0101700": {
+    "movieid": "0101700",
+    "director": "Marc CaroJean-Pierre Jeunet",
+    "budget": "RF",
+    "gross": "1,804,142",
+    "runtime": "1:39",
+    "name": "Деликатесы"
+  },
+  "0101765": {
+    "movieid": "0101765",
+    "director": "Krzysztof Kieslowski",
+    "budget": "N/A",
+    "gross": "2,175,939",
+    "runtime": "1:38",
+    "name": "Двойная жизнь Вероники"
+  },
+  "0101811": {
+    "movieid": "0101811",
+    "director": "Mike Newell",
+    "budget": "N/A",
+    "gross": "13,200,170",
+    "runtime": "1:35",
+    "name": "Enchanted April"
+  },
+  "0050825": {
+    "movieid": "0050825",
+    "director": "Stanley Kubrick",
+    "budget": "935,000",
+    "gross": "8,290",
+    "runtime": "1:28",
+    "name": "Тропы славы"
+  },
+  "0099703": {
+    "movieid": "0099703",
+    "director": "Stephen Frears",
+    "budget": "N/A",
+    "gross": "13,446,769",
+    "runtime": "1:50",
+    "name": "The Grifters"
+  },
+  "0102014": {
+    "movieid": "0102014",
+    "director": "Peter Chelsom",
+    "budget": "N/A",
+    "gross": "4,313,473",
+    "runtime": "1:53",
+    "name": "Услышь мою песню"
+  },
+  "0116209": {
+    "movieid": "0116209",
+    "director": "Anthony Minghella",
+    "budget": "27,000,000",
+    "gross": "231,976,425",
+    "runtime": "2:42",
+    "name": "Английский пациент"
+  },
+  "0102426": {
+    "movieid": "0102426",
+    "director": "Gabriele Salvatores",
+    "budget": "N/A",
+    "gross": "4,532,791",
+    "runtime": "1:36",
+    "name": "Mediterraneo"
+  },
+  "0097937": {
+    "movieid": "0097937",
+    "director": "Jim Sheridan",
+    "budget": "600,000",
+    "gross": "14,743,391",
+    "runtime": "1:43",
+    "name": "Моя левая нога"
+  },
+  "0098724": {
+    "movieid": "0098724",
+    "director": "Steven Soderbergh",
+    "budget": "1,200,000",
+    "gross": "24,742,453",
+    "runtime": "1:40",
+    "name": "Секс, ложь и видео"
+  },
+  "0105107": {
+    "movieid": "0105107",
+    "director": "John Sayles",
+    "budget": "3,330,000",
+    "gross": "4,814,619",
+    "runtime": "2:15",
+    "name": "Рыба страсти"
+  },
+  "0105488": {
+    "movieid": "0105488",
+    "director": "Baz Luhrmann",
+    "budget": "$3,000,000",
+    "gross": "11,761,116",
+    "runtime": "1:34",
+    "name": "Танцы без правил"
+  },
+  "0096257": {
+    "movieid": "0096257",
+    "director": "Errol Morris",
+    "budget": "N/A",
+    "gross": "1,209,846",
+    "runtime": "1:41",
+    "name": "The Thin Blue Line"
+  },
+  "0101026": {
+    "movieid": "0101026",
+    "director": "Pedro Almodóvar",
+    "budget": "N/A",
+    "gross": "4,089,145",
+    "runtime": "1:41",
+    "name": "Átame!"
+  },
+  "0102370": {
+    "movieid": "0102370",
+    "director": "Alek Keshishian",
+    "budget": "4,500,000",
+    "gross": "29,012,935",
+    "runtime": "2:00",
+    "name": "Madonna: Truth or Dare"
+  },
+  "0100332": {
+    "movieid": "0100332",
+    "director": "Jennie Livingston",
+    "budget": "500,000",
+    "gross": "3,906,006",
+    "runtime": "1:18",
+    "name": "Париж горит"
+  },
+  "0073486": {
+    "movieid": "0073486",
+    "director": "Milos Forman",
+    "budget": "3,000,000",
+    "gross": "109,116,594",
+    "runtime": "2:13",
+    "name": "Пролетая над гнездом кукушки"
+  },
+  "0078446": {
+    "movieid": "0078446",
+    "director": "Lou AdlerTommy Chong",
+    "budget": "2,000,000",
+    "gross": "44,364,244",
+    "runtime": "1:26",
+    "name": "Укуренные"
+  },
+  "0080684": {
+    "movieid": "0080684",
+    "director": "Irvin Kershner",
+    "budget": "18,000,000",
+    "gross": "550,016,086",
+    "runtime": "2:04",
+    "name": "Звёздные войны. Эпизод 5: Империя наносит ответный удар"
+  },
+  "0093779": {
+    "movieid": "0093779",
+    "director": "Rob Reiner",
+    "budget": "16,000,000",
+    "gross": "30,983,864",
+    "runtime": "1:38",
+    "name": "Принцесса-невеста"
+  },
+  "0082971": {
+    "movieid": "0082971",
+    "director": "Steven Spielberg",
+    "budget": "18,000,000",
+    "gross": "389,925,971",
+    "runtime": "1:55",
+    "name": "Индиана Джонс: В поисках утраченного ковчега"
+  },
+  "0088846": {
+    "movieid": "0088846",
+    "director": "Terry Gilliam",
+    "budget": "15,000,000",
+    "gross": "9,952,602",
+    "runtime": "2:12",
+    "name": "Бразилия"
+  },
+  "0090605": {
+    "movieid": "0090605",
+    "director": "James Cameron",
+    "budget": "18,500,000",
+    "gross": "131,060,248",
+    "runtime": "2:17",
+    "name": "Чужой 2"
+  },
+  "0060196": {
+    "movieid": "0060196",
+    "director": "Sergio Leone",
+    "budget": "1,200,000",
+    "gross": "25,266,106",
+    "runtime": "2:41",
+    "name": "Хороший, плохой, злой"
+  },
+  "0094336": {
+    "movieid": "0094336",
+    "director": "Bruce Robinson",
+    "budget": "1,100,000",
+    "gross": "2,195,681",
+    "runtime": "1:47",
+    "name": "Уитнэйл и Я"
+  },
+  "0050083": {
+    "movieid": "0050083",
+    "director": "Sidney Lumet",
+    "budget": "350,000",
+    "gross": "2,945",
+    "runtime": "1:36",
+    "name": "12 рaзгневанных мужчин"
+  },
+  "0056172": {
+    "movieid": "0056172",
+    "director": "David Lean",
+    "budget": "15,000,000",
+    "gross": "45,874,235",
+    "runtime": "3:47",
+    "name": "Лоуренс Аравийский"
+  },
+  "0066921": {
+    "movieid": "0066921",
+    "director": "Stanley Kubrick",
+    "budget": "2,200,000",
+    "gross": "27,034,174",
+    "runtime": "2:16",
+    "name": "Заводной апельсин"
+  },
+  "0056592": {
+    "movieid": "0056592",
+    "director": "Robert Mulligan",
+    "budget": "2,000,000",
+    "gross": "602,810",
+    "runtime": "2:09",
+    "name": "Убить пересмешника"
+  },
+  "0078788": {
+    "movieid": "0078788",
+    "director": "Francis Ford Coppola",
+    "budget": "31,500,000",
+    "gross": "105,150,841",
+    "runtime": "2:27",
+    "name": "Апокалипсис сегодня"
+  },
+  "0064116": {
+    "movieid": "0064116",
+    "director": "Sergio Leone",
+    "budget": "5,000,000",
+    "gross": "5,435,312",
+    "runtime": "2:46",
+    "name": "Однажды на Диком Западе"
+  },
+  "0086190": {
+    "movieid": "0086190",
+    "director": "Richard Marquand",
+    "budget": "32,500,000",
+    "gross": "482,466,382",
+    "runtime": "2:11",
+    "name": "Звёздные войны. Эпизод 6: Возвращение джедая"
+  },
+  "0093191": {
+    "movieid": "0093191",
+    "director": "Wim Wenders",
+    "budget": "N/A",
+    "gross": "3,518,525",
+    "runtime": "2:08",
+    "name": "Небо над Берлином"
+  },
+  "0041959": {
+    "movieid": "0041959",
+    "director": "Carol Reed",
+    "budget": "N/A",
+    "gross": "1,421,864",
+    "runtime": "1:44",
+    "name": "Третий человек"
+  },
+  "0099685": {
+    "movieid": "0099685",
+    "director": "Martin Scorsese",
+    "budget": "25,000,000",
+    "gross": "47,068,004",
+    "runtime": "2:25",
+    "name": "Славные парни"
+  },
+  "0078748": {
+    "movieid": "0078748",
+    "director": "Ridley Scott",
+    "budget": "11,000,000",
+    "gross": "109,102,567",
+    "runtime": "1:57",
+    "name": "Чужой"
+  },
+  "0106308": {
+    "movieid": "0106308",
+    "director": "Sam Raimi",
+    "budget": "11,000,000",
+    "gross": "11,520,654",
+    "runtime": "1:21",
+    "name": "Зловещие мертвецы 3: Армия тьмы"
+  },
+  "0095250": {
+    "movieid": "0095250",
+    "director": "Luc Besson",
+    "budget": "RF",
+    "gross": "3,992,246",
+    "runtime": "2:48",
+    "name": "Голубая бездна"
+  },
+  "0089881": {
+    "movieid": "0089881",
+    "director": "Akira Kurosawa",
+    "budget": "11,500,000",
+    "gross": "4,384,009",
+    "runtime": "2:40",
+    "name": "Ран"
+  },
+  "0097202": {
+    "movieid": "0097202",
+    "director": "John Woo",
+    "budget": "N/A",
+    "gross": "2,340,425",
+    "runtime": "1:51",
+    "name": "Наёмный убийца"
+  },
+  "0054215": {
+    "movieid": "0054215",
+    "director": "Alfred Hitchcock",
+    "budget": "806,947",
+    "gross": "32,253,563",
+    "runtime": "1:49",
+    "name": "Психо"
+  },
+  "0080455": {
+    "movieid": "0080455",
+    "director": "John Landis",
+    "budget": "27,500,000",
+    "gross": "115,229,890",
+    "runtime": "2:13",
+    "name": "Братья Блюз"
+  },
+  "0071562": {
+    "movieid": "0071562",
+    "director": "Francis Ford Coppola",
+    "budget": "13,000,000",
+    "gross": "47,983,687",
+    "runtime": "3:22",
+    "name": "Крёстный отец 2"
+  },
+  "0093058": {
+    "movieid": "0093058",
+    "director": "Stanley Kubrick",
+    "budget": "30,000,000",
+    "gross": "50,193,748",
+    "runtime": "1:56",
+    "name": "Цельнометаллическая оболочка"
+  },
+  "0104361": {
+    "movieid": "0104361",
+    "director": "Nick Park",
+    "budget": "N/A",
+    "gross": "80,758",
+    "runtime": "0:23",
+    "name": "Уоллес и Громит: Великий выходной"
+  },
+  "0097499": {
+    "movieid": "0097499",
+    "director": "Kenneth Branagh",
+    "budget": "9,000,000",
+    "gross": "10,161,211",
+    "runtime": "2:17",
+    "name": "Генрих V: Битва при Азенкуре"
+  },
+  "0086879": {
+    "movieid": "0086879",
+    "director": "Milos Forman",
+    "budget": "18,000,000",
+    "gross": "52,205,710",
+    "runtime": "2:40",
+    "name": "Амадей"
+  },
+  "0045061": {
+    "movieid": "0045061",
+    "director": "John Ford",
+    "budget": "1,750,000",
+    "gross": "N/A",
+    "runtime": "2:09",
+    "name": "Тихий человек"
+  },
+  "0087843": {
+    "movieid": "0087843",
+    "director": "Sergio Leone",
+    "budget": "30,000,000",
+    "gross": "5,476,126",
+    "runtime": "3:49",
+    "name": "Однажды в Америке"
+  },
+  "0081398": {
+    "movieid": "0081398",
+    "director": "Martin Scorsese",
+    "budget": "18,000,000",
+    "gross": "23,406,017",
+    "runtime": "2:09",
+    "name": "Бешеный бык"
+  },
+  "0075686": {
+    "movieid": "0075686",
+    "director": "Woody Allen",
+    "budget": "4,000,000",
+    "gross": "38,289,445",
+    "runtime": "1:33",
+    "name": "Annie Hall"
+  },
+  "0086197": {
+    "movieid": "0086197",
+    "director": "Philip Kaufman",
+    "budget": "27,000,000",
+    "gross": "21,192,315",
+    "runtime": "3:13",
+    "name": "Парни что надо"
+  },
+  "0079944": {
+    "movieid": "0079944",
+    "director": "Andrei Tarkovsky",
+    "budget": "UR",
+    "gross": "454,258",
+    "runtime": "2:42",
+    "name": "Сталкер"
+  },
+  "0082096": {
+    "movieid": "0082096",
+    "director": "Wolfgang Petersen",
+    "budget": "EM",
+    "gross": "11,489,051",
+    "runtime": "2:29",
+    "name": "Подводная лодка"
+  },
+  "0070735": {
+    "movieid": "0070735",
+    "director": "George Roy Hill",
+    "budget": "5,500,000",
+    "gross": "156,000,000",
+    "runtime": "2:09",
+    "name": "Афера"
+  },
+  "0067185": {
+    "movieid": "0067185",
+    "director": "Hal Ashby",
+    "budget": "1,200,000",
+    "gross": "4,535",
+    "runtime": "1:31",
+    "name": "Гарольд и Мод"
+  },
+  "0103130": {
+    "movieid": "0103130",
+    "director": "Hal Hartley",
+    "budget": "700,000",
+    "gross": "357,400",
+    "runtime": "1:47",
+    "name": "Доверься"
+  },
+  "0050976": {
+    "movieid": "0050976",
+    "director": "Ingmar Bergman",
+    "budget": "150,000",
+    "gross": "312,104",
+    "runtime": "1:36",
+    "name": "Седьмая печать"
+  },
+  "0085859": {
+    "movieid": "0085859",
+    "director": "Bill Forsyth",
+    "budget": "3,000,000",
+    "gross": "6,007,043",
+    "runtime": "1:51",
+    "name": "Местный герой"
+  },
+  "0088247": {
+    "movieid": "0088247",
+    "director": "James Cameron",
+    "budget": "6,400,000",
+    "gross": "78,371,200",
+    "runtime": "1:47",
+    "name": "Терминатор"
+  },
+  "0103873": {
+    "movieid": "0103873",
+    "director": "Peter Jackson",
+    "budget": "3,000,000",
+    "gross": "242,623",
+    "runtime": "1:44",
+    "name": "Живая мертвечина"
+  },
+  "0097441": {
+    "movieid": "0097441",
+    "director": "Edward Zwick",
+    "budget": "18,000,000",
+    "gross": "26,979,166",
+    "runtime": "2:02",
+    "name": "Доблесть"
+  },
+  "0100519": {
+    "movieid": "0100519",
+    "director": "Tom Stoppard",
+    "budget": "N/A",
+    "gross": "739,104",
+    "runtime": "1:57",
+    "name": "Розенкранц и Гильденстерн мертвы"
+  },
+  "0079522": {
+    "movieid": "0079522",
+    "director": "Woody Allen",
+    "budget": "9,000,000",
+    "gross": "40,194,067",
+    "runtime": "1:36",
+    "name": "Манхэттен"
+  },
+  "0100150": {
+    "movieid": "0100150",
+    "director": "Joel CoenEthan Coen",
+    "budget": "14,000,000",
+    "gross": "5,080,409",
+    "runtime": "1:55",
+    "name": "Перекресток Миллера"
+  },
+  "0097165": {
+    "movieid": "0097165",
+    "director": "Peter Weir",
+    "budget": "16,400,000",
+    "gross": "235,860,116",
+    "runtime": "2:08",
+    "name": "Общество мёртвых поэтов"
+  },
+  "0061722": {
+    "movieid": "0061722",
+    "director": "Mike Nichols",
+    "budget": "3,000,000",
+    "gross": "105,018,402",
+    "runtime": "1:46",
+    "name": "The Graduate"
+  },
+  "0052311": {
+    "movieid": "0052311",
+    "director": "Orson Welles",
+    "budget": "829,000",
+    "gross": "2,285,063",
+    "runtime": "1:35",
+    "name": "Печать зла"
+  },
+  "0100263": {
+    "movieid": "0100263",
+    "director": "Luc Besson",
+    "budget": "RF",
+    "gross": "5,018,604",
+    "runtime": "1:57",
+    "name": "Её звали Никита"
+  },
+  "0050212": {
+    "movieid": "0050212",
+    "director": "David Lean",
+    "budget": "3,000,000",
+    "gross": "27,201,366",
+    "runtime": "2:41",
+    "name": "Мост через реку Квай"
+  },
+  "0056801": {
+    "movieid": "0056801",
+    "director": "Federico Fellini",
+    "budget": "N/A",
+    "gross": "347,423",
+    "runtime": "2:18",
+    "name": "Восемь с половиной"
+  },
+  "0071315": {
+    "movieid": "0071315",
+    "director": "Roman Polanski",
+    "budget": "6,000,000",
+    "gross": "29,232,347",
+    "runtime": "2:10",
+    "name": "Китайский квартал"
+  },
+  "0043456": {
+    "movieid": "0043456",
+    "director": "Robert Wise",
+    "budget": "1,200,000",
+    "gross": "651",
+    "runtime": "1:32",
+    "name": "День, когда остановилась Земля"
+  },
+  "0040897": {
+    "movieid": "0040897",
+    "director": "John Huston",
+    "budget": "3,000,000",
+    "gross": "5,014,000",
+    "runtime": "2:06",
+    "name": "Сокровища Сьерра Мадре"
+  },
+  "0092610": {
+    "movieid": "0092610",
+    "director": "Peter Jackson",
+    "budget": "Z$200,000",
+    "gross": "N/A",
+    "runtime": "1:31",
+    "name": "Плохой вкус"
+  },
+  "0023969": {
+    "movieid": "0023969",
+    "director": "Leo McCarey",
+    "budget": "N/A",
+    "gross": "106,318",
+    "runtime": "1:09",
+    "name": "Duck Soup"
+  },
+  "0088794": {
+    "movieid": "0088794",
+    "director": "Savage Steve Holland",
+    "budget": "N/A",
+    "gross": "10,297,601",
+    "runtime": "1:37",
+    "name": "Уж лучше умереть"
+  },
+  "0081505": {
+    "movieid": "0081505",
+    "director": "Stanley Kubrick",
+    "budget": "19,000,000",
+    "gross": "47,969,816",
+    "runtime": "2:26",
+    "name": "Сияние"
+  },
+  "0092005": {
+    "movieid": "0092005",
+    "director": "Rob Reiner",
+    "budget": "8,000,000",
+    "gross": "53,525,035",
+    "runtime": "1:29",
+    "name": "Останься со мной"
+  },
+  "0022100": {
+    "movieid": "0022100",
+    "director": "Fritz Lang",
+    "budget": "N/A",
+    "gross": "35,566",
+    "runtime": "1:57",
+    "name": "М убийца"
+  },
+  "0092991": {
+    "movieid": "0092991",
+    "director": "Sam Raimi",
+    "budget": "3,600,000",
+    "gross": "5,932,279",
+    "runtime": "1:24",
+    "name": "Зловещие мертвецы 2"
+  },
+  "0057115": {
+    "movieid": "0057115",
+    "director": "John Sturges",
+    "budget": "4,000,000",
+    "gross": "230,637",
+    "runtime": "2:52",
+    "name": "Большой побег"
+  },
+  "0077416": {
+    "movieid": "0077416",
+    "director": "Michael Cimino",
+    "budget": "15,000,000",
+    "gross": "49,080,312",
+    "runtime": "3:03",
+    "name": "Охотник на оленей"
+  },
+  "0082269": {
+    "movieid": "0082269",
+    "director": "Jean-Jacques Beineix",
+    "budget": "N/A",
+    "gross": "183,425",
+    "runtime": "1:57",
+    "name": "Дива"
+  },
+  "0107048": {
+    "movieid": "0107048",
+    "director": "Harold Ramis",
+    "budget": "14,600,000",
+    "gross": "71,108,778",
+    "runtime": "1:41",
+    "name": "День сурка"
+  },
+  "0105695": {
+    "movieid": "0105695",
+    "director": "Clint Eastwood",
+    "budget": "14,400,000",
+    "gross": "159,167,799",
+    "runtime": "2:10",
+    "name": "Непрощенный"
+  },
+  "0056218": {
+    "movieid": "0056218",
+    "director": "John Frankenheimer",
+    "budget": "2,200,000",
+    "gross": "2,757,256",
+    "runtime": "2:06",
+    "name": "Маньчжурский кандидат"
+  },
+  "0100436": {
+    "movieid": "0100436",
+    "director": "Allan Moyle",
+    "budget": "N/A",
+    "gross": "11,541,758",
+    "runtime": "1:42",
+    "name": "Прибавьте громкость"
+  },
+  "0036613": {
+    "movieid": "0036613",
+    "director": "Frank Capra",
+    "budget": "1,164,000",
+    "gross": "N/A",
+    "runtime": "1:58",
+    "name": "Мышьяк и старые кружева"
+  },
+  "0088763": {
+    "movieid": "0088763",
+    "director": "Robert Zemeckis",
+    "budget": "19,000,000",
+    "gross": "385,053,307",
+    "runtime": "1:56",
+    "name": "Назад в будущее"
+  },
+  "0101921": {
+    "movieid": "0101921",
+    "director": "Jon Avnet",
+    "budget": "11,000,000",
+    "gross": "119,418,501",
+    "runtime": "2:10",
+    "name": "Жареные зеленые помидоры"
+  },
+  "0066206": {
+    "movieid": "0066206",
+    "director": "Franklin J. Schaffner",
+    "budget": "12,000,000",
+    "gross": "61,749,765",
+    "runtime": "2:52",
+    "name": "Паттон"
+  },
+  "0090967": {
+    "movieid": "0090967",
+    "director": "Jim Jarmusch",
+    "budget": "1,100,000",
+    "gross": "1,529,206",
+    "runtime": "1:47",
+    "name": "Вне закона"
+  },
+  "0094625": {
+    "movieid": "0094625",
+    "director": "Katsuhiro Ôtomo",
+    "budget": "1,100,000,000",
+    "gross": "3,214,461",
+    "runtime": "2:04",
+    "name": "Акира"
+  },
+  "0091203": {
+    "movieid": "0091203",
+    "director": "Russell Mulcahy",
+    "budget": "16,000,000",
+    "gross": "5,902,508",
+    "runtime": "1:56",
+    "name": "Горец"
+  },
+  "0061512": {
+    "movieid": "0061512",
+    "director": "Stuart Rosenberg",
+    "budget": "3,200,000",
+    "gross": "1,887",
+    "runtime": "2:07",
+    "name": "Хладнокровный Люк"
+  },
+  "0099334": {
+    "movieid": "0099334",
+    "director": "Jean-Paul Rappeneau",
+    "budget": "RF",
+    "gross": "5,822,041",
+    "runtime": "2:17",
+    "name": "Сирано де Бержерак"
+  },
+  "0072431": {
+    "movieid": "0072431",
+    "director": "Mel Brooks",
+    "budget": "2,800,000",
+    "gross": "86,278,631",
+    "runtime": "1:46",
+    "name": "Молодой Франкенштейн"
+  },
+  "0102536": {
+    "movieid": "0102536",
+    "director": "Jim Jarmusch",
+    "budget": "3,500,000",
+    "gross": "2,113,387",
+    "runtime": "2:09",
+    "name": "Ночь на Земле"
+  },
+  "0101640": {
+    "movieid": "0101640",
+    "director": "Yimou Zhang",
+    "budget": "N/A",
+    "gross": "2,603,061",
+    "runtime": "2:05",
+    "name": "Подними красный фонарь"
+  },
+  "0032553": {
+    "movieid": "0032553",
+    "director": "Charles Chaplin",
+    "budget": "2,000,000",
+    "gross": "972,212",
+    "runtime": "2:05",
+    "name": "Великий диктатор"
+  },
+  "0032455": {
+    "movieid": "0032455",
+    "director": "N/A",
+    "budget": "2,280,000",
+    "gross": "76,414,517",
+    "runtime": "2:04",
+    "name": "Фантазия"
+  },
+  "0044706": {
+    "movieid": "0044706",
+    "director": "Fred Zinnemann",
+    "budget": "730,000",
+    "gross": "217",
+    "runtime": "1:25",
+    "name": "Ровно в полдень"
+  },
+  "0038355": {
+    "movieid": "0038355",
+    "director": "Howard Hawks",
+    "budget": "250,000",
+    "gross": "51,050",
+    "runtime": "1:54",
+    "name": "Глубокий сон"
+  },
+  "0097493": {
+    "movieid": "0097493",
+    "director": "Michael Lehmann",
+    "budget": "3,000,000",
+    "gross": "1,168,250",
+    "runtime": "1:43",
+    "name": "Смертельное влечение"
+  },
+  "0081534": {
+    "movieid": "0081534",
+    "director": "Jeannot Szwarc",
+    "budget": "5,100,000",
+    "gross": "9,709,597",
+    "runtime": "1:43",
+    "name": "Где-то во времени"
+  },
+  "0052618": {
+    "movieid": "0052618",
+    "director": "William Wyler",
+    "budget": "15,000,000",
+    "gross": "74,439,376",
+    "runtime": "3:32",
+    "name": "Бен-Гур"
+  },
+  "0088258": {
+    "movieid": "0088258",
+    "director": "Rob Reiner",
+    "budget": "2,500,000",
+    "gross": "5,809,128",
+    "runtime": "1:22",
+    "name": "Это - Spinal Tap"
+  },
+  "0085809": {
+    "movieid": "0085809",
+    "director": "Godfrey Reggio",
+    "budget": "N/A",
+    "gross": "1,728,699",
+    "runtime": "1:26",
+    "name": "Кояанискатси"
+  },
+  "0094006": {
+    "movieid": "0094006",
+    "director": "Howard Deutch",
+    "budget": "N/A",
+    "gross": "18,553,948",
+    "runtime": "1:35",
+    "name": "Чудеса своего рода"
+  },
+  "0097576": {
+    "movieid": "0097576",
+    "director": "Steven Spielberg",
+    "budget": "48,000,000",
+    "gross": "474,171,806",
+    "runtime": "2:07",
+    "name": "Индиана Джонс и последний крестовый поход"
+  },
+  "0078841": {
+    "movieid": "0078841",
+    "director": "Hal Ashby",
+    "budget": "N/A",
+    "gross": "30,179,435",
+    "runtime": "2:10",
+    "name": "Будучи там"
+  },
+  "0083987": {
+    "movieid": "0083987",
+    "director": "Richard Attenborough",
+    "budget": "22,000,000",
+    "gross": "52,768,419",
+    "runtime": "3:11",
+    "name": "Ганди"
+  },
+  "0096332": {
+    "movieid": "0096332",
+    "director": "Philip Kaufman",
+    "budget": "17,000,000",
+    "gross": "10,006,806",
+    "runtime": "2:51",
+    "name": "Невыносимая лёгкость бытия"
+  },
+  "0091867": {
+    "movieid": "0091867",
+    "director": "James Ivory",
+    "budget": "3,000,000",
+    "gross": "21,065,687",
+    "runtime": "1:57",
+    "name": "Комната с видом"
+  },
+  "0089886": {
+    "movieid": "0089886",
+    "director": "Martha Coolidge",
+    "budget": "8,000,000",
+    "gross": "12,952,019",
+    "runtime": "1:48",
+    "name": "Настоящие гении"
+  },
+  "0084503": {
+    "movieid": "0084503",
+    "director": "Alan Parker",
+    "budget": "12,000,000",
+    "gross": "22,274,148",
+    "runtime": "1:35",
+    "name": "Пинк Флойд: Стена"
+  },
+  "0087553": {
+    "movieid": "0087553",
+    "director": "Roland Joffé",
+    "budget": "14,400,000",
+    "gross": "34,700,291",
+    "runtime": "2:21",
+    "name": "Поля смерти"
+  },
+  "0089606": {
+    "movieid": "0089606",
+    "director": "Lasse Hallström",
+    "budget": "N/A",
+    "gross": "8,349,284",
+    "runtime": "1:41",
+    "name": "Моя собачья жизнь"
+  },
+  "0049223": {
+    "movieid": "0049223",
+    "director": "Fred M. Wilcox",
+    "budget": "1,900,000",
+    "gross": "900",
+    "runtime": "1:38",
+    "name": "Запретная планета"
+  }
+}
